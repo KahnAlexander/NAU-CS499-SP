@@ -1,0 +1,22 @@
+{
+   "destination_addresses" : [ "1940 E Butler Ave, Flagstaff, AZ 86004, USA" ],
+   "origin_addresses" : [ "S San Francisco St, Flagstaff, AZ 86011, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6852
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 380
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

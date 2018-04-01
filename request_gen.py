@@ -15,8 +15,41 @@ if __name__ == "__main__":
 	base_url = 'https://maps.googleapis.com/maps/api/distancematrix/json?'
 
 	# Google Distance Matrix domain-specific terms: origins and destinations
-	origins = ['Northern Arizona University']
-	destinations = ['McDonald\'s Northern Arizona University']
+	origins = []
+	destinations = []
+
+        # grocery = high quality food
+        # sitdown = medium quality
+        # fast food = low quality
+        # city included to append to each 
+	schoolDict = {
+          'communityCollege': {
+                                'Coconino Community College': 'Flagstaff, AZ',
+                                ...
+                              },
+          'stateUniversity': {
+                                'Northern Arizona University': 'Flagstaff, AZ',
+                                'Arizona State University': 'Tempe, AZ',
+                                'University of Arizona': 'Tucson, AZ',
+                                ...
+                              },
+          'privateUniversity': {
+                                'Grand Canyon University': '',
+                                ...
+                              },
+          'ivyLeague': {
+                                'Dartmouth': '',
+                                'Harvard': '',
+                                'Brown': '',
+                                ...
+                              },
+          
+                     }
+	foodDict = {
+                     'grocery': ['Bashas\'', 'Safeway'],
+                     'fastfood': ['Wendy\'s', 'McDonald\'s', 'Burger King'],
+                     'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden']
+                    }
 
 	# Prepare the request details for the assembly into a request URL
 	payload = {
