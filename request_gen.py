@@ -24,7 +24,7 @@ if __name__ == "__main__":
         # city included to append to each 
 	schoolDict = {
           'communityCollege': {
-                                'Coconino Community College': 'Flagstaff, AZ',
+                                'Coconino Community College': 'Flagstaff, AZ', 'Pima Community College': 'Tucson, AZ'
                                 ...
                               },
           'stateUniversity': {
@@ -34,13 +34,14 @@ if __name__ == "__main__":
                                 ...
                               },
           'privateUniversity': {
-                                'Grand Canyon University': '',
+                                'Grand Canyon University': 'Embry Riddle Aeronautical University',
                                 ...
                               },
           'ivyLeague': {
                                 'Dartmouth': '',
                                 'Harvard': '',
                                 'Brown': '',
+                                'Yale': '',
                                 ...
                               },
           
