@@ -26,7 +26,11 @@ if __name__ == "__main__":
           'communityCollege': {
                                 'Coconino Community College': 'Flagstaff, AZ',
                                 'Pima Community College': 'Tucson, AZ',
-                                ...
+                                'Mesa Community College': 'Mesa, AZ',
+                                'Glendale Community College': 'Glendale, AZ',
+                                'Paradise Valley Community College': 'Phoenix, AZ',
+                                'Rio Salado College': 'Tempe, AZ',
+                                'South Mountain Community College': 'Phoenix, AZ'
                               },
           'stateUniversity': {
                                 'Northern Arizona University': 'Flagstaff, AZ',
@@ -36,7 +40,9 @@ if __name__ == "__main__":
                                 'Texas Tech University': 'Lubbock, TX',
                                 'Texas A&M University': 'College Station, TX',
                                 'Univeristy of Houston': 'Houston, TX',
-                                ...
+                                'New York University': 'New York, NY',
+                                'University of California, Berkeley': 'Berkeley, CA',
+                                'Purdue University': 'West Lafayette, IN'
                               },
           'privateUniversity': {
                                 'Grand Canyon University': 'Phoenix, AZ',
@@ -44,7 +50,9 @@ if __name__ == "__main__":
                                 'Baylor University': 'Waco, TX',
                                 'Southern Methodist University': 'Dallas, TX',
                                 'Texas Christian University': 'Fort Worth, TX',
-                                ...
+                                'Massachusetts Institute of Technology': 'Cambridge, MA',
+                                'University of Notre Dame': 'Notre Dame, IN',
+                                'California Institute of Technology': 'Pasadena, CA'
                               },
           'ivyLeague': {
                                 'Dartmouth College': 'Hanover, NH',
