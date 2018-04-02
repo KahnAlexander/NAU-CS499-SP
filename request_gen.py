@@ -32,12 +32,17 @@ if __name__ == "__main__":
                                 'Northern Arizona University': 'Flagstaff, AZ',
                                 'Arizona State University': 'Tempe, AZ',
                                 'University of Arizona': 'Tucson, AZ',
+                                'University of Texas at Austin': 'Austin, TX',
+                                'Texas Tech University': 'Lubbock, TX',
+                                'Texas A&M University': 'College Station, TX',
                                 ...
                               },
           'privateUniversity': {
                                 'Grand Canyon University': 'Phoenix, AZ',
                                 'Embry Riddle Aeronautical University': 'Prescott, AZ',
                                 'Baylor University': 'Waco, TX',
+                                'Southern Methodist University': 'Dallas, TX',
+                                'Texas Christian University': 'Fort Worth, TX',
                                 ...
                               },
           'ivyLeague': {
