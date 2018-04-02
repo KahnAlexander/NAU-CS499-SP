@@ -35,16 +35,20 @@ if __name__ == "__main__":
                                 ...
                               },
           'privateUniversity': {
-                                'Grand Canyon University': '',
-                                'Embry Riddle Aeronautical University': '',
+                                'Grand Canyon University': 'Phoenix, AZ',
+                                'Embry Riddle Aeronautical University': 'Prescott, AZ',
+                                'Baylor University': 'Waco, TX',
                                 ...
                               },
           'ivyLeague': {
-                                'Dartmouth': '',
-                                'Harvard': '',
-                                'Brown': '',
-                                'Yale': '',
-                                ...
+                                'Dartmouth College': 'Hanover, NH',
+                                'Cornell University': 'Ithaca, NY',
+                                'Columbia University': 'New York City, NY',
+                                'Princeton University': 'Princeton, NJ',
+                                'University of Pennsylvania': 'Philadelphia, PA',
+                                'Harvard University': 'Cambridge, MA',
+                                'Brown University': 'Providence, RI',
+                                'Yale University': 'New Haven, CT'
                               },
           
                      }
