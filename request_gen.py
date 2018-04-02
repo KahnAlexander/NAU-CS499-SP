@@ -35,6 +35,7 @@ if __name__ == "__main__":
                                 'University of Texas at Austin': 'Austin, TX',
                                 'Texas Tech University': 'Lubbock, TX',
                                 'Texas A&M University': 'College Station, TX',
+                                'Univeristy of Houston': 'Houston, TX',
                                 ...
                               },
           'privateUniversity': {
