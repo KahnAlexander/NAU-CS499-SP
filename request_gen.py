@@ -68,9 +68,17 @@ if __name__ == "__main__":
                      }
 	foodDict = {
                      'grocery': ['Bashas\'', 'Safeway'],
-                     'fastfood': ['Wendy\'s', 'McDonald\'s', 'Burger King'],
+                     'fastfood': ['Wendy\'s', 'McDonald\'s', 'Burger King', 'Panda Express', 'Five Guys', 'Domino\'s', 'Pizza Hut', 'Taco Bell', 'Raising Cane\'s Chicken Fingers',
+                                  'Subway', 'Quiznos', 'Arby\'s', 'Little Caesars', 'Chick-fil-A', 'Jack In The Box', 'Carl\'s Jr.', 'Del Taco', 'Sonic Drive-In',
+                                  'Freddy\'s Frozen Custard & Steakburgers', 'Culver\'s', 'Whataburger', 'Dairy Queen', 'In-N-Out Burger', 'The Habit Burger Grill'],
                      'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden']
                     }
+
+        tempDests = foodDict['fastfood']
+        for elem in tempDests:
+            elem = elem + ' Flagstaff, AZ'
+	origins = ['Northern Arizona University']
+	destinations = tempDests
 
 	# Prepare the request details for the assembly into a request URL
 	payload = {
