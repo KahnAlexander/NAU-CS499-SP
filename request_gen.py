@@ -23,60 +23,53 @@ if __name__ == "__main__":
         # fast food = low quality
         # city included to append to each 
 	schoolDict = {
-          'communityCollege': {
-                                'Coconino Community College': 'Flagstaff, AZ',
-                                'Pima Community College': 'Tucson, AZ',
-                                'Mesa Community College': 'Mesa, AZ',
-                                'Glendale Community College': 'Glendale, AZ',
-                                'Paradise Valley Community College': 'Phoenix, AZ',
-                                'Rio Salado College': 'Tempe, AZ',
-                                'South Mountain Community College': 'Phoenix, AZ'
-                              },
-          'stateUniversity': {
-                                'Northern Arizona University': 'Flagstaff, AZ',
-                                'Arizona State University': 'Tempe, AZ',
-                                'University of Arizona': 'Tucson, AZ',
-                                'University of Texas at Austin': 'Austin, TX',
-                                'Texas Tech University': 'Lubbock, TX',
-                                'Texas A&M University': 'College Station, TX',
-                                'Univeristy of Houston': 'Houston, TX',
-                                'New York University': 'New York, NY',
-                                'University of California, Berkeley': 'Berkeley, CA',
-                                'Purdue University': 'West Lafayette, IN'
-                              },
-          'privateUniversity': {
-                                'Grand Canyon University': 'Phoenix, AZ',
-                                'Embry Riddle Aeronautical University': 'Prescott, AZ',
-                                'Baylor University': 'Waco, TX',
-                                'Southern Methodist University': 'Dallas, TX',
-                                'Texas Christian University': 'Fort Worth, TX',
-                                'Massachusetts Institute of Technology': 'Cambridge, MA',
-                                'University of Notre Dame': 'Notre Dame, IN',
-                                'California Institute of Technology': 'Pasadena, CA'
-                              },
-          'ivyLeague': {
-                                'Dartmouth College': 'Hanover, NH',
-                                'Cornell University': 'Ithaca, NY',
-                                'Columbia University': 'New York City, NY',
-                                'Princeton University': 'Princeton, NJ',
-                                'University of Pennsylvania': 'Philadelphia, PA',
-                                'Harvard University': 'Cambridge, MA',
-                                'Brown University': 'Providence, RI',
-                                'Yale University': 'New Haven, CT'
-                              },
-          
-                     }
+		'communityCollege': {
+			'Coconino Community College': 'Flagstaff, AZ',
+			'Pima Community College': 'Tucson, AZ',
+			'Mesa Community College': 'Mesa, AZ',
+			'Glendale Community College': 'Glendale, AZ',
+			'Paradise Valley Community College': 'Phoenix, AZ',
+			'Rio Salado College': 'Tempe, AZ', 
+			'South Mountain Community College': 'Phoenix, AZ' },
+          	'stateUniversity': {
+                        'Northern Arizona University': 'Flagstaff, AZ',
+                        'Arizona State University': 'Tempe, AZ',
+                        'University of Arizona': 'Tucson, AZ',
+                        'University of Texas at Austin': 'Austin, TX',
+                        'Texas Tech University': 'Lubbock, TX',
+                        'Texas A&M University': 'College Station, TX',
+                        'Univeristy of Houston': 'Houston, TX',
+                        'New York University': 'New York, NY',
+                        'University of California, Berkeley': 'Berkeley, CA',
+                        'Purdue University': 'West Lafayette, IN' },
+          	'privateUniversity': {
+                        'Grand Canyon University': 'Phoenix, AZ',
+                        'Embry Riddle Aeronautical University': 'Prescott, AZ',
+                        'Baylor University': 'Waco, TX',
+                        'Southern Methodist University': 'Dallas, TX',
+                        'Texas Christian University': 'Fort Worth, TX',
+                        'Massachusetts Institute of Technology': 'Cambridge, MA',
+                        'University of Notre Dame': 'Notre Dame, IN',
+                        'California Institute of Technology': 'Pasadena, CA' },
+          	'ivyLeague': {
+                        'Dartmouth College': 'Hanover, NH',
+                        'Cornell University': 'Ithaca, NY',
+                        'Columbia University': 'New York City, NY',
+                        'Princeton University': 'Princeton, NJ',
+                        'University of Pennsylvania': 'Philadelphia, PA',
+                        'Harvard University': 'Cambridge, MA',
+                        'Brown University': 'Providence, RI',
+                        'Yale University': 'New Haven, CT' } }
 	foodDict = {
-                     'grocery': ['Bashas\'', 'Safeway'],
-                     'fastfood': ['Wendy\'s', 'McDonald\'s', 'Burger King', 'Panda Express', 'Five Guys', 'Domino\'s', 'Pizza Hut', 'Taco Bell', 'Raising Cane\'s Chicken Fingers',
-                                  'Subway', 'Quiznos', 'Arby\'s', 'Little Caesars', 'Chick-fil-A', 'Jack In The Box', 'Carl\'s Jr.', 'Del Taco', 'Sonic Drive-In',
-                                  'Freddy\'s Frozen Custard & Steakburgers', 'Culver\'s', 'Whataburger', 'Dairy Queen', 'In-N-Out Burger', 'The Habit Burger Grill'],
-                     'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden']
-                    }
+               'grocery': ['Bashas\'', 'Safeway'],
+               'fastfood': ['Wendy\'s', 'McDonald\'s', 'Burger King', 'Panda Express', 'Five Guys', 'Domino\'s', 'Pizza Hut', 'Taco Bell', 'Raising Cane\'s Chicken Fingers',
+          	     'Subway', 'Quiznos', 'Arby\'s', 'Little Caesars', 'Chick-fil-A', 'Jack In The Box', 'Carl\'s Jr.', 'Del Taco', 'Sonic Drive-In',
+                     'Freddy\'s Frozen Custard & Steakburgers', 'Culver\'s', 'Whataburger', 'Dairy Queen', 'In-N-Out Burger', 'The Habit Burger Grill'],
+               'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden'] }
 
-        tempDests = foodDict['fastfood']
-        for elem in tempDests:
-            elem = elem + ' Flagstaff, AZ'
+	tempDests = foodDict['fastfood']
+	for elem in tempDests:
+		elem = elem + ' Flagstaff, AZ'
 	origins = ['Northern Arizona University']
 	destinations = tempDests
 
