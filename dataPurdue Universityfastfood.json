@@ -1,0 +1,512 @@
+{
+   "destination_addresses" : [
+      "252 East State Street, W.Lafayette, IN 47906, USA",
+      "605 W Stadium Ave, West Lafayette, IN 47906, USA",
+      "1069 Sagamore Pkwy W, West Lafayette, IN 47906, USA",
+      "138 Northwestern Ave, West Lafayette, IN 47906, USA",
+      "135 S Chauncey Ave, West Lafayette, IN 47906, USA",
+      "330 E State St, West Lafayette, IN 47906, USA",
+      "506 Sagamore Pkwy W, West Lafayette, IN 47906, USA",
+      "135 S Chauncey Ave Ste 2H, West Lafayette, IN 47906, USA",
+      "10 E 11th Ave, Columbus, OH 43201, USA",
+      "1400 W State St Q, West Lafayette, IN 47906, USA",
+      "2000 W University Ave, Muncie, IN 47306, USA",
+      "531 Sagamore Pkwy W, West Lafayette, IN 47906, USA",
+      "2060 US-52, West Lafayette, IN 47906, USA",
+      "3836 South St, Lafayette, IN 47905, USA",
+      "5613 West 38th Street, Indianapolis, IN 46254, USA",
+      "",
+      "",
+      "150 S Creasy Ln, Lafayette, IN 47901, USA",
+      "2740 E 146th St, Carmel, IN 46033, USA",
+      "340 N Creasy Ln, Lafayette, IN 47905, USA",
+      "1725 N University Ave, Lafayette, LA 70507, USA",
+      "1402 W State St, West Lafayette, IN 47907, USA",
+      "",
+      "1740 N University Dr Unit A, Plantation, FL 33322, USA",
+      "609 Sagamore Pkwy W, West Lafayette, IN 47906, USA",
+      "",
+      "",
+      "3021 W 16th St, Indianapolis, IN 46222, USA",
+      "311 W State St, West Lafayette, IN 47906, USA",
+      "37 US-41, Schererville, IN 46375, USA",
+      "4723 Meijer Ct, Lafayette, IN 47905, USA",
+      "4000 University Dr, Huntsville, AL 35816, USA",
+      "2501 University Blvd E, Tuscaloosa, AL 35404, USA",
+      "2415 Sagamore Pkwy S, Lafayette, IN 47905, USA",
+      "2131 Sagamore Pkwy S a, Lafayette, IN 47905, USA",
+      "",
+      "",
+      "2839 Teal Rd W, Lafayette, IN 47905, USA",
+      "7711 Shelby St a, Indianapolis, IN 46227, USA",
+      "",
+      "200 W State St, West Lafayette, IN 47906, USA",
+      "1196 3rd Street, West Lafayette, IN 47907, USA",
+      "2707 S River Rd, West Lafayette, IN 47906, USA",
+      "1201 W State St, West Lafayette, IN 47906, USA",
+      "",
+      "1400 W State St, West Lafayette, IN 47906, USA",
+      "",
+      "2822 W University Dr, Denton, TX 76201, USA",
+      ""
+   ],
+   "origin_addresses" : [ "610 Purdue Mall, West Lafayette, IN 47907, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1824
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 250
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 289
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 92
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3180
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 382
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 307
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 106
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 365
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 121
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1724
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 234
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3727
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 577
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 392
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 131
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "241 mi",
+                  "value" : 388569
+               },
+               "duration" : {
+                  "text" : "3 hours 47 mins",
+                  "value" : 13610
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "430 ft",
+                  "value" : 131
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 52
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "113 mi",
+                  "value" : 182460
+               },
+               "duration" : {
+                  "text" : "1 hour 59 mins",
+                  "value" : 7114
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3727
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 448
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6580
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 419
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 7986
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 929
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "60.2 mi",
+                  "value" : 96955
+               },
+               "duration" : {
+                  "text" : "1 hour 4 mins",
+                  "value" : 3820
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7614
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 859
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "67.6 mi",
+                  "value" : 108753
+               },
+               "duration" : {
+                  "text" : "1 hour 11 mins",
+                  "value" : 4281
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6973
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 758
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "926 mi",
+                  "value" : 1489902
+               },
+               "duration" : {
+                  "text" : "13 hours 33 mins",
+                  "value" : 48790
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 253
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 41
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,239 mi",
+                  "value" : 1993539
+               },
+               "duration" : {
+                  "text" : "17 hours 54 mins",
+                  "value" : 64448
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3548
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 417
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "63.9 mi",
+                  "value" : 102778
+               },
+               "duration" : {
+                  "text" : "1 hour 9 mins",
+                  "value" : 4113
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.1 mi",
+                  "value" : 181
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 59
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "90.3 mi",
+                  "value" : 145263
+               },
+               "duration" : {
+                  "text" : "1 hour 39 mins",
+                  "value" : 5925
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9838
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1128
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "463 mi",
+                  "value" : 744788
+               },
+               "duration" : {
+                  "text" : "7 hours 6 mins",
+                  "value" : 25560
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "596 mi",
+                  "value" : 959588
+               },
+               "duration" : {
+                  "text" : "8 hours 51 mins",
+                  "value" : 31832
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7504
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 953
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7870
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 854
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7080
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 755
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "77.6 mi",
+                  "value" : 124807
+               },
+               "duration" : {
+                  "text" : "1 hour 22 mins",
+                  "value" : 4914
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 293
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 94
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 937
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 156
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5122
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 301
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 819
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 102
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.1 mi",
+                  "value" : 217
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 36
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "928 mi",
+                  "value" : 1493476
+               },
+               "duration" : {
+                  "text" : "13 hours 40 mins",
+                  "value" : 49227
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

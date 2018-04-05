@@ -1,0 +1,112 @@
+{
+   "destination_addresses" : [
+      "5555 N 7th St, Phoenix, AZ 85014, USA",
+      "8021 N 35th Ave, Phoenix, AZ 85051, USA",
+      "8035 N 19th Ave, Phoenix, AZ 85021, USA",
+      "",
+      "8040 N 19th Ave, Phoenix, AZ 85021, USA",
+      "4353 W Bethany Home Rd, Glendale, AZ 85301, USA",
+      "3801 N 33rd Ave, Phoenix, AZ 85017, USA",
+      "8340 W McDowell Rd, Phoenix, AZ 85037, USA",
+      "4701 N 20th St, Phoenix, AZ 85016, USA"
+   ],
+   "origin_addresses" : [ "3300 W Camelback Rd, Phoenix, AZ 85017, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6845
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 779
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5713
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 558
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7694
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 601
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9255
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 714
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.4 mi",
+                  "value" : 3868
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 374
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2813
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 414
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.8 mi",
+                  "value" : 19021
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 911
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8738
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1125
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

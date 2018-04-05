@@ -1,0 +1,72 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1718 Boston Post Rd, Milford, CT 06460, USA",
+      "950 N University Dr, Coral Springs, FL 33071, USA",
+      "1686 Boston Post Rd, Milford, CT 06460, USA"
+   ],
+   "origin_addresses" : [ "New Haven, CT 06520, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "9.9 mi",
+                  "value" : 15882
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 830
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,327 mi",
+                  "value" : 2134882
+               },
+               "duration" : {
+                  "text" : "19 hours 33 mins",
+                  "value" : 70374
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15726
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 874
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,100 @@
+{
+   "destination_addresses" : [
+      "1 Palmer Square, Princeton, NJ 08542, USA",
+      "740 US-130, Hamilton Township, NJ 08691, USA",
+      "3345 Brunswick Pike, Lawrenceville, NJ 08648, USA",
+      "136 Nassau St, Princeton, NJ 08542, USA",
+      "3465 US-1, Princeton, NJ 08540, USA",
+      "",
+      "787 NJ-33, Hamilton, NJ 08619, USA",
+      "221 US-130, Bordentown, NJ 08505, USA"
+   ],
+   "origin_addresses" : [ "Princeton, NJ 08544, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 390
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 120
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "19.2 mi",
+                  "value" : 30968
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1364
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6846
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 405
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "341 ft",
+                  "value" : 104
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 36
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5188
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 299
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17211
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 976
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "17.7 mi",
+                  "value" : 28413
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1203
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

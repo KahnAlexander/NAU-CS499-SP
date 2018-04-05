@@ -1,0 +1,100 @@
+{
+   "destination_addresses" : [
+      "245 Massachusetts Ave, Cambridge, MA 02139, USA",
+      "625 Grand Union Blvd, Somerville, MA 02145, USA",
+      "11 B Allstate Rd, Dorchester, MA 02125, United States",
+      "201 Brookline Ave, Boston, MA 02215, USA",
+      "180 Main St, Saugus, MA 01906, USA",
+      "77 Massachusetts Ave, Cambridge, MA 02139, USA",
+      "16 Eliot St #18, Cambridge, MA 02138, USA",
+      ""
+   ],
+   "origin_addresses" : [ "77 Massachusetts Ave, Cambridge, MA 02139, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.1 mi",
+                  "value" : 217
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 54
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7158
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 856
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11258
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 995
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5894
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 741
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.5 mi",
+                  "value" : 20077
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1231
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2907
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 413
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

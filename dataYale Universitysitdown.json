@@ -1,0 +1,100 @@
+{
+   "destination_addresses" : [
+      "1000 Chapel St, New Haven, CT 06510, USA",
+      "132 Marsh Hill Rd, Orange, CT 06477, USA",
+      "310 Universal Dr N, North Haven, CT 06473, USA",
+      "1060 Chapel St, New Haven, CT 06511, USA",
+      "1201 Boston Post Road, Milford, CT 06460, United States",
+      "",
+      "2400 Dixwell Ave, Hamden, CT 06514, USA",
+      "487 Saw Mill Rd, West Haven, CT 06516, USA"
+   ],
+   "origin_addresses" : [ "New Haven, CT 06520, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1057
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 288
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11699
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 622
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8486
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 635
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1161
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 320
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.5 mi",
+                  "value" : 16836
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 913
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7240
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 767
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8305
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 429
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

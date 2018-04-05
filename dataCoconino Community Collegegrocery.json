@@ -1,0 +1,88 @@
+{
+   "destination_addresses" : [
+      "2700 S Woodlands Village Blvd, Flagstaff, AZ 86001, USA",
+      "1201 S Plaza Way, Flagstaff, AZ 86001, USA",
+      "",
+      "",
+      "1560 S Riordan Ranch St, Flagstaff, AZ 86001, USA",
+      "",
+      "",
+      "1851 E Butler Ave, Flagstaff, AZ 86001, USA",
+      "320 S Cambridge Lane, Flagstaff, AZ 86001, United States"
+   ],
+   "origin_addresses" : [ "2800 S Lone Tree Rd, Flagstaff, AZ 86005, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4441
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 570
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5146
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 732
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4665
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 645
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 5012
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 495
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4001
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 434
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

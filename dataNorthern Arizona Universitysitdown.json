@@ -1,0 +1,44 @@
+{
+   "destination_addresses" : [
+      "1500 S Milton Rd, Flagstaff, AZ 86001, USA",
+      "2600 E Lucky Ln, Flagstaff, AZ 86004, USA",
+      "2550 S Beulah Blvd, Flagstaff, AZ 86001, USA",
+      "845 N Park Ave, Tucson, AZ 85719, USA",
+      "2700 S Woodlands Village Blvd #550, Flagstaff, AZ 86001, USA",
+      "527 W Chino Ave # 3, Seligman, AZ 86337, USA",
+      "2725 S Woodlands Village Blvd, Flagstaff, AZ 86001, USA",
+      "2122 S Milton Rd, Flagstaff, AZ 86001, USA"
+   ],
+   "origin_addresses" : [ "" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

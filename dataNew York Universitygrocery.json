@@ -1,0 +1,120 @@
+{
+   "destination_addresses" : [
+      "New York, NY 10003, USA",
+      "493 E 138th St, Bronx, NY 10454, USA",
+      "955 N Walnut Ave, New Braunfels, TX 78130, USA",
+      "116th St & Broadway, New York, NY 10027, USA",
+      "506 6th Ave, Brooklyn, NY 11215, USA",
+      "241 W 37th St Suite 930, New York, NY 10018, USA",
+      "517 E 117th St, New York, NY 10035, USA",
+      "300 Park Plaza Dr, Secaucus, NJ 07094, USA",
+      "4 Union Square E, New York, NY 10003, USA"
+   ],
+   "origin_addresses" : [ "New York, NY 10003, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12792
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1462
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,791 mi",
+                  "value" : 2883059
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 95645
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11354
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1676
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9201
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1367
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.4 mi",
+                  "value" : 3928
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1006
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10908
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1501
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12891
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1576
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1073
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 375
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

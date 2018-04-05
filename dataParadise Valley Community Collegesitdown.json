@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "12660 N Tatum Blvd, Phoenix, AZ 85032, USA",
+      "4715 E Cactus Rd, Phoenix, AZ 85032, USA",
+      "4868 E Cactus Rd, Scottsdale, AZ 85254, USA",
+      "7702, 4512 E Cactus Rd, Phoenix, AZ 85032, United States",
+      "7401 E Frank Lloyd Wright Blvd, Scottsdale, AZ 85254, USA",
+      "18401 N 32nd St, Phoenix, AZ 85032, USA",
+      "4501 E Cactus Rd, Phoenix, AZ 85032, USA",
+      "3205 E Bell Rd, Phoenix, AZ 85032, USA"
+   ],
+   "origin_addresses" : [ "18401 N 32nd St, Phoenix, AZ 85032, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10575
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 706
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10318
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 575
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10726
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 621
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9976
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 577
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12356
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 675
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9520
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 489
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1368
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 158
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

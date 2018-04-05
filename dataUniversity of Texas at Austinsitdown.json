@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "4420 N Lamar Blvd, Austin, TX 78756, USA",
+      "11600 Research Blvd, Austin, TX 78759, USA",
+      "3940 S Lamar Blvd, Austin, TX 78704, USA",
+      "2805 Bee Caves Rd, Austin, TX 78746, USA",
+      "7604 N Interstate Hwy 35, Austin, TX 78752, USA",
+      "5600 Cameron Rd, Austin, TX 78723, USA",
+      "707 E Cesar Chavez St, Austin, TX 78701, USA",
+      "1601 S IH 35 Frontage Rd, Austin, TX 78702, USA"
+   ],
+   "origin_addresses" : [ "Austin, TX 78712, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3357
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.3 mi",
+                  "value" : 18136
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 829
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.1 mi",
+                  "value" : 13103
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 744
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6851
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 744
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7191
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 589
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4261
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 386
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2256
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 203
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1006
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 149
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

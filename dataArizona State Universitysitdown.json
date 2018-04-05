@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "400 W University Dr, Tempe, AZ 85281, USA",
+      "1734 E Southern Ave, Tempe, AZ 85282, USA",
+      "1115, 1010 W Elliot Rd, Tempe, AZ 85284, United States",
+      "1707 W Warner Rd, Tempe, AZ 85284, USA",
+      "705 S Rural Rd #104, Tempe, AZ 85281, USA",
+      "527 W Chino Ave # 3, Seligman, AZ 86337, USA",
+      "705 S Rural Rd #101, Tempe, AZ 85281, USA",
+      "825 S 48th St, Tempe, AZ 85281, USA"
+   ],
+   "origin_addresses" : [ "Tempe, AZ 85281, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 455
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 81
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4001
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 431
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9452
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 869
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13223
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 845
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 601
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 90
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "178 mi",
+                  "value" : 287100
+               },
+               "duration" : {
+                  "text" : "2 hours 53 mins",
+                  "value" : 10380
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 690
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 113
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3479
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 344
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

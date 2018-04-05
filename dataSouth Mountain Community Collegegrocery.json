@@ -1,0 +1,112 @@
+{
+   "destination_addresses" : [
+      "4855 E Warner Rd, Phoenix, AZ 85044, USA",
+      "9890 S Estrella Pkwy, Goodyear, AZ 85338, USA",
+      "750 E Guadalupe Rd, Tempe, AZ 85283, USA",
+      "7050 S 24th St, Phoenix, AZ 85042, USA",
+      "4735 E Ray Rd, Phoenix, AZ 85044, USA",
+      "2250 E Baseline Rd, Phoenix, AZ 85042, USA",
+      "",
+      "Chandler, AZ 85226, USA",
+      "5120 S Rural Rd, Tempe, AZ 85282, USA"
+   ],
+   "origin_addresses" : [ "7050 S 24th St, Phoenix, AZ 85042, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11951
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 873
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "34.0 mi",
+                  "value" : 54731
+               },
+               "duration" : {
+                  "text" : "42 mins",
+                  "value" : 2520
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11121
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 968
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 530
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 99
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13668
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 979
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 567
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 90
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13976
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1014
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11835
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 911
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

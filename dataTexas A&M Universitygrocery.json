@@ -1,0 +1,64 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1405 Earl Rudder Fwy S, College Station, TX 77845, USA",
+      "2955 Kirby Dr, Houston, TX 77098, USA"
+   ],
+   "origin_addresses" : [ "400 Bizzell St, College Station, TX 77843, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5264
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 665
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "95.5 mi",
+                  "value" : 153771
+               },
+               "duration" : {
+                  "text" : "1 hour 36 mins",
+                  "value" : 5779
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

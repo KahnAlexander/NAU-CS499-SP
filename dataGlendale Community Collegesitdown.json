@@ -1,0 +1,100 @@
+{
+   "destination_addresses" : [
+      "",
+      "5605 W Bell Rd, Glendale, AZ 85308, USA",
+      "6970 N 95th Ave, Glendale, AZ 85305, USA",
+      "7635 W Bell Rd, Peoria, AZ 85382, USA",
+      "9404 W Westgate Blvd C107, Glendale, AZ 85305, USA",
+      "6000 W Olive Ave, Glendale, AZ 85302, USA",
+      "605 N Glendale Ave, Glendale, CA 91206, USA",
+      "4303 W Peoria Ave, Glendale, AZ 85302, USA"
+   ],
+   "origin_addresses" : [ "1500 N Verdugo Rd, Glendale, CA 91208, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "382 mi",
+                  "value" : 614501
+               },
+               "duration" : {
+                  "text" : "5 hours 40 mins",
+                  "value" : 20416
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "371 mi",
+                  "value" : 597241
+               },
+               "duration" : {
+                  "text" : "5 hours 26 mins",
+                  "value" : 19552
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "379 mi",
+                  "value" : 610503
+               },
+               "duration" : {
+                  "text" : "5 hours 35 mins",
+                  "value" : 20077
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "371 mi",
+                  "value" : 597811
+               },
+               "duration" : {
+                  "text" : "5 hours 29 mins",
+                  "value" : 19728
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "378 mi",
+                  "value" : 607716
+               },
+               "duration" : {
+                  "text" : "5 hours 38 mins",
+                  "value" : 20296
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2130
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 315
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "380 mi",
+                  "value" : 611716
+               },
+               "duration" : {
+                  "text" : "5 hours 42 mins",
+                  "value" : 20501
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

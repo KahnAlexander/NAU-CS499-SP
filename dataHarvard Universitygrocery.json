@@ -1,0 +1,96 @@
+{
+   "destination_addresses" : [
+      "341 Central St, Saugus, MA 01906, USA",
+      "",
+      "4541 Campus Dr, Irvine, CA 92612, USA",
+      "116th St & Broadway, New York, NY 10027, USA",
+      "",
+      "",
+      "2 Mystic View Rd, Everett, MA 02149, USA",
+      "7 Consumer Square, Plattsburgh, NY 12901, USA",
+      "45 Beacon St, Somerville, MA 02143, USA"
+   ],
+   "origin_addresses" : [ "Cambridge, MA 02138, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "13.4 mi",
+                  "value" : 21594
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1376
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2,984 mi",
+                  "value" : 4801531
+               },
+               "duration" : {
+                  "text" : "1 day 20 hours",
+                  "value" : 156966
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "204 mi",
+                  "value" : 328774
+               },
+               "duration" : {
+                  "text" : "3 hours 21 mins",
+                  "value" : 12030
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6720
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1048
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "251 mi",
+                  "value" : 404694
+               },
+               "duration" : {
+                  "text" : "4 hours 37 mins",
+                  "value" : 16605
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1067
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 259
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

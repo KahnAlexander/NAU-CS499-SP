@@ -1,0 +1,92 @@
+{
+   "destination_addresses" : [
+      "1399 N Notre Dame Ave, Notre Dame, IN 46556, USA",
+      "4611 Grape Rd, Mishawaka, IN 46545, USA",
+      "6410 Grape Rd, Mishawaka, IN 46545, USA",
+      "4310 N Main St, Mishawaka, IN 46545, USA",
+      "326 W Ireland Rd, South Bend, IN 46614, USA",
+      "",
+      "4115 N Main St, Mishawaka, IN 46545, USA",
+      ""
+   ],
+   "origin_addresses" : [ "Notre Dame, IN 46556, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 884
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 145
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4334
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 407
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4702
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 460
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5086
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 499
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8760
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 888
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5262
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 518
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

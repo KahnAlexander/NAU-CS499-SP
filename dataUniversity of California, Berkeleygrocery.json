@@ -1,0 +1,112 @@
+{
+   "destination_addresses" : [
+      "",
+      "1550 Shattuck Ave, Berkeley, CA 94709, USA",
+      "736 1st St, Benicia, CA 94510, USA",
+      "Berkeley, CA, USA",
+      "1075 Monroe St, Albany, CA 94706, USA",
+      "1695 Willow Pass Rd, Concord, CA 94520, USA",
+      "4801 Central Ave, Richmond, CA 94804, USA",
+      "1225 Concord Ave, Concord, CA 94520, USA",
+      "3000 Telegraph Ave, Berkeley, CA 94705, USA"
+   ],
+   "origin_addresses" : [ "Berkeley, CA, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1476
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 312
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "26.0 mi",
+                  "value" : 41818
+               },
+               "duration" : {
+                  "text" : "37 mins",
+                  "value" : 2203
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4357
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 739
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "20.2 mi",
+                  "value" : 32495
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1808
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8088
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 843
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "20.9 mi",
+                  "value" : 33636
+               },
+               "duration" : {
+                  "text" : "31 mins",
+                  "value" : 1859
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1849
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 367
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

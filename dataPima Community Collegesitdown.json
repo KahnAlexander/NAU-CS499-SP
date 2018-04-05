@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "1640 W Valencia Rd, Tucson, AZ 85746, USA",
+      "2240 W Ina Rd, Tucson, AZ 85741, USA",
+      "300 W Wetmore Rd, Tucson, AZ 85705, USA",
+      "4362 N Oracle Rd Suite 100, Tucson, AZ 85705, USA",
+      "4329 N Oracle Rd #135, Tucson, AZ 85705, USA",
+      "6261 E Benson Hwy, Tucson, AZ 85756, USA",
+      "1500 W Grant Rd, Tucson, AZ 85745, USA",
+      "555 N Freeway, Tucson, AZ 85745, USA"
+   ],
+   "origin_addresses" : [ "2202 W Anklam Rd, Tucson, AZ 85745, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.7 mi",
+                  "value" : 15582
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 976
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.1 mi",
+                  "value" : 17910
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1392
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11692
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1190
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10527
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1163
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11566
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1148
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "13.9 mi",
+                  "value" : 22418
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1160
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5438
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 453
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4645
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 468
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

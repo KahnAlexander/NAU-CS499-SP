@@ -1,0 +1,104 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "105 E Southfield Rd, Shreveport, LA 71105, USA",
+      "Austin, TX 78712, USA",
+      "4006 S Lamar Blvd Ste 400, Austin, TX 78704, USA",
+      "12707 N Mopac Expy, Austin, TX 78727, USA",
+      "10401 Research Blvd, Austin, TX 78759, USA",
+      "4970 US-290, Austin, TX 78735, USA",
+      "525 N Lamar Blvd, Austin, TX 78703, USA"
+   ],
+   "origin_addresses" : [ "Austin, TX 78712, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "375 mi",
+                  "value" : 603365
+               },
+               "duration" : {
+                  "text" : "5 hours 27 mins",
+                  "value" : 19603
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.0 mi",
+                  "value" : 12815
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 777
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.2 mi",
+                  "value" : 19604
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 932
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.5 mi",
+                  "value" : 15289
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 825
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14816
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 787
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3158
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 484
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

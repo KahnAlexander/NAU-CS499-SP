@@ -1,0 +1,100 @@
+{
+   "destination_addresses" : [
+      "607 University Ave, Lubbock, TX 79401, USA",
+      "4015 S Loop 289, Lubbock, TX 79423, USA",
+      "5702 Slide Rd, Lubbock, TX 79414, USA",
+      "3004 W Loop 289, Lubbock, TX 79407, USA",
+      "3112, 8212 University Ave, Lubbock, TX 79423, United States",
+      "",
+      "1627 University Ave, Lubbock, TX 79401, USA",
+      "607 Avenue Q, Lubbock, TX 79401, USA"
+   ],
+   "origin_addresses" : [ "2500 Broadway, Lubbock, TX 79409, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 959
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 257
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11222
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 574
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6960
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6282
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 350
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7060
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 635
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 593
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 104
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3218
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 363
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

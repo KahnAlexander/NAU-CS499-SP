@@ -1,0 +1,100 @@
+{
+   "destination_addresses" : [
+      "",
+      "9801 N Black Canyon Hwy, Phoenix, AZ 85021, USA",
+      "1115, 1010 W Elliot Rd, Tempe, AZ 85284, United States",
+      "3800 E Sky Harbor Blvd, Phoenix, AZ 85034, USA",
+      "705 S Rural Rd #104, Tempe, AZ 85281, USA",
+      "7050 S 24th St, Phoenix, AZ 85042, USA",
+      "2090 E Baseline Rd, Phoenix, AZ 85042, USA",
+      "1994 W Baseline Rd, Tempe, AZ 85283, USA"
+   ],
+   "origin_addresses" : [ "7050 S 24th St, Phoenix, AZ 85042, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "17.7 mi",
+                  "value" : 28542
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1398
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11232
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 918
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13862
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 881
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17128
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1091
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 913
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 113
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6376
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 585
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

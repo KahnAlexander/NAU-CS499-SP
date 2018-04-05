@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "75 Waterman St, Providence, RI 02912, USA",
+      "1301 Fall River Ave, Seekonk, MA 02771, USA",
+      "1240 Newport Ave, South Attleboro, MA 02703, USA",
+      "43 Providence Pl, Providence, RI 02903, USA",
+      "1900 Brown St, Dayton, OH 45409, USA",
+      "3007, 460 Putnam Pike, Greenville, RI 02828, United States",
+      "45 Pleasant Valley Pkwy, Providence, RI 02908, USA",
+      "1177 Reservoir Ave, Cranston, RI 02920, USA"
+   ],
+   "origin_addresses" : [ "Providence, RI 02912, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.1 mi",
+                  "value" : 225
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 39
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9324
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 722
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13297
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 888
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1685
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 371
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "788 mi",
+                  "value" : 1268115
+               },
+               "duration" : {
+                  "text" : "12 hours 22 mins",
+                  "value" : 44512
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18392
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1075
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2891
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 459
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10069
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 893
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

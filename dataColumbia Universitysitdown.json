@@ -1,0 +1,100 @@
+{
+   "destination_addresses" : [
+      "1241 Amsterdam Ave, New York, NY 10027, USA",
+      "539 River Rd, Edgewater, NJ 07020, USA",
+      "100 W 125th St, New York, NY 10027, USA",
+      "120 East 86th St, New York, NY 10028, USA",
+      "2319 Frederick Douglass Blvd, New York, NY 10027, USA",
+      "",
+      "2294 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+      "8710 Northern Blvd, Jackson Heights, NY 11372, USA"
+   ],
+   "origin_addresses" : [ "116th St & Broadway, New York, NY 10027, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 421
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 85
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13157
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1394
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1918
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 505
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4218
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 823
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1465
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 382
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2520
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 597
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11820
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1694
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

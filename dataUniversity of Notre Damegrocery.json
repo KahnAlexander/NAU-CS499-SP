@@ -1,0 +1,72 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "625 E University Dr, Granger, IN 46530, USA",
+      "120 Indian Ridge Blvd, Mishawaka, IN 46545, USA",
+      "4230 Grape Rd, Mishawaka, IN 46545, USA"
+   ],
+   "origin_addresses" : [ "Notre Dame, IN 46556, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6114
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 613
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4681
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 513
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4791
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 441
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

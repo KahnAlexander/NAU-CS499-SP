@@ -1,0 +1,72 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "",
+      "Von Cramm Hall, 623 University Ave, Ithaca, NY 14850, USA",
+      "",
+      "",
+      "",
+      "830 County Road 64 #2, Elmira, NY 14903, USA",
+      "13998 Cedar Rd, University Heights, OH 44118, USA"
+   ],
+   "origin_addresses" : [ "Ithaca, NY 14850, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 686
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 114
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "33.1 mi",
+                  "value" : 53323
+               },
+               "duration" : {
+                  "text" : "46 mins",
+                  "value" : 2752
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "324 mi",
+                  "value" : 521087
+               },
+               "duration" : {
+                  "text" : "5 hours 11 mins",
+                  "value" : 18644
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

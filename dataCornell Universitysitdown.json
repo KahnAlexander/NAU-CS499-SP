@@ -1,0 +1,92 @@
+{
+   "destination_addresses" : [
+      "311 College Ave, Ithaca, NY 14850, USA",
+      "1905 Waddle Rd, State College, PA 16803, USA",
+      "3288 Chambers Rd, Horseheads, NY 14845, USA",
+      "748 S Meadow St, Ithaca, NY 14850, USA",
+      "3, 410 Elmira Rd #200, Ithaca, NY 14850, USA",
+      "",
+      "",
+      "323 Elmira Rd, Ithaca, NY 14850, USA"
+   ],
+   "origin_addresses" : [ "Ithaca, NY 14850, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 716
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 166
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "180 mi",
+                  "value" : 289764
+               },
+               "duration" : {
+                  "text" : "3 hours 1 min",
+                  "value" : 10888
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "32.7 mi",
+                  "value" : 52559
+               },
+               "duration" : {
+                  "text" : "44 mins",
+                  "value" : 2636
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3324
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 551
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4297
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 607
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3295
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "1800 S Valley Mills Dr, Waco, TX 76711, USA",
+      "4500 Franklin Ave, Waco, TX 76710, USA",
+      "5921 W Waco Dr, Waco, TX 76710, USA",
+      "1000 S 8th St, Waco, TX 76706, USA",
+      "2312 W Loop 340, Waco, TX 76711, USA",
+      "1301 S University Parks Dr, Waco, TX 76706, USA",
+      "1000 S 4th St, Waco, TX 76706, USA",
+      "709 N. I-35, Bellmead, TX 76705, United States"
+   ],
+   "origin_addresses" : [ "1301 S University Parks Dr, Waco, TX 76706, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 3994
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 282
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 9068
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 621
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10998
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 749
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1221
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 192
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8528
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 446
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 495
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 50
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4581
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 255
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

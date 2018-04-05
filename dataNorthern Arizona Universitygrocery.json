@@ -1,0 +1,48 @@
+{
+   "destination_addresses" : [
+      "2700 S Woodlands Village Blvd, Flagstaff, AZ 86001, USA",
+      "1201 S Plaza Way, Flagstaff, AZ 86001, USA",
+      "1416 Historic Rte 66, Flagstaff, AZ 86001, USA",
+      "1201 S Plaza Way, Flagstaff, AZ 86001, USA",
+      "1560 S Riordan Ranch St, Flagstaff, AZ 86001, USA",
+      "201 N Switzer Canyon Dr, Flagstaff, AZ 86001, USA",
+      "3911 AZ-69, Prescott, AZ 86301, USA",
+      "1851 E Butler Ave, Flagstaff, AZ 86001, USA",
+      "320 S Cambridge Lane, Flagstaff, AZ 86001, United States"
+   ],
+   "origin_addresses" : [ "" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

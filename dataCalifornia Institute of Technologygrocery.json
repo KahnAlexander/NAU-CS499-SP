@@ -1,0 +1,120 @@
+{
+   "destination_addresses" : [
+      "1200 E California Blvd, Pasadena, CA 91125, USA",
+      "3051 Countryside Dr, Turlock, CA 95380, USA",
+      "6240 Foothill Blvd, Tujunga, CA 91042, USA",
+      "155 E California Blvd, Pasadena, CA 91105, USA",
+      "39 N Rosemead Blvd, Pasadena, CA 91107, USA",
+      "2311 N Hollywood Way, Burbank, CA 91505, USA",
+      "2207 W Commonwealth Ave, Alhambra, CA 91803, USA",
+      "5871 Firestone Blvd, South Gate, CA 90280, USA",
+      "465 S Arroyo Pkwy, Pasadena, CA 91105, USA"
+   ],
+   "origin_addresses" : [ "1200 E California Blvd, Pasadena, CA 91125, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "303 mi",
+                  "value" : 488386
+               },
+               "duration" : {
+                  "text" : "4 hours 35 mins",
+                  "value" : 16506
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.1 mi",
+                  "value" : 19456
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1115
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.5 mi",
+                  "value" : 2409
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 429
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5894
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 470
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "17.0 mi",
+                  "value" : 27298
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1503
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7435
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 884
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "20.7 mi",
+                  "value" : 33297
+               },
+               "duration" : {
+                  "text" : "31 mins",
+                  "value" : 1855
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1979
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 304
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

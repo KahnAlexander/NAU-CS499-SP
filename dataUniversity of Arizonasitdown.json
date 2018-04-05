@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "5150 E Broadway Blvd, Tucson, AZ 85711, USA",
+      "4871 E Grant Rd, Tucson, AZ 85712, USA",
+      "300 W Wetmore Rd, Tucson, AZ 85705, USA",
+      "845 N Park Ave, Tucson, AZ 85719, USA",
+      "4329 N Oracle Rd #135, Tucson, AZ 85705, USA",
+      "6261 E Benson Hwy, Tucson, AZ 85756, USA",
+      "1500 W Grant Rd, Tucson, AZ 85745, USA",
+      "555 N Freeway, Tucson, AZ 85745, USA"
+   ],
+   "origin_addresses" : [ "Tucson, AZ 85721, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8162
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 904
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8586
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 938
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7902
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 878
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "358 ft",
+                  "value" : 109
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 32
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8154
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 938
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18271
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1174
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5495
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 632
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3725
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 517
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

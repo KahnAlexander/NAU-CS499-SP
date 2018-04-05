@@ -1,0 +1,80 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "",
+      "3003 15th Street, Texas Tech University / ROTC - Media and Communications Building, Lubbock, TX 79403, United States",
+      "8201 Quaker Ave Suite 140, Lubbock, TX 79424, USA",
+      "",
+      "6020 34th St, Lubbock, TX 79407, USA",
+      "6016 Marsha Sharp Fwy, Lubbock, TX 79407, USA",
+      ""
+   ],
+   "origin_addresses" : [ "2500 Broadway, Lubbock, TX 79409, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 762
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 184
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.5 mi",
+                  "value" : 12036
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 656
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7190
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 473
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7458
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 474
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

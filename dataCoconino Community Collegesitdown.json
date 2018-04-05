@@ -1,0 +1,84 @@
+{
+   "destination_addresses" : [
+      "",
+      "2600 E Lucky Ln, Flagstaff, AZ 86004, USA",
+      "2550 S Beulah Blvd, Flagstaff, AZ 86001, USA",
+      "",
+      "2700 S Woodlands Village Blvd #550, Flagstaff, AZ 86001, USA",
+      "",
+      "2725 S Woodlands Village Blvd, Flagstaff, AZ 86001, USA",
+      "2122 S Milton Rd, Flagstaff, AZ 86001, USA"
+   ],
+   "origin_addresses" : [ "2800 S Lone Tree Rd, Flagstaff, AZ 86005, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6663
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 670
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4212
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4272
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 505
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4719
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 576
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10686
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 807
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

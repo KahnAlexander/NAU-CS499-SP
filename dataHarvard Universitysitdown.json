@@ -1,0 +1,92 @@
+{
+   "destination_addresses" : [
+      "40 Brattle St, Cambridge, MA 02138, USA",
+      "625 Grand Union Blvd, Somerville, MA 02145, USA",
+      "11 B Allstate Rd, Dorchester, MA 02125, United States",
+      "5 White St, Cambridge, MA 02140, USA",
+      "180 Main St, Saugus, MA 01906, USA",
+      "",
+      "16 Eliot St #18, Cambridge, MA 02138, USA",
+      ""
+   ],
+   "origin_addresses" : [ "Cambridge, MA 02138, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 919
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 243
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4854
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 890
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11102
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 896
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1004
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 273
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "14.1 mi",
+                  "value" : 22658
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1391
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 834
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 218
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

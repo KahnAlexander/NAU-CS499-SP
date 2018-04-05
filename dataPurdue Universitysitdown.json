@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "101 Grant St, West Lafayette, IN 47906, USA",
+      "3660 State Rd 26 E, Lafayette, IN 47905, USA",
+      "4151 South St, Lafayette, IN 47905, USA",
+      "328 E State St, West Lafayette, IN 47906, USA",
+      "360 Brown St, West Lafayette, IN 47906, USA",
+      "2839 Teal Rd W, Lafayette, IN 47905, USA",
+      "4215 State Road 26 E, Lafayette, IN 47905, United States",
+      "4260 South St, Lafayette, IN 47905, USA"
+   ],
+   "origin_addresses" : [ "610 Purdue Mall, West Lafayette, IN 47907, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.1 mi",
+                  "value" : 230
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 116
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6989
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 810
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8409
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 986
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1720
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 233
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1886
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 277
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7080
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 755
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8527
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 969
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.9 mi",
+                  "value" : 12723
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 985
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "Berkeley, CA, USA",
+      "1361 Fitzgerald Dr, Pinole, CA 94564, USA",
+      "24688 Hesperian Blvd, Hayward, CA 94545, USA",
+      "1525 40th St, Emeryville, CA 94608, USA",
+      "2090 Diamond Blvd, Concord, CA 94520, USA",
+      "Berkeley, CA, USA",
+      "4101 San Pablo Ave, Emeryville, CA 94608, USA",
+      "1245 University Ave, Riverside, CA 92507, USA"
+   ],
+   "origin_addresses" : [ "Berkeley, CA, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18419
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1232
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "20.8 mi",
+                  "value" : 33425
+               },
+               "duration" : {
+                  "text" : "32 mins",
+                  "value" : 1939
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6730
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1108
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "20.1 mi",
+                  "value" : 32302
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1788
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 5023
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 851
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "427 mi",
+                  "value" : 686999
+               },
+               "duration" : {
+                  "text" : "6 hours 25 mins",
+                  "value" : 23117
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

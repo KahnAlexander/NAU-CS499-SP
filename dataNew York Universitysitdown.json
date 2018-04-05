@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "80-16 Cooper Ave, Queens, NY 11385, USA",
+      "60 W 23rd St, New York, NY 10010, USA",
+      "2 Times Square, New York, NY 10036, USA",
+      "10 Union Square E, New York, NY 10003, USA",
+      "253 W 47th St, New York, NY 10036, USA",
+      "18 E 48th St, New York, NY 10017, USA",
+      "235-237 E 14th St, New York, NY 10003, USA",
+      "805 Pennsylvania Ave, Brooklyn, NY 11207, USA"
+   ],
+   "origin_addresses" : [ "New York, NY 10003, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "9.8 mi",
+                  "value" : 15718
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1767
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2223
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4354
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1144
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1122
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 288
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4514
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1213
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4442
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1173
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1356
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 376
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "23.7 mi",
+                  "value" : 38189
+               },
+               "duration" : {
+                  "text" : "43 mins",
+                  "value" : 2578
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

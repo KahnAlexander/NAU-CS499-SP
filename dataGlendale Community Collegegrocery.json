@@ -1,0 +1,104 @@
+{
+   "destination_addresses" : [
+      "7586 W Thunderbird Rd, Peoria, AZ 85381, USA",
+      "",
+      "5040 W Cactus Rd, Glendale, AZ 85304, USA",
+      "561 N Glendale Ave, Glendale, CA 91206, USA",
+      "5130 W Peoria Ave, Glendale, AZ 85302, USA",
+      "",
+      "17550 N 79th Ave, Glendale, AZ 85308, USA",
+      "18501 N 83rd Ave, Glendale, AZ 85308, USA",
+      "331 N Glendale Ave, Glendale, CA 91206, USA"
+   ],
+   "origin_addresses" : [ "1500 N Verdugo Rd, Glendale, CA 91208, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "378 mi",
+                  "value" : 607986
+               },
+               "duration" : {
+                  "text" : "5 hours 34 mins",
+                  "value" : 20038
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "380 mi",
+                  "value" : 611936
+               },
+               "duration" : {
+                  "text" : "5 hours 42 mins",
+                  "value" : 20501
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2219
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 331
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "379 mi",
+                  "value" : 610034
+               },
+               "duration" : {
+                  "text" : "5 hours 39 mins",
+                  "value" : 20344
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "380 mi",
+                  "value" : 612318
+               },
+               "duration" : {
+                  "text" : "5 hours 35 mins",
+                  "value" : 20110
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "380 mi",
+                  "value" : 610802
+               },
+               "duration" : {
+                  "text" : "5 hours 35 mins",
+                  "value" : 20110
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3151
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 458
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

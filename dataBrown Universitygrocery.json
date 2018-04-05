@@ -1,0 +1,64 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "950 N University Dr, Coral Springs, FL 33071, USA",
+      "601 N Main St, Providence, RI 02904, USA"
+   ],
+   "origin_addresses" : [ "Providence, RI 02912, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,427 mi",
+                  "value" : 2296693
+               },
+               "duration" : {
+                  "text" : "21 hours 6 mins",
+                  "value" : 75967
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1459
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 278
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

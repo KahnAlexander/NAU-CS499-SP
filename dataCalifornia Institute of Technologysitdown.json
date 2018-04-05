@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "3206, 630 W Huntington Dr, Monrovia, CA 91016, United States",
+      "166 E Huntington Dr, Arcadia, CA 91006, USA",
+      "430 E Huntington Dr, Arcadia, CA 91006, USA",
+      "3521 E Foothill Blvd, Pasadena, CA 91107, USA",
+      "1000 S Fair Oaks Ave, Pasadena, CA 91105, USA",
+      "1000 E Victoria St, Carson, CA 90747, USA",
+      "880 S Arroyo Pkwy, Pasadena, CA 91105, USA",
+      "369 W Main St, Alhambra, CA 91801, USA"
+   ],
+   "origin_addresses" : [ "1200 E California Blvd, Pasadena, CA 91125, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11766
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 728
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11039
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 765
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.1 mi",
+                  "value" : 11393
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 809
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 5025
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 599
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2860
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 422
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "27.1 mi",
+                  "value" : 43641
+               },
+               "duration" : {
+                  "text" : "39 mins",
+                  "value" : 2337
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2975
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 396
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6428
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 742
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

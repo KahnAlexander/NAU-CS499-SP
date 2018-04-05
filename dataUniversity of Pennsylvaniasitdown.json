@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "Philadelphia, PA 19104, USA",
+      "1162 Baltimore Pike, Springfield, PA 19064, USA",
+      "83 City Ave, Bala Cynwyd, PA 19004, USA",
+      "48 N 12th St, Philadelphia, PA 19107, USA",
+      "9701 Roosevelt Blvd, Philadelphia, PA 19114, USA",
+      "Philadelphia, PA 19104, USA",
+      "1320 Walnut St, Philadelphia, PA 19107, USA",
+      "3980 William Penn Hwy, Monroeville, PA 15146, USA"
+   ],
+   "origin_addresses" : [ "Philadelphia, PA 19104, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "16.8 mi",
+                  "value" : 26963
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1291
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11195
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 797
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.4 mi",
+                  "value" : 3923
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "16.6 mi",
+                  "value" : 26786
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1621
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2888
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 802
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "291 mi",
+                  "value" : 468446
+               },
+               "duration" : {
+                  "text" : "4 hours 30 mins",
+                  "value" : 16181
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

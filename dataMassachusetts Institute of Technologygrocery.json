@@ -1,0 +1,72 @@
+{
+   "destination_addresses" : [
+      "Basha, Qism Shebeen El-Kom, Shebeen El-Kom, Menofia Governorate, Egypt",
+      "Dusit, Bangkok, จังหวัด กรุงเทพมหานคร 10300, Thailand",
+      "",
+      "Orleanspl. 3, 81667 München, Germany",
+      "",
+      "",
+      "2 Mystic View Rd, Everett, MA 02149, USA",
+      "1 Tobias Boland Way, Worcester, MA 01607, USA",
+      "115 Prospect St, Cambridge, MA 02139, USA"
+   ],
+   "origin_addresses" : [ "77 Massachusetts Ave, Cambridge, MA 02139, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11193
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 943
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "41.1 mi",
+                  "value" : 66151
+               },
+               "duration" : {
+                  "text" : "45 mins",
+                  "value" : 2672
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 790
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 246
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

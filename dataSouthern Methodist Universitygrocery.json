@@ -1,0 +1,72 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "",
+      "",
+      "1800 N Henderson Ave, Dallas, TX 75206, USA",
+      "",
+      "",
+      "6185 Retail Rd, Dallas, TX 75231, USA",
+      "8190 Park Ln Ste 351, Dallas, TX 75231, USA"
+   ],
+   "origin_addresses" : [ "Dallas, TX 75205, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4266
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 518
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4355
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 414
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3525
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 361
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

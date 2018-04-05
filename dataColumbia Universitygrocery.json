@@ -1,0 +1,88 @@
+{
+   "destination_addresses" : [
+      "",
+      "1747 Columbia Rd NW, Washington, DC 20009, USA",
+      "",
+      "116th St & Broadway, New York, NY 10027, USA",
+      "",
+      "",
+      "517 E 117th St, New York, NY 10035, USA",
+      "300 Park Plaza Dr, Secaucus, NJ 07094, USA",
+      "100 W 125th St, New York, NY 10027, USA"
+   ],
+   "origin_addresses" : [ "116th St & Broadway, New York, NY 10027, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "239 mi",
+                  "value" : 384193
+               },
+               "duration" : {
+                  "text" : "4 hours 1 min",
+                  "value" : 14436
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3729
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1031
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "15.7 mi",
+                  "value" : 25247
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1668
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1924
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 507
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

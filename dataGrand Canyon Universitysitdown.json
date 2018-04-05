@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "10237 N Metro Pkwy W, Phoenix, AZ 85051, USA",
+      "9801 N Black Canyon Hwy, Phoenix, AZ 85021, USA",
+      "2710 W North Ln, Phoenix, AZ 85021, USA",
+      "10430 N 28th Dr, Phoenix, AZ 85051, USA",
+      "2700 W North Ln, Phoenix, AZ 85051, USA",
+      "3300 W Camelback Rd, Phoenix, AZ 85017, USA",
+      "2000 W Northern Ave, Phoenix, AZ 85021, USA",
+      "3456 W Bethany Home Rd, Phoenix, AZ 85017, USA"
+   ],
+   "origin_addresses" : [ "3300 W Camelback Rd, Phoenix, AZ 85017, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10593
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 725
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8930
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 568
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10275
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 701
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10399
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 673
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10405
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 754
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7359
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 519
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2301
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 286
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

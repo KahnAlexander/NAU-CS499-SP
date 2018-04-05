@@ -1,0 +1,108 @@
+{
+   "destination_addresses" : [
+      "3009 S University Dr, Fort Worth, TX 76109, USA",
+      "4608 Bryant Irvin Rd, Fort Worth, TX 76132, USA",
+      "4700 SW Loop 820, Fort Worth, TX 76109, USA",
+      "1700 S University Dr, Fort Worth, TX 76107, USA",
+      "3015 S University Dr, Fort Worth, TX 76109, USA",
+      "2800 S University Dr, Fort Worth, TX 76129, USA",
+      "1664 S University Dr, Fort Worth, TX 76107, USA",
+      "4601 S Hulen St, Fort Worth, TX 76132, USA"
+   ],
+   "origin_addresses" : [ "2800 S University Dr, Fort Worth, TX 76129, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 312
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 76
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7483
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 661
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4868
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 472
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1546
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 130
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 295
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 73
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1604
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 135
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4774
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 514
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

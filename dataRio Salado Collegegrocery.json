@@ -1,0 +1,72 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "750 E Guadalupe Rd, Tempe, AZ 85283, USA",
+      "",
+      "",
+      "",
+      "",
+      "700 N 54th St, Chandler, AZ 85226, USA",
+      "5120 S Rural Rd, Tempe, AZ 85282, USA"
+   ],
+   "origin_addresses" : [ "2323 W 14th St, Tempe, AZ 85281, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10245
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 646
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "7.8 mi",
+                  "value" : 12586
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 770
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8518
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 552
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

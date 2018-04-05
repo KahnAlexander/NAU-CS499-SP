@@ -1,0 +1,88 @@
+{
+   "destination_addresses" : [
+      "",
+      "360 Nassau St, Princeton, NJ 08540, USA",
+      "",
+      "330 N Harrison St Ste 4, Princeton, NJ 08540, USA",
+      "",
+      "",
+      "4100 Quakerbridge Rd, Lawrence Township, NJ 08648, USA",
+      "320 W Main St, Freehold, NJ 07728, USA",
+      "3495 Us Route 1 S, Princeton, NJ 08540, United States"
+   ],
+   "origin_addresses" : [ "Princeton, NJ 08544, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1352
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 171
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1.5 mi",
+                  "value" : 2430
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 312
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8869
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 623
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "22.1 mi",
+                  "value" : 35610
+               },
+               "duration" : {
+                  "text" : "37 mins",
+                  "value" : 2227
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5076
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 361
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,112 @@
+{
+   "destination_addresses" : [
+      "2202 W Anklam Rd, Tucson, AZ 85745, USA",
+      "1767 E Prince Rd, Tucson, AZ 85719, USA",
+      "1350 N Silverbell Rd, Tucson, AZ 85745, USA",
+      "",
+      "4282 N 1st Ave, Tucson, AZ 85719, USA",
+      "4036 N 1st Ave, Tucson, AZ 85719, USA",
+      "1650 E Tucson Marketplace Blvd, Tucson, AZ 85713, USA",
+      "4701 N Stone Ave, Tucson, AZ 85704, USA",
+      "3360 E Speedway Blvd, Tucson, AZ 85716, USA"
+   ],
+   "origin_addresses" : [ "2202 W Anklam Rd, Tucson, AZ 85745, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11917
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1261
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2904
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 302
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "7.4 mi",
+                  "value" : 11929
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1195
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11642
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1217
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13574
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 978
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11732
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1256
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9990
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1053
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

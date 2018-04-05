@@ -1,0 +1,72 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "",
+      "319 W State St, West Lafayette, IN 47906, USA",
+      "",
+      "",
+      "625 E University Dr, Granger, IN 46530, USA",
+      "3819 South St, Lafayette, IN 47905, USA",
+      ""
+   ],
+   "origin_addresses" : [ "610 Purdue Mall, West Lafayette, IN 47907, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "472 ft",
+                  "value" : 144
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 46
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "120 mi",
+                  "value" : 192966
+               },
+               "duration" : {
+                  "text" : "2 hours 18 mins",
+                  "value" : 8297
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7874
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 950
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

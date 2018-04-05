@@ -1,0 +1,72 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "2321 W University Dr, Denton, TX 76201, USA",
+      "",
+      "",
+      "",
+      "",
+      "2301 E Waco Dr, Waco, TX 76705, USA",
+      "13998 Cedar Rd, University Heights, OH 44118, USA"
+   ],
+   "origin_addresses" : [ "1301 S University Parks Dr, Waco, TX 76706, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "124 mi",
+                  "value" : 199115
+               },
+               "duration" : {
+                  "text" : "1 hour 50 mins",
+                  "value" : 6572
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4886
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 286
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,282 mi",
+                  "value" : 2063446
+               },
+               "duration" : {
+                  "text" : "18 hours 46 mins",
+                  "value" : 67589
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

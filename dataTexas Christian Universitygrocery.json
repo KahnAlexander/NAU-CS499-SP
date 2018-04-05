@@ -1,0 +1,88 @@
+{
+   "destination_addresses" : [
+      "",
+      "",
+      "3563 Alton Rd, Fort Worth, TX 76109, USA",
+      "",
+      "4650 SW Loop 820, Fort Worth, TX 76109, USA",
+      "",
+      "5300 Overton Ridge Blvd, Fort Worth, TX 76132, USA",
+      "4400 Bryant Irvin Rd, Fort Worth, TX 76132, USA",
+      "3720 Vision Drive, Fort Worth, TX 76109, USA"
+   ],
+   "origin_addresses" : [ "2800 S University Dr, Fort Worth, TX 76129, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 847
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 86
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4423
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 458
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.8 mi",
+                  "value" : 10902
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 639
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7444
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 612
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4836
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 635
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
