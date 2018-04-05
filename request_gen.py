@@ -68,8 +68,10 @@ if __name__ == "__main__":
                'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden'] }
 
 	tempDests = foodDict['fastfood']
-	for elem in tempDests:
-		elem = elem + ' Flagstaff, AZ'
+	print(tempDests)
+	for index in range( len( tempDests ) ):
+		tempDests[index] += ' Flagstaff, AZ'
+	print(tempDests)
 	origins = ['Northern Arizona University']
 	destinations = tempDests
 
