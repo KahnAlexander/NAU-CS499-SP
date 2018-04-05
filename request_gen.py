@@ -70,65 +70,69 @@ if __name__ == "__main__":
 					 'Bojangles', 'Fatburger', 'Papa John\'s', 'Portillo\'s', 'El Pollo Loco', 'Johnny Rockets'],
                'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden', 'Panera Bread', 'Buffalo Wild Wings', 'A&W', 'IHOP', 'Denny\'s'] }
 
-	#print('Length: ' + (str)(len(foodDict['fastfood'])) + '\n')
-	tempDests = foodDict['grocery']
-	destinations = []
-	for index in range( len( tempDests ) ):
-		destinations.append(tempDests[index] + ' near Arizona State University')
-	origins = ['Arizona State University']
+	for schoolCat in schoolDict.keys():
+		for school in schoolDict[schoolCat].keys():
+			for foodCat in foodDict:
 
-	# Prepare the request details for the assembly into a request URL
-	payload = {
-		'origins' : '|'.join(origins),
-		'destinations' : '|'.join(destinations),
-		'mode' : 'driving',
-		'api_key' : api_key,
-		'units' : 'imperial'
-	}
+				origins = [school]
+				destinations = []
 
-	# Assemble the URL and query the web service
-	r = requests.get(base_url, params = payload)
+				tempDests = foodDict[foodCat]
+				for index in range( len( tempDests ) ):
+					destinations.append(tempDests[index] + " near " + school)
 
-	# Check the HTTP status code returned by the server. Only process the response,
-	# if the status code is 200 (OK in HTTP terms).
-	if r.status_code != 200:
-		print('HTTP status code {} received, program terminated.'.format(r.status_code))
-	else:
-		try:
-			# Try/catch block should capture the problems when loading JSON data,
-			# such as when JSON is broken. It won't, however, help much if JSON format
-			# for this service has changed -- in that case, the dictionaries json.loads() produces
-			# may not have some of the fields queried later. In a production system, some sort
-			# of verification of JSON file structure is required before processing it. In XML
-			# this role is performed by XML Schema.
-			x = json.loads(r.text)
+				# Prepare the request details for the assembly into a request URL
+				payload = {
+					'origins' : '|'.join(origins),
+					'destinations' : '|'.join(destinations),
+					'mode' : 'driving',
+					'api_key' : api_key,
+					'units' : 'imperial'
+				}
 
-			# Now you can do as you please with the data structure stored in x.
-			# Here, we print it as a Cartesian product.
-			for isrc, src in enumerate(x['origin_addresses']):
-				index = 0
-				for idst, dst in enumerate(x['destination_addresses']):
-					print(foodDict['grocery'][index] + ': ', end='')
-					index += 1
-					row = x['rows'][isrc]
-					cell = row['elements'][idst]
-					if cell['status'] == 'OK':
-						print('{} to {}: {}, {}.'.format(src, dst, cell['distance']['text'], cell['duration']['text']))
-					else:
-						print('{} to {}: status = {}'.format(src, dst, cell['status']))
+				# Assemble the URL and query the web service
+				r = requests.get(base_url, params = payload)
 
-			# Of course, we could have also saved the results in a file,
-			with open('gdmpydemo.json', 'w') as f:
-				f.write(r.text)
+				# Check the HTTP status code returned by the server. Only process the response,
+				# if the status code is 200 (OK in HTTP terms).
+				if r.status_code != 200:
+					print('HTTP status code {} received, program terminated.'.format(r.status_code))
+				else:
+					try:
+						# Try/catch block should capture the problems when loading JSON data,
+						# such as when JSON is broken. It won't, however, help much if JSON format
+						# for this service has changed -- in that case, the dictionaries json.loads() produces
+						# may not have some of the fields queried later. In a production system, some sort
+						# of verification of JSON file structure is required before processing it. In XML
+						# this role is performed by XML Schema.
+						x = json.loads(r.text)
 
-			# TODO Or in a database,
+						# Now you can do as you please with the data structure stored in x.
+						# Here, we print it as a Cartesian product.
+						for isrc, src in enumerate(x['origin_addresses']):
+							index = 0
+							for idst, dst in enumerate(x['destination_addresses']):
+								print( destinations[index] + ": ", end="" )
+								index += 1
+								row = x['rows'][isrc]
+								cell = row['elements'][idst]
+								if cell['status'] == 'OK':
+									print('{} to {}: {}, {}.'.format(src, dst, cell['distance']['text'], cell['duration']['text']))
+								else:
+									print('{} to {}: status = {}'.format(src, dst, cell['status']))
 
-			# Or whatever.
-			# ???
-			# Profit!
+						# Of course, we could have also saved the results in a file,
+						with open('data' + school + foodCat + '.json', 'w') as f:
+							f.write(r.text)
 
-		except ValueError:
-			print('Error while parsing JSON response, program terminated.')
+						# TODO Or in a database,
+
+						# Or whatever.
+						# ???
+						# Profit!
+
+					except ValueError:
+						print('Error while parsing JSON response, program terminated.')
 
 	# Prepare for debugging, but only if interactive. Now you can pprint(x), for example.
 	if sys.flags.interactive:
