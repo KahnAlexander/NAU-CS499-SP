@@ -21,7 +21,7 @@ if __name__ == "__main__":
         # grocery = high quality food
         # sitdown = medium quality
         # fast food = low quality
-        # city included to append to each 
+        # city included to append to each
 	schoolDict = {
 		'communityCollege': {
 			'Coconino Community College': 'Flagstaff, AZ',
@@ -29,7 +29,7 @@ if __name__ == "__main__":
 			'Mesa Community College': 'Mesa, AZ',
 			'Glendale Community College': 'Glendale, AZ',
 			'Paradise Valley Community College': 'Phoenix, AZ',
-			'Rio Salado College': 'Tempe, AZ', 
+			'Rio Salado College': 'Tempe, AZ',
 			'South Mountain Community College': 'Phoenix, AZ' },
           	'stateUniversity': {
                         'Northern Arizona University': 'Flagstaff, AZ',
@@ -61,24 +61,26 @@ if __name__ == "__main__":
                         'Brown University': 'Providence, RI',
                         'Yale University': 'New Haven, CT' } }
 	foodDict = {
-               'grocery': ['Bashas\'', 'Safeway'],
+               'grocery': ['Bashas\'', 'Safeway', 'Albertson\'s', 'Von\'s', 'Sprouts', 'Fry\'s', 'Costco', 'Sam\'s Club', 'Whole Foods'],
                'fastfood': ['Wendy\'s', 'McDonald\'s', 'Burger King', 'Panda Express', 'Five Guys', 'Domino\'s', 'Pizza Hut', 'Taco Bell', 'Raising Cane\'s Chicken Fingers',
           	     'Subway', 'Quiznos', 'Arby\'s', 'Little Caesars', 'Chick-fil-A', 'Jack In The Box', 'Carl\'s Jr.', 'Del Taco', 'Sonic Drive-In',
-                     'Freddy\'s Frozen Custard & Steakburgers', 'Culver\'s', 'Whataburger', 'Dairy Queen', 'In-N-Out Burger', 'The Habit Burger Grill'],
-               'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden'] }
+                     'Freddy\'s Frozen Custard & Steakburgers', 'Culver\'s', 'Whataburger', 'Dairy Queen', 'In-N-Out Burger', 'The Habit Burger Grill', 'KFC', 'Wienerschnitzel',
+					 'Smashburger', 'Popeyes Louisiana Kitchen', 'Jimmy John\'s', 'Jersey Mike\'s', 'White Castle', 'Checkers', 'Church\'s Chicken', 'Cinnabon',
+					 'Dunkin\' Donuts', 'Hardee\'s', 'Krispy Kreme', 'Long John Silver\'s', 'Wingstop', 'Tim Hortons', 'Chipotle', 'Starbucks', 'Steakhouse N\' Shake', 'Cafe Rio'
+					 'Bojangles', 'Fatburger', 'Papa John\'s', 'Portillo\'s', 'El Pollo Loco', 'Johnny Rockets'],
+               'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden', 'Panera Bread', 'Buffalo Wild Wings', 'A&W', 'IHOP', 'Denny\'s'] }
 
-	tempDests = foodDict['fastfood']
-	print(tempDests)
+	#print('Length: ' + (str)(len(foodDict['fastfood'])) + '\n')
+	tempDests = foodDict['grocery']
+	destinations = []
 	for index in range( len( tempDests ) ):
-		tempDests[index] += ' Flagstaff, AZ'
-	print(tempDests)
-	origins = ['Northern Arizona University']
-	destinations = tempDests
+		destinations.append(tempDests[index] + ' near Arizona State University')
+	origins = ['Arizona State University']
 
 	# Prepare the request details for the assembly into a request URL
 	payload = {
 		'origins' : '|'.join(origins),
-		'destinations' : '|'.join(destinations), 
+		'destinations' : '|'.join(destinations),
 		'mode' : 'driving',
 		'api_key' : api_key,
 		'units' : 'imperial'
@@ -87,13 +89,13 @@ if __name__ == "__main__":
 	# Assemble the URL and query the web service
 	r = requests.get(base_url, params = payload)
 
-	# Check the HTTP status code returned by the server. Only process the response, 
+	# Check the HTTP status code returned by the server. Only process the response,
 	# if the status code is 200 (OK in HTTP terms).
 	if r.status_code != 200:
 		print('HTTP status code {} received, program terminated.'.format(r.status_code))
 	else:
 		try:
-			# Try/catch block should capture the problems when loading JSON data, 
+			# Try/catch block should capture the problems when loading JSON data,
 			# such as when JSON is broken. It won't, however, help much if JSON format
 			# for this service has changed -- in that case, the dictionaries json.loads() produces
 			# may not have some of the fields queried later. In a production system, some sort
@@ -104,7 +106,10 @@ if __name__ == "__main__":
 			# Now you can do as you please with the data structure stored in x.
 			# Here, we print it as a Cartesian product.
 			for isrc, src in enumerate(x['origin_addresses']):
+				index = 0
 				for idst, dst in enumerate(x['destination_addresses']):
+					print(foodDict['grocery'][index] + ': ', end='')
+					index += 1
 					row = x['rows'][isrc]
 					cell = row['elements'][idst]
 					if cell['status'] == 'OK':
