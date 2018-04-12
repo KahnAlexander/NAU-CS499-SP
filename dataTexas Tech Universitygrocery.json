@@ -8,7 +8,15 @@
       "",
       "6020 34th St, Lubbock, TX 79407, USA",
       "6016 Marsha Sharp Fwy, Lubbock, TX 79407, USA",
-      ""
+      "",
+      "2813 50th St, Lubbock, TX 79413, USA",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "7302 University Ave, Lubbock, TX 79423, USA",
+      "1911 Marsha Sharp Fwy, Lubbock, TX 79415, USA"
    ],
    "origin_addresses" : [ "2500 Broadway, Lubbock, TX 79409, USA" ],
    "rows" : [
@@ -72,6 +80,54 @@
             },
             {
                "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3693
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 439
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6291
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 602
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4497
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 303
+               },
+               "status" : "OK"
             }
          ]
       }

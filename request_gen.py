@@ -1,6 +1,7 @@
 import json
 import sys
 import requests
+import time
 
 if __name__ == "__main__":
 
@@ -61,14 +62,18 @@ if __name__ == "__main__":
                         'Brown University': 'Providence, RI',
                         'Yale University': 'New Haven, CT' } }
 	foodDict = {
-               'grocery': ['Bashas\'', 'Safeway', 'Albertson\'s', 'Von\'s', 'Sprouts', 'Fry\'s', 'Costco', 'Sam\'s Club', 'Whole Foods'],
+               'grocery': ['Bashas\'', 'Safeway', 'Albertson\'s', 'Von\'s', 'Sprouts', 'Fry\'s', 'Costco', 'Sam\'s Club', 'Whole Foods', 'Rainbow', 'Cub Foods',
+			   'Kowalski\'s Markets', 'Lunds & Byerlys', 'H-E-B Grocery', 'Kroger', 'Target', 'Walmart', ],
                'fastfood': ['Wendy\'s', 'McDonald\'s', 'Burger King', 'Panda Express', 'Five Guys', 'Domino\'s', 'Pizza Hut', 'Taco Bell', 'Raising Cane\'s Chicken Fingers',
           	     'Subway', 'Quiznos', 'Arby\'s', 'Little Caesars', 'Chick-fil-A', 'Jack In The Box', 'Carl\'s Jr.', 'Del Taco', 'Sonic Drive-In',
                      'Freddy\'s Frozen Custard & Steakburgers', 'Culver\'s', 'Whataburger', 'Dairy Queen', 'In-N-Out Burger', 'The Habit Burger Grill', 'KFC', 'Wienerschnitzel',
 					 'Smashburger', 'Popeyes Louisiana Kitchen', 'Jimmy John\'s', 'Jersey Mike\'s', 'White Castle', 'Checkers', 'Church\'s Chicken', 'Cinnabon',
 					 'Dunkin\' Donuts', 'Hardee\'s', 'Krispy Kreme', 'Long John Silver\'s', 'Wingstop', 'Tim Hortons', 'Chipotle', 'Starbucks', 'Steakhouse N\' Shake', 'Cafe Rio'
-					 'Bojangles', 'Fatburger', 'Papa John\'s', 'Portillo\'s', 'El Pollo Loco', 'Johnny Rockets'],
-               'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden', 'Panera Bread', 'Buffalo Wild Wings', 'A&W', 'IHOP', 'Denny\'s'] }
+					 'Bojangles', 'Fatburger', 'Papa John\'s', 'Portillo\'s', 'El Pollo Loco', 'Johnny Rockets', 'Schlotzsky\'s', 'Umami Burger', 'Shake Shack'],
+               'sitdown': ['Chili\'s', 'Outback Steakhouse', 'Olive Garden', 'Panera Bread', 'Buffalo Wild Wings', 'A&W', 'IHOP', 'Denny\'s', 'Texas Roadhouse', 'Coco\'s',
+			   		 'Cracker Barrel Old Country Store', 'Pita Jungle', 'Sizzler', 'Red Lobster', 'Bubba Gump Shrimp Co.', 'NORMS Restaurants', 'The Cheesecake Factory',
+					 'Claim Jumper Restaurants', 'Elephant Bar Restaurants', 'TGI Fridays', 'BJ\'s Restaurant & Brewhouse', 'Eureka!', 'Hooters', 'Marie Callender\'s',
+					 'Applebee\'s', 'Islands', 'Carrows', 'El Torito'] }
 
 	for schoolCat in schoolDict.keys():
 		for school in schoolDict[schoolCat].keys():
@@ -133,6 +138,7 @@ if __name__ == "__main__":
 
 					except ValueError:
 						print('Error while parsing JSON response, program terminated.')
+			time.sleep(90)
 
 	# Prepare for debugging, but only if interactive. Now you can pprint(x), for example.
 	if sys.flags.interactive:

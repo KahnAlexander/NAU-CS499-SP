@@ -6,9 +6,17 @@
       "35 S Main St, Hanover, NH 03755, USA",
       "",
       "",
-      "",
+      "137 Countryview Dr, Dartmouth, NS B3B 0E7, Canada",
       "304 Sheep Davis Rd, Concord, NH 03301, USA",
-      "121 S River Rd, Bedford, NH 03110, USA"
+      "121 S River Rd, Bedford, NH 03110, USA",
+      "Dartmouth St, College Station, TX 77840, USA",
+      "",
+      "",
+      "",
+      "949 William D. Fitch Pkwy, College Station, TX 77845, USA",
+      "",
+      "",
+      "4901 Dartmouth College Hwy, Woodsville, NH 03785, USA"
    ],
    "origin_addresses" : [ "Hanover, NH 03755, USA" ],
    "rows" : [
@@ -41,7 +49,15 @@
                "status" : "NOT_FOUND"
             },
             {
-               "status" : "NOT_FOUND"
+               "distance" : {
+                  "text" : "714 mi",
+                  "value" : 1149096
+               },
+               "duration" : {
+                  "text" : "11 hours 6 mins",
+                  "value" : 39954
+               },
+               "status" : "OK"
             },
             {
                "distance" : {
@@ -62,6 +78,54 @@
                "duration" : {
                   "text" : "1 hour 16 mins",
                   "value" : 4535
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,915 mi",
+                  "value" : 3081819
+               },
+               "duration" : {
+                  "text" : "1 day 5 hours",
+                  "value" : 103565
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,919 mi",
+                  "value" : 3088039
+               },
+               "duration" : {
+                  "text" : "1 day 5 hours",
+                  "value" : 103784
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "40.7 mi",
+                  "value" : 65498
+               },
+               "duration" : {
+                  "text" : "43 mins",
+                  "value" : 2606
                },
                "status" : "OK"
             }

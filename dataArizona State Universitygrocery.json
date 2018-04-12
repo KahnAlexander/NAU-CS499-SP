@@ -1,6 +1,6 @@
 {
    "destination_addresses" : [
-      "5990 S Val Vista Dr, Chandler, AZ 85249, USA",
+      "1761 E Warner Rd, Tempe, AZ 85284, USA",
       "926 E Broadway Rd, Tempe, AZ 85282, USA",
       "750 E Guadalupe Rd, Tempe, AZ 85283, USA",
       "2390 N Alma School Rd, Chandler, AZ 85224, USA",
@@ -8,7 +8,15 @@
       "2300 W Baseline Rd, Tempe, AZ 85283, USA",
       "1445 W Elliot Rd, Tempe, AZ 85284, USA",
       "1525 W Bell Rd, Phoenix, AZ 85023, USA",
-      "5120 S Rural Rd, Tempe, AZ 85282, USA"
+      "5120 S Rural Rd, Tempe, AZ 85282, USA",
+      "2060 E Baseline Rd, Phoenix, AZ 85042, USA",
+      "",
+      "440 Water St, Excelsior, MN 55331, USA",
+      "",
+      "7050 E University Dr, Mesa, AZ 85207, USA",
+      "S Kroeger Ln, Tucson, AZ 85745, USA",
+      "1800 E Rio Salado Pkwy Ste 120, Tempe, AZ 85281, USA",
+      "Vista Del Sol J, 671 E Apache Blvd, Tempe, AZ 85281, USA"
    ],
    "origin_addresses" : [ "Tempe, AZ 85281, USA" ],
    "rows" : [
@@ -16,12 +24,12 @@
          "elements" : [
             {
                "distance" : {
-                  "text" : "23.6 mi",
-                  "value" : 37953
+                  "text" : "8.7 mi",
+                  "value" : 13960
                },
                "duration" : {
-                  "text" : "29 mins",
-                  "value" : 1745
+                  "text" : "13 mins",
+                  "value" : 779
                },
                "status" : "OK"
             },
@@ -43,7 +51,7 @@
                },
                "duration" : {
                   "text" : "11 mins",
-                  "value" : 641
+                  "value" : 639
                },
                "status" : "OK"
             },
@@ -109,7 +117,79 @@
                },
                "duration" : {
                   "text" : "9 mins",
-                  "value" : 546
+                  "value" : 545
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13955
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1049
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,643 mi",
+                  "value" : 2644664
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 90007
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "22.0 mi",
+                  "value" : 35483
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1436
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "108 mi",
+                  "value" : 174563
+               },
+               "duration" : {
+                  "text" : "1 hour 39 mins",
+                  "value" : 5926
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2220
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 262
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 564
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 104
                },
                "status" : "OK"
             }

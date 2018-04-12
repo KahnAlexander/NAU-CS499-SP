@@ -4,11 +4,19 @@
       "",
       "750 E Guadalupe Rd, Tempe, AZ 85283, USA",
       "",
-      "",
+      "1706 E Southern Ave, Tempe, AZ 85282, USA",
       "",
       "",
       "700 N 54th St, Chandler, AZ 85226, USA",
-      "5120 S Rural Rd, Tempe, AZ 85282, USA"
+      "5120 S Rural Rd, Tempe, AZ 85282, USA",
+      "2323 W 14th St, Tempe, AZ 85281, USA",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1800 E Rio Salado Pkwy Ste 120, Tempe, AZ 85281, USA",
+      "671 E Apache Blvd, Tempe, AZ 85281, USA"
    ],
    "origin_addresses" : [ "2323 W 14th St, Tempe, AZ 85281, USA" ],
    "rows" : [
@@ -35,7 +43,15 @@
                "status" : "NOT_FOUND"
             },
             {
-               "status" : "NOT_FOUND"
+               "distance" : {
+                  "text" : "6.5 mi",
+                  "value" : 10529
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 679
+               },
+               "status" : "OK"
             },
             {
                "status" : "NOT_FOUND"
@@ -62,6 +78,54 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 552
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "151 ft",
+                  "value" : 46
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 7
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.0 mi",
+                  "value" : 9690
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 824
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4283
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 626
                },
                "status" : "OK"
             }

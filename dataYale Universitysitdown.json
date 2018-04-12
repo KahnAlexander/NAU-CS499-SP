@@ -4,10 +4,30 @@
       "132 Marsh Hill Rd, Orange, CT 06477, USA",
       "310 Universal Dr N, North Haven, CT 06473, USA",
       "1060 Chapel St, New Haven, CT 06511, USA",
-      "1201 Boston Post Road, Milford, CT 06460, United States",
+      "350 Universal Dr N, North Haven, CT 06473, USA",
       "",
       "2400 Dixwell Ave, Hamden, CT 06514, USA",
-      "487 Saw Mill Rd, West Haven, CT 06516, USA"
+      "487 Saw Mill Rd, West Haven, CT 06516, USA",
+      "524 Saw Mill Rd, West Haven, CT 06516, USA",
+      "",
+      "30 Research Dr, Milford, CT 06460, USA",
+      "4 E University Dr, Tempe, AZ 85281, USA",
+      "",
+      "320 Universal Dr N, North Haven, CT 06473, USA",
+      "1501 Broadway, New York, NY 10036, USA",
+      "",
+      "5065 Main St Spc #314, Trumbull, CT 06611, USA",
+      "",
+      "2240 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "2335 Dixwell Ave, Hamden, CT 06514, USA",
+      "1700 W New Haven Ave, Melbourne, FL 32904, USA",
+      "180 York St, New Haven, CT 06511, USA",
+      "990 Boston Post Rd, Milford, CT 06461, USA",
+      "",
+      "526 Boston Post Rd, Orange, CT 06477, USA",
+      "",
+      "",
+      ""
    ],
    "origin_addresses" : [ "New Haven, CT 06520, USA" ],
    "rows" : [
@@ -59,12 +79,12 @@
             },
             {
                "distance" : {
-                  "text" : "10.5 mi",
-                  "value" : 16836
+                  "text" : "5.2 mi",
+                  "value" : 8309
                },
                "duration" : {
-                  "text" : "15 mins",
-                  "value" : 913
+                  "text" : "9 mins",
+                  "value" : 556
                },
                "status" : "OK"
             },
@@ -92,6 +112,162 @@
                   "value" : 429
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8629
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 479
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "8.9 mi",
+                  "value" : 14372
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 717
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2,478 mi",
+                  "value" : 3988402
+               },
+               "duration" : {
+                  "text" : "1 day 13 hours",
+                  "value" : 133937
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7742
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 445
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "77.1 mi",
+                  "value" : 124111
+               },
+               "duration" : {
+                  "text" : "1 hour 34 mins",
+                  "value" : 5631
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "21.3 mi",
+                  "value" : 34281
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1481
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2,066 mi",
+                  "value" : 3324324
+               },
+               "duration" : {
+                  "text" : "1 day 7 hours",
+                  "value" : 110969
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7150
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 730
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,185 mi",
+                  "value" : 1907438
+               },
+               "duration" : {
+                  "text" : "17 hours 28 mins",
+                  "value" : 62865
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1334
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 374
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.2 mi",
+                  "value" : 16440
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 727
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13546
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 791
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             }
          ]
       }

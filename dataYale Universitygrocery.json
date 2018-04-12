@@ -4,11 +4,19 @@
       "",
       "",
       "",
-      "",
+      "195 Yale St #100, Houston, TX 77007, USA",
       "",
       "1718 Boston Post Rd, Milford, CT 06460, USA",
-      "950 N University Dr, Coral Springs, FL 33071, USA",
-      "1686 Boston Post Rd, Milford, CT 06460, USA"
+      "1900 S University Dr, Miramar, FL 33025, USA",
+      "1686 Boston Post Rd, Milford, CT 06460, USA",
+      "1245 Dixwell Ave, Hamden, CT 06514, USA",
+      "1440 University Ave W, St Paul, MN 55104, USA",
+      "",
+      "25 University Ave SE, Minneapolis, MN 55414, USA",
+      "250 University Blvd, Round Rock, TX 78665, USA",
+      "",
+      "200 Universal Dr N, North Haven, CT 06473, USA",
+      "315 Foxon Blvd, New Haven, CT 06513, USA"
    ],
    "origin_addresses" : [ "New Haven, CT 06520, USA" ],
    "rows" : [
@@ -27,7 +35,15 @@
                "status" : "NOT_FOUND"
             },
             {
-               "status" : "NOT_FOUND"
+               "distance" : {
+                  "text" : "1,709 mi",
+                  "value" : 2749878
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 90851
+               },
+               "status" : "OK"
             },
             {
                "status" : "NOT_FOUND"
@@ -45,12 +61,12 @@
             },
             {
                "distance" : {
-                  "text" : "1,327 mi",
-                  "value" : 2134882
+                  "text" : "1,341 mi",
+                  "value" : 2158383
                },
                "duration" : {
-                  "text" : "19 hours 33 mins",
-                  "value" : 70374
+                  "text" : "19 hours 41 mins",
+                  "value" : 70860
                },
                "status" : "OK"
             },
@@ -62,6 +78,78 @@
                "duration" : {
                   "text" : "15 mins",
                   "value" : 874
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3618
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 411
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,268 mi",
+                  "value" : 2041197
+               },
+               "duration" : {
+                  "text" : "19 hours 1 min",
+                  "value" : 68461
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,276 mi",
+                  "value" : 2053101
+               },
+               "duration" : {
+                  "text" : "19 hours 13 mins",
+                  "value" : 69152
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,800 mi",
+                  "value" : 2897453
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 96339
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 mi",
+                  "value" : 8246
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 544
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4493
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 380
                },
                "status" : "OK"
             }

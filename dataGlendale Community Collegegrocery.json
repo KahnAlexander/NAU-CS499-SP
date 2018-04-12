@@ -6,9 +6,17 @@
       "561 N Glendale Ave, Glendale, CA 91206, USA",
       "5130 W Peoria Ave, Glendale, AZ 85302, USA",
       "",
-      "17550 N 79th Ave, Glendale, AZ 85308, USA",
+      "",
       "18501 N 83rd Ave, Glendale, AZ 85308, USA",
-      "331 N Glendale Ave, Glendale, CA 91206, USA"
+      "4701 N 20th St, Phoenix, AZ 85016, USA",
+      "6018 N 67th Ave, Glendale, AZ 85301, USA",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "10404 N 43rd Ave, Glendale, AZ 85302, USA",
+      "5137 W Olive Ave, Glendale, AZ 85302, USA"
    ],
    "origin_addresses" : [ "1500 N Verdugo Rd, Glendale, CA 91208, USA" ],
    "rows" : [
@@ -17,11 +25,11 @@
             {
                "distance" : {
                   "text" : "378 mi",
-                  "value" : 607986
+                  "value" : 608006
                },
                "duration" : {
                   "text" : "5 hours 34 mins",
-                  "value" : 20038
+                  "value" : 20045
                },
                "status" : "OK"
             },
@@ -53,7 +61,7 @@
             {
                "distance" : {
                   "text" : "379 mi",
-                  "value" : 610034
+                  "value" : 610033
                },
                "duration" : {
                   "text" : "5 hours 39 mins",
@@ -65,15 +73,7 @@
                "status" : "NOT_FOUND"
             },
             {
-               "distance" : {
-                  "text" : "380 mi",
-                  "value" : 612318
-               },
-               "duration" : {
-                  "text" : "5 hours 35 mins",
-                  "value" : 20110
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -88,12 +88,60 @@
             },
             {
                "distance" : {
-                  "text" : "2.0 mi",
-                  "value" : 3151
+                  "text" : "382 mi",
+                  "value" : 615319
                },
                "duration" : {
-                  "text" : "8 mins",
-                  "value" : 458
+                  "text" : "5 hours 38 mins",
+                  "value" : 20280
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "375 mi",
+                  "value" : 604295
+               },
+               "duration" : {
+                  "text" : "5 hours 35 mins",
+                  "value" : 20096
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "380 mi",
+                  "value" : 611735
+               },
+               "duration" : {
+                  "text" : "5 hours 42 mins",
+                  "value" : 20525
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "378 mi",
+                  "value" : 609014
+               },
+               "duration" : {
+                  "text" : "5 hours 39 mins",
+                  "value" : 20368
                },
                "status" : "OK"
             }

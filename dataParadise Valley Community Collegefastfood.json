@@ -40,7 +40,7 @@
       "1906 W Bell Rd, Phoenix, AZ 85023, USA",
       "17 E Dunlap Ave, Phoenix, AZ 85020, USA",
       "",
-      "4622 E Cactus Rd, Phoenix, AZ 85032, USA",
+      "16635 N Tatum Blvd, Phoenix, AZ 85032, USA",
       "3317 E Bell Rd #100, Phoenix, AZ 85032, USA",
       "4715 E Cactus Rd, Phoenix, AZ 85032, USA",
       "12005 N Tatum Blvd, Phoenix, AZ 85028, USA",
@@ -48,7 +48,10 @@
       "18413 N Cave Creek Rd, Phoenix, AZ 85032, USA",
       "10574 N 90th St, Scottsdale, AZ 85258, USA",
       "510 E Bell Rd, Phoenix, AZ 85022, USA",
-      "2805 W Agua Fria Fwy, Phoenix, AZ 85027, USA"
+      "2805 W Agua Fria Fwy, Phoenix, AZ 85027, USA",
+      "1520 W Bell Rd, Phoenix, AZ 85023, USA",
+      "",
+      "15030 N Scottsdale Rd #180g1a, Scottsdale, AZ 85254, USA"
    ],
    "origin_addresses" : [ "18401 N 32nd St, Phoenix, AZ 85032, USA" ],
    "rows" : [
@@ -368,7 +371,7 @@
             {
                "distance" : {
                   "text" : "3.2 mi",
-                  "value" : 5078
+                  "value" : 5076
                },
                "duration" : {
                   "text" : "7 mins",
@@ -456,12 +459,12 @@
             },
             {
                "distance" : {
-                  "text" : "6.4 mi",
-                  "value" : 10366
+                  "text" : "3.1 mi",
+                  "value" : 4931
                },
                "duration" : {
-                  "text" : "11 mins",
-                  "value" : 644
+                  "text" : "7 mins",
+                  "value" : 434
                },
                "status" : "OK"
             },
@@ -550,6 +553,31 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 751
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9243
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 710
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "7.2 mi",
+                  "value" : 11631
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 879
                },
                "status" : "OK"
             }

@@ -1,7 +1,532 @@
 {
-   "destination_addresses" : [],
-   "error_message" : "You have exceeded your rate-limit for this API.",
-   "origin_addresses" : [],
-   "rows" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "destination_addresses" : [
+      "320 S Dixie Way, South Bend, IN 46637, USA",
+      "1519 N Ironwood Dr, South Bend, IN 46635, USA",
+      "121 W Lasalle Ave, South Bend, IN 46601, USA",
+      "4906 Grape Rd, Mishawaka, IN 46544, USA",
+      "1233 N Eddy St, South Bend, IN 46617, USA",
+      "1627 Edison Rd, South Bend, IN 46637, USA",
+      "315 LaFortune Student Center, Notre Dame, IN 46556, USA",
+      "231 Dixie Highway, Roseland, IN 46637, USA",
+      "10 E 11th Ave, Columbus, OH 43201, USA",
+      "",
+      "",
+      "52920 Us Hwy 33, South Bend, IN 46637, United States",
+      "52931 IN-933, South Bend, IN 46637, USA",
+      "6501 Grape Rd, Mishawaka, IN 46545, United States",
+      "",
+      "Stinson-Remick Hall of Engineering, Notre Dame, IN 46556, USA",
+      "221 W Day Rd, Mishawaka, IN 46545, USA",
+      "221 W Douglas Rd, Mishawaka, IN 46545, USA",
+      "",
+      "5520 N Main St, Mishawaka, IN 46545, USA",
+      "",
+      "2015 S Bend Ave, South Bend, IN 46637, USA",
+      "350 E University Pkwy, Orem, UT 84058, USA",
+      "1740 N University Dr Unit A, Plantation, FL 33322, USA",
+      "3924 Portage Ave, South Bend, IN 46628, United States",
+      "",
+      "University Of Notre Dame, Smashburger Huddle, Bldg 43, Notre Dame, IN 46556, United States",
+      "2605 Lincoln Way W, South Bend, IN 46628, USA",
+      "1234 N Eddy St #107, South Bend, IN 46617, USA",
+      "5718 N Main St, Mishawaka, IN 46545, USA",
+      "",
+      "410 W McKinley Ave, Mishawaka, IN 46545, USA",
+      "",
+      "",
+      "Indiana, 52931 IN-933 #400, South Bend, IN 46637, United States",
+      "Stinson-Remick Hall of Engineering, Notre Dame, IN 46556, USA",
+      "5615 N Main St, Mishawaka, IN 46545, USA",
+      "319 N Hickory Rd, South Bend, IN 46615, USA",
+      "",
+      "581 Notre Dame St, Belle River, ON N0R 1A0, Canada",
+      "1251 N Eddy St suite 101, South Bend, IN 46617, USA",
+      "217 Cavanaugh Dr, Notre Dame, IN 46556, USA",
+      "52965 State Road 933 N, South Bend, IN 46637, USA",
+      "Holy Cross Dr, Notre Dame, IN 46556, USA",
+      "",
+      "1827 S Bend Ave, South Bend, IN 46637, USA",
+      "5102 N Main St, Mishawaka, IN 46545, USA",
+      "2822 W University Dr, Denton, TX 76201, USA",
+      "",
+      "",
+      "945 W Randolph St, Chicago, IL 60607, USA",
+      "3200 Chestnut St, Philadelphia, PA 19104, USA"
+   ],
+   "origin_addresses" : [ "Notre Dame, IN 46556, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2309
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 192
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2658
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 271
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3151
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 355
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4156
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 434
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "427 ft",
+                  "value" : 130
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 57
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1039
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 146
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3168
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 522
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2939
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 249
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "275 mi",
+                  "value" : 442510
+               },
+               "duration" : {
+                  "text" : "4 hours 26 mins",
+                  "value" : 15934
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3321
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 317
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3285
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 298
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4081
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 422
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3170
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 523
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5079
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 485
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4076
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 398
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4424
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 474
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2031
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 216
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,494 mi",
+                  "value" : 2404060
+               },
+               "duration" : {
+                  "text" : "22 hours 10 mins",
+                  "value" : 79829
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,316 mi",
+                  "value" : 2117336
+               },
+               "duration" : {
+                  "text" : "19 hours 15 mins",
+                  "value" : 69271
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6971
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 621
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3144
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 507
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5274
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 561
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "299 ft",
+                  "value" : 91
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 35
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4720
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 511
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5588
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 615
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3299
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 300
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3170
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 523
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4883
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 542
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4775
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 508
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "238 mi",
+                  "value" : 382742
+               },
+               "duration" : {
+                  "text" : "3 hours 53 mins",
+                  "value" : 13978
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "371 ft",
+                  "value" : 113
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 46
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3183
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 528
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3346
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 357
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2785
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 405
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1472
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 201
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4665
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 478
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,024 mi",
+                  "value" : 1648194
+               },
+               "duration" : {
+                  "text" : "15 hours 3 mins",
+                  "value" : 54169
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "94.6 mi",
+                  "value" : 152202
+               },
+               "duration" : {
+                  "text" : "1 hour 38 mins",
+                  "value" : 5898
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "669 mi",
+                  "value" : 1077374
+               },
+               "duration" : {
+                  "text" : "10 hours 3 mins",
+                  "value" : 36208
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
 }

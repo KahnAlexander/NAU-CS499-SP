@@ -1,28 +1,40 @@
 {
    "destination_addresses" : [
-      "Berkeley, CA, USA",
+      "",
       "1361 Fitzgerald Dr, Pinole, CA 94564, USA",
       "24688 Hesperian Blvd, Hayward, CA 94545, USA",
       "1525 40th St, Emeryville, CA 94608, USA",
       "2090 Diamond Blvd, Concord, CA 94520, USA",
       "Berkeley, CA, USA",
       "4101 San Pablo Ave, Emeryville, CA 94608, USA",
-      "1245 University Ave, Riverside, CA 92507, USA"
+      "1776 Powell St, Emeryville, CA 94608, USA",
+      "32115 Union Landing Blvd, Union City, CA 94587, USA",
+      "1400 Shattuck Ave, Berkeley, CA 94709, USA",
+      "11612 Amargosa Rd, Victorville, CA 92392, USA",
+      "",
+      "1515 Fitzgerald Dr, Pinole, CA 94564, USA",
+      "3700, 1180 Admiral Callaghan Ln, Vallejo, CA 94591, United States",
+      "39 Piers Box M-211, San Francisco, CA 94133, United States",
+      "356 Hartz Ave, Danville, CA 94526, USA",
+      "Berkeley, CA, USA",
+      "1981 Diamond Blvd, Concord, CA 94520, USA",
+      "24177 Southland Dr, Hayward, CA 94545, USA",
+      "31900 Dyer St, Union City, CA 94587, USA",
+      "385 Sun Valley Mall, Concord, CA 94520, USA",
+      "2068 Center St, Berkeley, CA 94704, USA",
+      "",
+      "751 E El Camino Real, Sunnyvale, CA 94087, USA",
+      "2263 S Shore Center, Alameda, CA 94501, USA",
+      "2107 Addison St, Berkeley, CA 94704, USA",
+      "6120 Potrero Ave, El Cerrito, CA 94530, USA",
+      "5 Monarch Bay Dr, San Leandro, CA 94577, USA"
    ],
    "origin_addresses" : [ "Berkeley, CA, USA" ],
    "rows" : [
       {
          "elements" : [
             {
-               "distance" : {
-                  "text" : "1 ft",
-                  "value" : 0
-               },
-               "duration" : {
-                  "text" : "1 min",
-                  "value" : 0
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -92,12 +104,216 @@
             },
             {
                "distance" : {
-                  "text" : "427 mi",
-                  "value" : 686999
+                  "text" : "3.2 mi",
+                  "value" : 5213
                },
                "duration" : {
-                  "text" : "6 hours 25 mins",
-                  "value" : 23117
+                  "text" : "15 mins",
+                  "value" : 901
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "24.1 mi",
+                  "value" : 38838
+               },
+               "duration" : {
+                  "text" : "36 mins",
+                  "value" : 2157
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1484
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 303
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "416 mi",
+                  "value" : 669375
+               },
+               "duration" : {
+                  "text" : "6 hours 28 mins",
+                  "value" : 23250
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "12.3 mi",
+                  "value" : 19833
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1265
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "24.3 mi",
+                  "value" : 39144
+               },
+               "duration" : {
+                  "text" : "35 mins",
+                  "value" : 2108
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "14.0 mi",
+                  "value" : 22605
+               },
+               "duration" : {
+                  "text" : "34 mins",
+                  "value" : 2061
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "21.5 mi",
+                  "value" : 34546
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1798
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "19.8 mi",
+                  "value" : 31938
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1776
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "19.7 mi",
+                  "value" : 31751
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1752
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "24.7 mi",
+                  "value" : 39827
+               },
+               "duration" : {
+                  "text" : "36 mins",
+                  "value" : 2132
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "20.2 mi",
+                  "value" : 32512
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1809
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 766
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 268
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "53.6 mi",
+                  "value" : 86235
+               },
+               "duration" : {
+                  "text" : "1 hour 5 mins",
+                  "value" : 3923
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16297
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1622
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.1 mi",
+                  "value" : 220
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 68
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9899
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 865
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "15.6 mi",
+                  "value" : 25178
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1665
                },
                "status" : "OK"
             }

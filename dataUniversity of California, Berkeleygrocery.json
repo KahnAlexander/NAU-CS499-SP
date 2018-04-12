@@ -2,13 +2,21 @@
    "destination_addresses" : [
       "",
       "1550 Shattuck Ave, Berkeley, CA 94709, USA",
-      "736 1st St, Benicia, CA 94510, USA",
+      "",
       "Berkeley, CA, USA",
       "1075 Monroe St, Albany, CA 94706, USA",
-      "1695 Willow Pass Rd, Concord, CA 94520, USA",
+      "",
       "4801 Central Ave, Richmond, CA 94804, USA",
-      "1225 Concord Ave, Concord, CA 94520, USA",
-      "3000 Telegraph Ave, Berkeley, CA 94705, USA"
+      "",
+      "3000 Telegraph Ave, Berkeley, CA 94705, USA",
+      "2080 Martin Luther King Jr Way, Berkeley, CA 94704, USA",
+      "2700 Hearst Ave, Berkeley, CA 94720, USA",
+      "",
+      "",
+      "",
+      "",
+      "1414 University Ave, Berkeley, CA 94702, USA",
+      "1400 Hilltop Mall Rd, Richmond, CA 94806, USA"
    ],
    "origin_addresses" : [ "Berkeley, CA, USA" ],
    "rows" : [
@@ -29,15 +37,7 @@
                "status" : "OK"
             },
             {
-               "distance" : {
-                  "text" : "26.0 mi",
-                  "value" : 41818
-               },
-               "duration" : {
-                  "text" : "37 mins",
-                  "value" : 2203
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -62,15 +62,7 @@
                "status" : "OK"
             },
             {
-               "distance" : {
-                  "text" : "20.2 mi",
-                  "value" : 32495
-               },
-               "duration" : {
-                  "text" : "30 mins",
-                  "value" : 1808
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -84,15 +76,7 @@
                "status" : "OK"
             },
             {
-               "distance" : {
-                  "text" : "20.9 mi",
-                  "value" : 33636
-               },
-               "duration" : {
-                  "text" : "31 mins",
-                  "value" : 1859
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -102,6 +86,62 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 367
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 934
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 241
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1309
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 267
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1944
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 435
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.4 mi",
+                  "value" : 18319
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1278
                },
                "status" : "OK"
             }

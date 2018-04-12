@@ -4,10 +4,30 @@
       "60 W 23rd St, New York, NY 10010, USA",
       "2 Times Square, New York, NY 10036, USA",
       "10 Union Square E, New York, NY 10003, USA",
-      "253 W 47th St, New York, NY 10036, USA",
+      "2319 Frederick Douglass Blvd, New York, NY 10027, USA",
       "18 E 48th St, New York, NY 10017, USA",
       "235-237 E 14th St, New York, NY 10003, USA",
-      "805 Pennsylvania Ave, Brooklyn, NY 11207, USA"
+      "805 Pennsylvania Ave, Brooklyn, NY 11207, USA",
+      "181 Huguenot St, New Rochelle, NY 10801, USA",
+      "643 Broadway, New York, NY 10012, USA",
+      "4 Merritt Blvd, Fishkill, NY 12524, USA",
+      "",
+      "100-27 Metropolitan Ave, Forest Hills, NY 11375, USA",
+      "5 Times Square, New York, NY 10036, USA",
+      "1501 Broadway, New York, NY 10036, USA",
+      "200 Eastern Pkwy, Ground Floor, Brooklyn, NY 11238, United States",
+      "Queens Center, Queens Blvd, Queens, NY 11373, USA",
+      "2610 New Sutton Road, Hoffman Estates, IL 60192, United States",
+      "68 Greenwich Ave, New York, NY 10011, USA",
+      "761 7th Ave, New York, NY 10019, USA",
+      "750 Sunrise Hwy 5 Green Acres Common, Valley Stream, NY 11581, United States",
+      "New York, NY 10003, USA",
+      "155 W 33rd Street, New York, NY 10001, USA",
+      "",
+      "234 W 42nd St, New York, NY 10036, USA",
+      "425 Coney Island Ave, Brooklyn, NY 11218, USA",
+      "",
+      "132-07 14th Ave, Flushing, NY 11356, USA"
    ],
    "origin_addresses" : [ "New York, NY 10003, USA" ],
    "rows" : [
@@ -59,23 +79,23 @@
             },
             {
                "distance" : {
-                  "text" : "2.8 mi",
-                  "value" : 4514
+                  "text" : "8.2 mi",
+                  "value" : 13178
                },
                "duration" : {
-                  "text" : "20 mins",
-                  "value" : 1213
+                  "text" : "29 mins",
+                  "value" : 1733
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "2.8 mi",
-                  "value" : 4442
+                  "value" : 4563
                },
                "duration" : {
                   "text" : "20 mins",
-                  "value" : 1173
+                  "value" : 1210
                },
                "status" : "OK"
             },
@@ -98,6 +118,202 @@
                "duration" : {
                   "text" : "43 mins",
                   "value" : 2578
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "21.6 mi",
+                  "value" : 34682
+               },
+               "duration" : {
+                  "text" : "41 mins",
+                  "value" : 2443
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 390
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 73
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "72.1 mi",
+                  "value" : 116058
+               },
+               "duration" : {
+                  "text" : "1 hour 28 mins",
+                  "value" : 5308
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "10.1 mi",
+                  "value" : 16209
+               },
+               "duration" : {
+                  "text" : "31 mins",
+                  "value" : 1831
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 3998
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1043
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4272
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1138
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7618
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1575
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.4 mi",
+                  "value" : 13564
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1409
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "823 mi",
+                  "value" : 1323766
+               },
+               "duration" : {
+                  "text" : "12 hours 39 mins",
+                  "value" : 45549
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1261
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 329
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4712
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1251
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "20.3 mi",
+                  "value" : 32612
+               },
+               "duration" : {
+                  "text" : "42 mins",
+                  "value" : 2522
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3143
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 788
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4090
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1075
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12364
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1362
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "14.7 mi",
+                  "value" : 23591
+               },
+               "duration" : {
+                  "text" : "32 mins",
+                  "value" : 1933
                },
                "status" : "OK"
             }

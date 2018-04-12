@@ -8,7 +8,15 @@
       "241 W 37th St Suite 930, New York, NY 10018, USA",
       "517 E 117th St, New York, NY 10035, USA",
       "300 Park Plaza Dr, Secaucus, NJ 07094, USA",
-      "4 Union Square E, New York, NY 10003, USA"
+      "4 Union Square E, New York, NY 10003, USA",
+      "380 5th Ave, New York, NY 10018, USA",
+      "",
+      "",
+      "",
+      "1655 Highway 46 West, New Braunfels, TX 78130, USA",
+      "5161 Hampsted Village Center Way, New Albany, OH 43054, USA",
+      "255 Greenwich St, New York, NY 10007, USA",
+      "500 Bayonne Crossing Way, Bayonne, NJ 07002, USA"
    ],
    "origin_addresses" : [ "New York, NY 10003, USA" ],
    "rows" : [
@@ -39,11 +47,11 @@
             {
                "distance" : {
                   "text" : "1,791 mi",
-                  "value" : 2883059
+                  "value" : 2883057
                },
                "duration" : {
                   "text" : "1 day 3 hours",
-                  "value" : 95645
+                  "value" : 95665
                },
                "status" : "OK"
             },
@@ -110,6 +118,70 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 375
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3532
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 908
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,795 mi",
+                  "value" : 2888274
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 95815
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "533 mi",
+                  "value" : 858021
+               },
+               "duration" : {
+                  "text" : "8 hours 26 mins",
+                  "value" : 30388
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2757
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 598
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.6 mi",
+                  "value" : 17032
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1571
                },
                "status" : "OK"
             }

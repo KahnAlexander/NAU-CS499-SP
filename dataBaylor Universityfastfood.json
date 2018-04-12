@@ -25,7 +25,7 @@
       "801 S 4th St, Waco, TX 76706, USA",
       "1740 N University Dr Unit A, Plantation, FL 33322, USA",
       "1135 Texas 340 Loop, Waco, TX 76705, USA",
-      "301 University Ave, Lubbock, TX 79415, USA",
+      "7615 University Ave, Lubbock, TX 79423, USA",
       "",
       "420 N Valley Mills Dr, Waco, TX 76710, USA",
       "1508 Speight Ave, Waco, TX 76706, USA",
@@ -40,15 +40,18 @@
       "901 S 6th St, Waco, TX 76706, USA",
       "220 S 2nd St Ste 2, Waco, TX 76701, USA",
       "Fletcher Argue, 15 Chancellors Cir, Winnipeg, MB R3T 2N2, Canada",
-      "1115 N Valley Mills Dr, Waco, TX 76710, USA",
+      "721 S 4th St, Waco, TX 76706, USA",
       "1321 S 3rd St, Waco, TX 76706, USA",
       "817 N Jack Kultgen Expy, Waco, TX 76706, USA",
       "",
-      "1703 Preston Ave N Unit 110, Saskatoon, SK S7N 4V2, Canada",
+      "",
       "720 S 7th St, Waco, TX 76706, USA",
       "",
       "2822 W University Dr, Denton, TX 76201, USA",
-      "Space FC-2, Space, 4545 La Jolla Village Dr FC-2, San Diego, CA 92122, United States"
+      "Space FC-2, Space, 4545 La Jolla Village Dr FC-2, San Diego, CA 92122, United States",
+      "1508 N Interstate 35 Frontage Rd, Waco, TX 76706, USA",
+      "452 University Ave, Palo Alto, CA 94301, USA",
+      "4309 La Jolla Village Dr #2350, San Diego, CA 92122, USA"
    ],
    "origin_addresses" : [ "1301 S University Parks Dr, Waco, TX 76706, USA" ],
    "rows" : [
@@ -233,11 +236,11 @@
             {
                "distance" : {
                   "text" : "1,364 mi",
-                  "value" : 2194477
+                  "value" : 2194479
                },
                "duration" : {
-                  "text" : "19 hours 56 mins",
-                  "value" : 71780
+                  "text" : "19 hours 57 mins",
+                  "value" : 71824
                },
                "status" : "OK"
             },
@@ -314,7 +317,7 @@
                },
                "duration" : {
                   "text" : "19 hours 12 mins",
-                  "value" : 69101
+                  "value" : 69136
                },
                "status" : "OK"
             },
@@ -331,12 +334,12 @@
             },
             {
                "distance" : {
-                  "text" : "354 mi",
-                  "value" : 569212
+                  "text" : "350 mi",
+                  "value" : 563942
                },
                "duration" : {
-                  "text" : "5 hours 31 mins",
-                  "value" : 19837
+                  "text" : "5 hours 25 mins",
+                  "value" : 19495
                },
                "status" : "OK"
             },
@@ -379,11 +382,11 @@
             {
                "distance" : {
                   "text" : "726 mi",
-                  "value" : 1168615
+                  "value" : 1168614
                },
                "duration" : {
-                  "text" : "11 hours 8 mins",
-                  "value" : 40087
+                  "text" : "11 hours 9 mins",
+                  "value" : 40113
                },
                "status" : "OK"
             },
@@ -400,12 +403,12 @@
             },
             {
                "distance" : {
-                  "text" : "2.3 mi",
-                  "value" : 3733
+                  "text" : "3.2 mi",
+                  "value" : 5195
                },
                "duration" : {
-                  "text" : "8 mins",
-                  "value" : 491
+                  "text" : "5 mins",
+                  "value" : 309
                },
                "status" : "OK"
             },
@@ -464,12 +467,12 @@
             },
             {
                "distance" : {
-                  "text" : "5.5 mi",
-                  "value" : 8874
+                  "text" : "0.5 mi",
+                  "value" : 835
                },
                "duration" : {
-                  "text" : "13 mins",
-                  "value" : 772
+                  "text" : "2 mins",
+                  "value" : 103
                },
                "status" : "OK"
             },
@@ -499,15 +502,7 @@
                "status" : "NOT_FOUND"
             },
             {
-               "distance" : {
-                  "text" : "1,707 mi",
-                  "value" : 2747700
-               },
-               "duration" : {
-                  "text" : "1 day 3 hours",
-                  "value" : 96712
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -537,11 +532,44 @@
             {
                "distance" : {
                   "text" : "1,345 mi",
-                  "value" : 2164435
+                  "value" : 2164436
                },
                "duration" : {
-                  "text" : "19 hours 38 mins",
-                  "value" : 70705
+                  "text" : "19 hours 39 mins",
+                  "value" : 70717
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1532
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 278
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,768 mi",
+                  "value" : 2845984
+               },
+               "duration" : {
+                  "text" : "1 day 2 hours",
+                  "value" : 94051
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,345 mi",
+                  "value" : 2164710
+               },
+               "duration" : {
+                  "text" : "19 hours 40 mins",
+                  "value" : 70818
                },
                "status" : "OK"
             }

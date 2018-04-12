@@ -13,16 +13,16 @@
       "2500 Broadway St, Lubbock, TX 79409, USA",
       "5711 19th St, Lubbock, TX 79407, USA",
       "2312 19th St B, Lubbock, TX 79401, USA",
-      "Sam's Place Wiggins, 3211 18th St.,, Lubbock, TX 79409, USA",
-      "",
+      "15th St, Lubbock, TX 79409, United States",
+      "2414 Mac Davis Ln, Lubbock, TX 79401, USA",
       "",
       "",
       "101 N University Ave, Lubbock, TX 79415, USA",
-      "6208 19th St, Lubbock, TX 79407, USA",
+      "7732 Milwaukee Ave, Lubbock, TX 79424, USA",
       "",
       "2412 9th St, Lubbock, TX 79401, USA",
       "2311 Avenue Q, Lubbock, TX 79405, USA",
-      "2501 N Tarrant Pkwy, Fort Worth, TX 76177, USA",
+      "2835 W University Dr, Denton, TX 76201, USA",
       "900 University Ave, Riverside, CA 92521, USA",
       "215 University Ave, Lubbock, TX 79415, USA",
       "301 University Ave, Lubbock, TX 79415, USA",
@@ -43,11 +43,14 @@
       "2411 Glenna Goodacre Boulevard, Lubbock, TX 79401, USA",
       "901 Flint Ave, Lubbock, TX 79406, USA",
       "5012 Milwaukee Ave, Lubbock, TX 79407, USA",
-      "703 Flint Ave, Lubbock, TX 79409, USA",
+      "1801 Boston Ave, Lubbock, TX 79409, USA",
       "",
       "2420 9th St, Lubbock, TX 79401, USA",
       "",
       "2822 W University Dr, Denton, TX 76201, USA",
+      "",
+      "3715 19th St, Lubbock, TX 79410, USA",
+      "452 University Ave, Palo Alto, CA 94301, USA",
       ""
    ],
    "origin_addresses" : [ "2500 Broadway, Lubbock, TX 79409, USA" ],
@@ -199,17 +202,25 @@
             },
             {
                "distance" : {
-                  "text" : "0.5 mi",
-                  "value" : 749
+                  "text" : "0.3 mi",
+                  "value" : 444
                },
                "duration" : {
                   "text" : "2 mins",
-                  "value" : 118
+                  "value" : 99
                },
                "status" : "OK"
             },
             {
-               "status" : "NOT_FOUND"
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1081
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 267
+               },
+               "status" : "OK"
             },
             {
                "status" : "NOT_FOUND"
@@ -230,12 +241,12 @@
             },
             {
                "distance" : {
-                  "text" : "3.2 mi",
-                  "value" : 5136
+                  "text" : "6.7 mi",
+                  "value" : 10739
                },
                "duration" : {
-                  "text" : "7 mins",
-                  "value" : 412
+                  "text" : "10 mins",
+                  "value" : 611
                },
                "status" : "OK"
             },
@@ -266,12 +277,12 @@
             },
             {
                "distance" : {
-                  "text" : "324 mi",
-                  "value" : 520926
+                  "text" : "294 mi",
+                  "value" : 473217
                },
                "duration" : {
-                  "text" : "4 hours 44 mins",
-                  "value" : 17028
+                  "text" : "4 hours 36 mins",
+                  "value" : 16532
                },
                "status" : "OK"
             },
@@ -457,12 +468,12 @@
             },
             {
                "distance" : {
-                  "text" : "0.8 mi",
-                  "value" : 1338
+                  "text" : "384 ft",
+                  "value" : 117
                },
                "duration" : {
-                  "text" : "5 mins",
-                  "value" : 275
+                  "text" : "1 min",
+                  "value" : 25
                },
                "status" : "OK"
             },
@@ -491,6 +502,31 @@
                "duration" : {
                   "text" : "4 hours 38 mins",
                   "value" : 16693
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1512
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 161
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,377 mi",
+                  "value" : 2216628
+               },
+               "duration" : {
+                  "text" : "20 hours 40 mins",
+                  "value" : 74426
                },
                "status" : "OK"
             },

@@ -8,7 +8,15 @@
       "",
       "",
       "2301 E Waco Dr, Waco, TX 76705, USA",
-      "13998 Cedar Rd, University Heights, OH 44118, USA"
+      "",
+      "",
+      "1440 University Ave W, St Paul, MN 55104, USA",
+      "",
+      "25 University Ave SE, Minneapolis, MN 55414, USA",
+      "1821 S Valley Mills Dr, Waco, TX 76711, USA",
+      "",
+      "5401 Bosque Blvd, Waco, TX 76710, USA",
+      "1521 N Interstate 35 Frontage Rd, Bellmead, TX 76705, USA"
    ],
    "origin_addresses" : [ "1301 S University Parks Dr, Waco, TX 76706, USA" ],
    "rows" : [
@@ -55,13 +63,69 @@
                "status" : "OK"
             },
             {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
                "distance" : {
-                  "text" : "1,282 mi",
-                  "value" : 2063446
+                  "text" : "1,072 mi",
+                  "value" : 1725958
                },
                "duration" : {
-                  "text" : "18 hours 46 mins",
-                  "value" : 67589
+                  "text" : "15 hours 21 mins",
+                  "value" : 55239
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,074 mi",
+                  "value" : 1727708
+               },
+               "duration" : {
+                  "text" : "15 hours 22 mins",
+                  "value" : 55320
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4230
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 344
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9768
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 878
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6529
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 367
                },
                "status" : "OK"
             }

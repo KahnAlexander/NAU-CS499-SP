@@ -7,8 +7,16 @@
       "",
       "",
       "",
-      "950 N University Dr, Coral Springs, FL 33071, USA",
-      "601 N Main St, Providence, RI 02904, USA"
+      "6001 University Town Centre Dr, Morgantown, WV 26501, USA",
+      "601 N Main St, Providence, RI 02904, USA",
+      "50 Ann Mary St, Pawtucket, RI 02860, USA",
+      "1440 University Ave W, St Paul, MN 55104, USA",
+      "",
+      "",
+      "250 University Blvd, Round Rock, TX 78665, USA",
+      "",
+      "79 Commerce Way, Seekonk, MA 02771, USA",
+      "51 Silver Spring St, Providence, RI 02904, USA"
    ],
    "origin_addresses" : [ "Providence, RI 02912, USA" ],
    "rows" : [
@@ -37,12 +45,12 @@
             },
             {
                "distance" : {
-                  "text" : "1,427 mi",
-                  "value" : 2296693
+                  "text" : "566 mi",
+                  "value" : 910961
                },
                "duration" : {
-                  "text" : "21 hours 6 mins",
-                  "value" : 75967
+                  "text" : "8 hours 56 mins",
+                  "value" : 32136
                },
                "status" : "OK"
             },
@@ -54,6 +62,70 @@
                "duration" : {
                   "text" : "5 mins",
                   "value" : 278
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4023
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 637
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,369 mi",
+                  "value" : 2203085
+               },
+               "duration" : {
+                  "text" : "20 hours 39 mins",
+                  "value" : 74315
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,901 mi",
+                  "value" : 3059340
+               },
+               "duration" : {
+                  "text" : "1 day 4 hours",
+                  "value" : 102192
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9468
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 838
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.9 mi",
+                  "value" : 3060
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 520
                },
                "status" : "OK"
             }

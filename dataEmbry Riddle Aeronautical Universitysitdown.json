@@ -5,9 +5,29 @@
       "1780 W International Speedway Blvd, Daytona Beach, FL 32114, USA",
       "2400 W International Speedway Blvd, Daytona Beach, FL 32124, USA",
       "2479 W International Speedway Blvd, Daytona Beach, FL 32114, USA",
-      "2156 S Ridgewood Ave, South Daytona, FL 32119, USA",
+      "600 S Clyde Morris Blvd, Daytona Beach, FL 32114, USA",
       "155 Bill France Blvd, Daytona Beach, FL 32114, USA",
-      "2701 N Atlantic Ave, Daytona Beach, FL 32118, USA"
+      "2701 N Atlantic Ave, Daytona Beach, FL 32118, USA",
+      "5549 S Williamson Blvd, Port Orange, FL 32128, USA",
+      "",
+      "2325 W International Speedway Blvd, Daytona Beach, FL 32114, USA",
+      "",
+      "",
+      "2625 W International Speedway Blvd, Daytona Beach, FL 32114, USA",
+      "250 N Atlantic Ave Suite 120, Daytona Beach, FL 32118, USA",
+      "",
+      "",
+      "",
+      "2240 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "3813 S Nova Rd, Port Orange, FL 32129, USA",
+      "2514 W International Speedway Blvd, Daytona Beach, FL 32114, USA",
+      "148 Rue des Voiliers, 34280 La Grande-Motte, France",
+      "2100 W International Speedway Blvd, Daytona Beach, FL 32114, USA",
+      "",
+      "1700 W International Speedway Blvd, Daytona Beach, FL 32114, USA",
+      "981 NE 21st Ct, Oak Harbor, WA 98277, USA",
+      "",
+      ""
    ],
    "origin_addresses" : [ "600 S Clyde Morris Blvd, Daytona Beach, FL 32114, USA" ],
    "rows" : [
@@ -62,12 +82,12 @@
             },
             {
                "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6655
+                  "text" : "1 ft",
+                  "value" : 0
                },
                "duration" : {
-                  "text" : "9 mins",
-                  "value" : 564
+                  "text" : "1 min",
+                  "value" : 0
                },
                "status" : "OK"
             },
@@ -92,6 +112,146 @@
                   "value" : 1144
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13950
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 709
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4794
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 401
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4332
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 441
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7102
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 796
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,723 mi",
+                  "value" : 2772157
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 91735
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10107
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 824
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3574
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 367
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2297
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 247
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1409
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 234
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3,156 mi",
+                  "value" : 5079730
+               },
+               "duration" : {
+                  "text" : "1 day 23 hours",
+                  "value" : 168358
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             }
          ]
       }

@@ -2,13 +2,21 @@
    "destination_addresses" : [
       "",
       "",
-      "105 E Southfield Rd, Shreveport, LA 71105, USA",
+      "",
       "Austin, TX 78712, USA",
       "4006 S Lamar Blvd Ste 400, Austin, TX 78704, USA",
       "12707 N Mopac Expy, Austin, TX 78727, USA",
       "10401 Research Blvd, Austin, TX 78759, USA",
       "4970 US-290, Austin, TX 78735, USA",
-      "525 N Lamar Blvd, Austin, TX 78703, USA"
+      "525 N Lamar Blvd, Austin, TX 78703, USA",
+      "5455 N Interstate 35 Frontage Rd, Austin, TX 78723, USA",
+      "525 N Lamar Blvd, Austin, TX 78703, USA",
+      "",
+      "",
+      "Austin, TX 78712, USA",
+      "2303 Boonville Rd, Bryan, TX 77808, USA",
+      "2021 Guadalupe St, Austin, TX 78705, USA",
+      "710 E W Ben White Blvd, Austin, TX 78704, USA"
    ],
    "origin_addresses" : [ "Austin, TX 78712, USA" ],
    "rows" : [
@@ -21,15 +29,7 @@
                "status" : "NOT_FOUND"
             },
             {
-               "distance" : {
-                  "text" : "375 mi",
-                  "value" : 603365
-               },
-               "duration" : {
-                  "text" : "5 hours 27 mins",
-                  "value" : 19603
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -94,6 +94,78 @@
                "duration" : {
                   "text" : "8 mins",
                   "value" : 484
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4477
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 398
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3158
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 484
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "103 mi",
+                  "value" : 165575
+               },
+               "duration" : {
+                  "text" : "1 hour 49 mins",
+                  "value" : 6550
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1235
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 221
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8316
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 581
                },
                "status" : "OK"
             }

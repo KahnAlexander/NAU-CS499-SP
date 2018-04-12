@@ -8,7 +8,15 @@
       "",
       "2 Mystic View Rd, Everett, MA 02149, USA",
       "7 Consumer Square, Plattsburgh, NY 12901, USA",
-      "45 Beacon St, Somerville, MA 02143, USA"
+      "45 Beacon St, Somerville, MA 02143, USA",
+      "13 Winter St, Boston, MA 02108, USA",
+      "",
+      "",
+      "25 University Ave SE, Minneapolis, MN 55414, USA",
+      "",
+      "",
+      "564 Massachusetts Ave, Cambridge, MA 02139, USA",
+      "770 Broadway, Saugus, MA 01906, USA"
    ],
    "origin_addresses" : [ "Cambridge, MA 02138, USA" ],
    "rows" : [
@@ -30,12 +38,12 @@
             },
             {
                "distance" : {
-                  "text" : "2,984 mi",
-                  "value" : 4801531
+                  "text" : "2,986 mi",
+                  "value" : 4805031
                },
                "duration" : {
                   "text" : "1 day 20 hours",
-                  "value" : 156966
+                  "value" : 157089
                },
                "status" : "OK"
             },
@@ -59,7 +67,7 @@
             {
                "distance" : {
                   "text" : "4.2 mi",
-                  "value" : 6720
+                  "value" : 6719
                },
                "duration" : {
                   "text" : "17 mins",
@@ -74,7 +82,7 @@
                },
                "duration" : {
                   "text" : "4 hours 37 mins",
-                  "value" : 16605
+                  "value" : 16630
                },
                "status" : "OK"
             },
@@ -86,6 +94,62 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 259
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6352
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 943
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,387 mi",
+                  "value" : 2231981
+               },
+               "duration" : {
+                  "text" : "20 hours 50 mins",
+                  "value" : 74972
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1397
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 355
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "14.2 mi",
+                  "value" : 22796
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1323
                },
                "status" : "OK"
             }

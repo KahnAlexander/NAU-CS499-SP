@@ -14,10 +14,10 @@
       "9100 University Blvd, Moon, PA 15108, USA",
       "2895 Grays Ferry Ave, Philadelphia, PA 19146, USA",
       "203 N 34th St, Philadelphia, PA 19104, USA",
-      "6950 Olive Blvd, University City, MO 63130, USA",
+      "4020 University Pkwy, San Bernardino, CA 92407, USA",
       "Philadelphia, PA 19104, USA",
-      "2722, 3233 Powelton Ave, Philadelphia, PA 19104, United States",
-      "861 Norland Ave, Chambersburg, PA 17201, USA",
+      "3233 Powelton Ave, Philadelphia, PA 19104, USA",
+      "2201 E Butler St, Philadelphia, PA 19137, USA",
       "2084 Sproul Rd, Broomall, PA 19008, USA",
       "Philadelphia, PA 19104, USA",
       "13229 N Pennsylvania Ave, Oklahoma City, OK 73120, USA",
@@ -26,29 +26,32 @@
       "706 Haddonfield Rd Ste 8, Cherry Hill, NJ 08002, USA",
       "2422 W Passyunk Ave, Philadelphia, PA 19145, USA",
       "",
-      "8500 Essington Ave, Terminal F, Philadelphia, PA 19153, United States",
+      "8000 Essington Ave, Terminal A West, Philadelphia, PA 19153, United States",
       "1516 Chestnut St, Philadelphia, PA 19102, USA",
-      "3925 Walnut St #136, Philadelphia, PA 19104, USA",
+      "3400 Civic Center Blvd, Philadelphia, PA 19104, USA",
       "2955 Market St, Philadelphia, PA 19104, USA",
-      "4053 US-1, Monmouth Junction, NJ 08852, USA",
+      "1280 MacArthur Rd, Whitehall, PA 18052, USA",
       "4322 Market St, Philadelphia, PA 19104, USA",
       "3650 N Broad St, Philadelphia, PA 19140, USA",
       "Aramark Tower, 1101 Market St, Philadelphia, PA 19107, USA",
       "3437 Walnut St, Philadelphia, PA 19104, USA",
-      "2203 Paxton St, Harrisburg, PA 17111, USA",
-      "2 Pennsylvania Plaza, New York, NY 10001, USA",
+      "1201 North Ave, Millvale, PA 15209, USA",
+      "1305 West Chester Pike, Havertown, PA 19083, USA",
       "300 Rodi Rd, Penn Hills, PA 15235, USA",
       "2920 Roberts Ave, Philadelphia, PA 19129, USA",
       "701 Hamilton St, Allentown, PA 18101, USA",
-      "3925 Walnut St, Philadelphia, PA 19104, USA",
+      "3925 Walnut St suite 128, Philadelphia, PA 19104, USA",
       "3401 Walnut St, Philadelphia, PA 19104, USA",
       "3420 Sansom St, Philadelphia, PA 19104, USA",
-      "3200 Chestnut St, Philadelphia, PA 19104, USA",
+      "255 S 36th St, Philadelphia, PA 19104, USA",
       "",
       "104 S 40th St, Philadelphia, PA 19104, USA",
-      "3432 Sansom St, Philadelphia, PA 19104, USA",
+      "Philadelphia, PA 19104, USA",
       "2822 W University Dr, Denton, TX 76201, USA",
-      "443 South St, Philadelphia, PA 19147, USA"
+      "443 South St, Philadelphia, PA 19147, USA",
+      "3417 Spruce St, Philadelphia, PA 19104, USA",
+      "2821 W Girard Ave, Philadelphia, PA 19130, USA",
+      "3200 Chestnut St, Philadelphia, PA 19104, USA"
    ],
    "origin_addresses" : [ "Philadelphia, PA 19104, USA" ],
    "rows" : [
@@ -78,12 +81,12 @@
             },
             {
                "distance" : {
-                  "text" : "3.0 mi",
-                  "value" : 4764
+                  "text" : "2.2 mi",
+                  "value" : 3590
                },
                "duration" : {
-                  "text" : "9 mins",
-                  "value" : 523
+                  "text" : "12 mins",
+                  "value" : 703
                },
                "status" : "OK"
             },
@@ -210,12 +213,12 @@
             },
             {
                "distance" : {
-                  "text" : "893 mi",
-                  "value" : 1437912
+                  "text" : "2,661 mi",
+                  "value" : 4282448
                },
                "duration" : {
-                  "text" : "13 hours 34 mins",
-                  "value" : 48843
+                  "text" : "1 day 15 hours",
+                  "value" : 140513
                },
                "status" : "OK"
             },
@@ -243,12 +246,12 @@
             },
             {
                "distance" : {
-                  "text" : "156 mi",
-                  "value" : 251490
+                  "text" : "8.9 mi",
+                  "value" : 14310
                },
                "duration" : {
-                  "text" : "2 hours 29 mins",
-                  "value" : 8932
+                  "text" : "21 mins",
+                  "value" : 1269
                },
                "status" : "OK"
             },
@@ -287,23 +290,23 @@
             },
             {
                "distance" : {
-                  "text" : "3.2 mi",
-                  "value" : 5106
+                  "text" : "2.3 mi",
+                  "value" : 3779
                },
                "duration" : {
-                  "text" : "10 mins",
-                  "value" : 626
+                  "text" : "13 mins",
+                  "value" : 809
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "1,465 mi",
-                  "value" : 2357792
+                  "value" : 2357790
                },
                "duration" : {
                   "text" : "21 hours 38 mins",
-                  "value" : 77864
+                  "value" : 77869
                },
                "status" : "OK"
             },
@@ -335,11 +338,11 @@
             {
                "distance" : {
                   "text" : "8.7 mi",
-                  "value" : 14076
+                  "value" : 14078
                },
                "duration" : {
                   "text" : "13 mins",
-                  "value" : 791
+                  "value" : 792
                },
                "status" : "OK"
             },
@@ -356,12 +359,12 @@
             },
             {
                "distance" : {
-                  "text" : "1.1 mi",
-                  "value" : 1737
+                  "text" : "0.4 mi",
+                  "value" : 717
                },
                "duration" : {
-                  "text" : "6 mins",
-                  "value" : 356
+                  "text" : "4 mins",
+                  "value" : 239
                },
                "status" : "OK"
             },
@@ -378,12 +381,12 @@
             },
             {
                "distance" : {
-                  "text" : "50.6 mi",
-                  "value" : 81458
+                  "text" : "61.0 mi",
+                  "value" : 98161
                },
                "duration" : {
-                  "text" : "58 mins",
-                  "value" : 3496
+                  "text" : "1 hour 2 mins",
+                  "value" : 3703
                },
                "status" : "OK"
             },
@@ -433,23 +436,23 @@
             },
             {
                "distance" : {
-                  "text" : "103 mi",
-                  "value" : 165599
+                  "text" : "309 mi",
+                  "value" : 496860
                },
                "duration" : {
-                  "text" : "1 hour 40 mins",
-                  "value" : 6002
+                  "text" : "4 hours 49 mins",
+                  "value" : 17339
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "104 mi",
-                  "value" : 166684
+                  "text" : "7.8 mi",
+                  "value" : 12553
                },
                "duration" : {
-                  "text" : "1 hour 49 mins",
-                  "value" : 6529
+                  "text" : "30 mins",
+                  "value" : 1817
                },
                "status" : "OK"
             },
@@ -521,12 +524,12 @@
             },
             {
                "distance" : {
-                  "text" : "0.6 mi",
-                  "value" : 1031
+                  "text" : "0.5 mi",
+                  "value" : 748
                },
                "duration" : {
-                  "text" : "4 mins",
-                  "value" : 260
+                  "text" : "3 mins",
+                  "value" : 175
                },
                "status" : "OK"
             },
@@ -546,23 +549,23 @@
             },
             {
                "distance" : {
-                  "text" : "0.9 mi",
-                  "value" : 1454
+                  "text" : "1 ft",
+                  "value" : 0
                },
                "duration" : {
-                  "text" : "6 mins",
-                  "value" : 384
+                  "text" : "1 min",
+                  "value" : 0
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "1,501 mi",
-                  "value" : 2416243
+                  "value" : 2416240
                },
                "duration" : {
-                  "text" : "22 hours 11 mins",
-                  "value" : 79885
+                  "text" : "22 hours 12 mins",
+                  "value" : 79916
                },
                "status" : "OK"
             },
@@ -574,6 +577,39 @@
                "duration" : {
                   "text" : "14 mins",
                   "value" : 815
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 638
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 150
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4864
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 520
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1016
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 258
                },
                "status" : "OK"
             }

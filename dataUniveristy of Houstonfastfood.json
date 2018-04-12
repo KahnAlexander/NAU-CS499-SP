@@ -7,18 +7,18 @@
       "8505 S Main St, Houston, TX 77025, USA",
       "5733 Kirby Dr, Houston, TX 77005, USA",
       "4835 Calhoun Rd, Houston, TX 77004, USA",
-      "3356 Scott St, Houston, TX 77004, USA",
-      "3007 Ella Blvd, Houston, TX 77018, USA",
-      "4835 Calhoun Rd D, Houston, TX 77004, USA",
+      "2245 W Holcombe Blvd, Houston, TX 77030, USA",
+      "1902 Westheimer Rd, Houston, TX 77098, USA",
+      "2328 W Holcombe Blvd, Houston, TX 77030, USA",
       "1200 McKinney St Ste 401, Houston, TX 77010, USA",
-      "2415 Bay Area Blvd, Houston, TX 77259, USA",
+      "3055 S Loop W, Houston, TX 77054, USA",
       "3331 Telephone Rd b, Houston, TX 77023, USA",
-      "4700 Calhoun Rd, Houston, TX 77004, USA",
-      "3601 Old Spanish Trail, Houston, TX 77021, USA",
+      "3801 Cullen Blvd, Houston, TX 77004, USA",
+      "801 Telephone Rd, Houston, TX 77023, USA",
       "9599 S Main St, Houston, TX 77025, USA",
-      "2509 Oakcliff St, Houston, TX 77023, USA",
+      "4344 University Pkwy, San Bernardino, CA 92407, USA",
       "3626 Old Spanish Trail, Houston, TX 77021, USA",
-      "1111 N Dairy Ashford Rd, Houston, TX 77079, USA",
+      "4637 East Sam Houston Pkwy S, Pasadena, TX 77505, USA",
       "2308 Bissonnet St, Houston, TX 77005, USA",
       "3624 Old Spanish Trail, Houston, TX 77021, USA",
       "3915 Old Spanish Trail, Houston, TX 77021, USA",
@@ -39,16 +39,19 @@
       "8611 Westheimer Rd, Houston, TX 77063, USA",
       "6929 Harrisburg Blvd, Houston, TX 77011, USA",
       "3750 Scott St Ste 100, Houston, TX 77004, USA",
-      "4700 Keele St, North York, ON M3J 1B3, Canada",
-      "909 Texas Ave, Houston, TX 77002, USA",
-      "5801 Kirby Dr, Houston, TX 77005, USA",
+      "Fletcher Argue, 15 Chancellors Cir, Winnipeg, MB R3T 2N2, Canada",
+      "2625 Lousiana St ste k, Houston, TX 77006, USA",
+      "334 Melcher Hall, Houston, TX 77204, United States",
       "1510 Texas Ave, Houston, TX 77002, USA",
       "4450 University Dr Room S105, Houston, TX 77204, USA",
       "",
       "5814 Kirby Dr, Houston, TX 77005, USA",
       "Portillo, Lazaro Cardenas, 96460 Mundo Nuevo, Ver., Mexico",
       "5321 S Rice Ave, Houston, TX 77081, USA",
-      "2119 N Mesa St, El Paso, TX 79902, USA"
+      "Space FC-2, Space, 4545 La Jolla Village Dr FC-2, San Diego, CA 92122, United States",
+      "6969 Gulf Fwy #100, Houston, TX 77087, USA",
+      "452 University Ave, Palo Alto, CA 94301, USA",
+      "6205 Kirby Dr, Houston, TX 77005, USA"
    ],
    "origin_addresses" : [ "4800 Calhoun Rd, Houston, TX 77004, USA" ],
    "rows" : [
@@ -100,12 +103,12 @@
             },
             {
                "distance" : {
-                  "text" : "5.5 mi",
-                  "value" : 8818
+                  "text" : "5.0 mi",
+                  "value" : 8017
                },
                "duration" : {
                   "text" : "18 mins",
-                  "value" : 1108
+                  "value" : 1101
                },
                "status" : "OK"
             },
@@ -133,34 +136,34 @@
             },
             {
                "distance" : {
-                  "text" : "0.4 mi",
-                  "value" : 570
+                  "text" : "4.5 mi",
+                  "value" : 7287
                },
                "duration" : {
-                  "text" : "2 mins",
-                  "value" : 144
+                  "text" : "16 mins",
+                  "value" : 939
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "10.7 mi",
-                  "value" : 17243
+                  "text" : "6.0 mi",
+                  "value" : 9702
                },
                "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1000
+                  "text" : "14 mins",
+                  "value" : 831
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "0.2 mi",
-                  "value" : 385
+                  "text" : "4.6 mi",
+                  "value" : 7441
                },
                "duration" : {
-                  "text" : "1 min",
-                  "value" : 77
+                  "text" : "15 mins",
+                  "value" : 906
                },
                "status" : "OK"
             },
@@ -177,12 +180,12 @@
             },
             {
                "distance" : {
-                  "text" : "20.6 mi",
-                  "value" : 33134
+                  "text" : "7.5 mi",
+                  "value" : 12062
                },
                "duration" : {
-                  "text" : "29 mins",
-                  "value" : 1741
+                  "text" : "15 mins",
+                  "value" : 899
                },
                "status" : "OK"
             },
@@ -199,23 +202,23 @@
             },
             {
                "distance" : {
-                  "text" : "0.6 mi",
-                  "value" : 1014
+                  "text" : "0.4 mi",
+                  "value" : 567
                },
                "duration" : {
                   "text" : "3 mins",
-                  "value" : 185
+                  "value" : 182
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "1.7 mi",
-                  "value" : 2680
+                  "text" : "1.2 mi",
+                  "value" : 1983
                },
                "duration" : {
-                  "text" : "6 mins",
-                  "value" : 353
+                  "text" : "4 mins",
+                  "value" : 246
                },
                "status" : "OK"
             },
@@ -232,12 +235,12 @@
             },
             {
                "distance" : {
-                  "text" : "1.9 mi",
-                  "value" : 2998
+                  "text" : "1,501 mi",
+                  "value" : 2416016
                },
                "duration" : {
-                  "text" : "5 mins",
-                  "value" : 294
+                  "text" : "21 hours 19 mins",
+                  "value" : 76744
                },
                "status" : "OK"
             },
@@ -254,12 +257,12 @@
             },
             {
                "distance" : {
-                  "text" : "19.4 mi",
-                  "value" : 31273
+                  "text" : "15.8 mi",
+                  "value" : 25450
                },
                "duration" : {
-                  "text" : "24 mins",
-                  "value" : 1467
+                  "text" : "19 mins",
+                  "value" : 1130
                },
                "status" : "OK"
             },
@@ -310,11 +313,11 @@
             {
                "distance" : {
                   "text" : "1,166 mi",
-                  "value" : 1876817
+                  "value" : 1876816
                },
                "duration" : {
                   "text" : "16 hours 34 mins",
-                  "value" : 59634
+                  "value" : 59666
                },
                "status" : "OK"
             },
@@ -342,12 +345,12 @@
             },
             {
                "distance" : {
-                  "text" : "5.3 mi",
-                  "value" : 8563
+                  "text" : "4.8 mi",
+                  "value" : 7762
                },
                "duration" : {
                   "text" : "17 mins",
-                  "value" : 1022
+                  "value" : 1015
                },
                "status" : "OK"
             },
@@ -390,8 +393,8 @@
                   "value" : 1273595
                },
                "duration" : {
-                  "text" : "12 hours 26 mins",
-                  "value" : 44785
+                  "text" : "12 hours 27 mins",
+                  "value" : 44796
                },
                "status" : "OK"
             },
@@ -477,34 +480,34 @@
             },
             {
                "distance" : {
-                  "text" : "1,530 mi",
-                  "value" : 2462223
+                  "text" : "1,531 mi",
+                  "value" : 2463777
                },
                "duration" : {
-                  "text" : "23 hours 16 mins",
-                  "value" : 83731
+                  "text" : "22 hours 19 mins",
+                  "value" : 80368
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "4.3 mi",
-                  "value" : 6877
+                  "text" : "2.6 mi",
+                  "value" : 4175
                },
                "duration" : {
-                  "text" : "13 mins",
-                  "value" : 751
+                  "text" : "12 mins",
+                  "value" : 695
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "6.3 mi",
-                  "value" : 10087
+                  "text" : "0.4 mi",
+                  "value" : 723
                },
                "duration" : {
-                  "text" : "13 mins",
-                  "value" : 802
+                  "text" : "3 mins",
+                  "value" : 158
                },
                "status" : "OK"
             },
@@ -568,12 +571,45 @@
             },
             {
                "distance" : {
-                  "text" : "749 mi",
-                  "value" : 1204852
+                  "text" : "1,475 mi",
+                  "value" : 2373591
                },
                "duration" : {
-                  "text" : "10 hours 38 mins",
-                  "value" : 38291
+                  "text" : "20 hours 55 mins",
+                  "value" : 75315
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5885
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 465
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,905 mi",
+                  "value" : 3066277
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 98644
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10601
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 867
                },
                "status" : "OK"
             }

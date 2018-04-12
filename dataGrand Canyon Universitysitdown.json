@@ -5,9 +5,29 @@
       "2710 W North Ln, Phoenix, AZ 85021, USA",
       "10430 N 28th Dr, Phoenix, AZ 85051, USA",
       "2700 W North Ln, Phoenix, AZ 85051, USA",
-      "3300 W Camelback Rd, Phoenix, AZ 85017, USA",
+      "",
       "2000 W Northern Ave, Phoenix, AZ 85021, USA",
-      "3456 W Bethany Home Rd, Phoenix, AZ 85017, USA"
+      "3456 W Bethany Home Rd, Phoenix, AZ 85017, USA",
+      "10051 N Metro Pkwy E, Phoenix, AZ 85051, USA",
+      "",
+      "9312 W Glendale Ave, Glendale, AZ 85305, USA",
+      "5505 N 7th St, Phoenix, AZ 85014, USA",
+      "5060 W Indian School Rd, Phoenix, AZ 85031, USA",
+      "10220 N 28th Dr, Phoenix, AZ 85051, USA",
+      "301 Santa Monica Pier, Building 9, Santa Monica, CA 90401, United States",
+      "",
+      "2402 E Camelback Rd, Phoenix, AZ 85016, USA",
+      "10125 W McDowell Rd, Avondale, AZ 85392, USA",
+      "",
+      "401 E Jefferson St, Phoenix, AZ 85004, USA",
+      "9748 W Northern Ave, Peoria, AZ 85345, USA",
+      "",
+      "",
+      "2420 W Northern Ave, Phoenix, AZ 85021, USA",
+      "2 E Camelback Rd, Phoenix, AZ 85012, USA",
+      "",
+      "",
+      ""
    ],
    "origin_addresses" : [ "3300 W Camelback Rd, Phoenix, AZ 85017, USA" ],
    "rows" : [
@@ -69,15 +89,7 @@
                "status" : "OK"
             },
             {
-               "distance" : {
-                  "text" : "1 ft",
-                  "value" : 0
-               },
-               "duration" : {
-                  "text" : "1 min",
-                  "value" : 0
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -100,6 +112,162 @@
                   "value" : 286
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.7 mi",
+                  "value" : 10825
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 664
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "8.7 mi",
+                  "value" : 13996
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1251
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6744
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 768
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5285
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 522
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.6 mi",
+                  "value" : 10565
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 700
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "388 mi",
+                  "value" : 623912
+               },
+               "duration" : {
+                  "text" : "5 hours 53 mins",
+                  "value" : 21159
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9306
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1163
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "14.1 mi",
+                  "value" : 22729
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1137
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "8.2 mi",
+                  "value" : 13231
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 928
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "9.4 mi",
+                  "value" : 15149
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1218
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6666
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 498
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5151
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 632
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             }
          ]
       }

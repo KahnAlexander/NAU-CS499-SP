@@ -5,9 +5,29 @@
       "6970 N 95th Ave, Glendale, AZ 85305, USA",
       "7635 W Bell Rd, Peoria, AZ 85382, USA",
       "9404 W Westgate Blvd C107, Glendale, AZ 85305, USA",
-      "6000 W Olive Ave, Glendale, AZ 85302, USA",
-      "605 N Glendale Ave, Glendale, CA 91206, USA",
-      "4303 W Peoria Ave, Glendale, AZ 85302, USA"
+      "",
+      "6601 W Peoria Ave, Glendale, AZ 85302, USA",
+      "4303 W Peoria Ave, Glendale, AZ 85302, USA",
+      "10051 N Metro Pkwy E, Phoenix, AZ 85051, USA",
+      "9801 W Bell Rd, Sun City, AZ 85351, USA",
+      "9312 W Glendale Ave, Glendale, AZ 85305, USA",
+      "7530 W Bell Rd #106, Glendale, AZ 85308, USA",
+      "",
+      "10220 N 28th Dr, Phoenix, AZ 85051, USA",
+      "321 W Katella Ave Suite 101, Anaheim, CA 92802, USA",
+      "",
+      "16134 N 83rd Ave, Peoria, AZ 85382, USA",
+      "3063 W Agua Fria Freeway, Phoenix, AZ 85027, United States",
+      "16160 N 83rd Ave, Peoria, AZ 85382, USA",
+      "401 E Jefferson St, Phoenix, AZ 85004, USA",
+      "9748 W Northern Ave, Peoria, AZ 85345, USA",
+      "1500 N Verdugo Rd, Glendale, CA 91208, USA",
+      "10223 North Metro Parkway, Phoenix, AZ 85201, USA",
+      "4930 W Bell Rd, Glendale, AZ 85308, USA",
+      "5880 W Peoria Ave, Glendale, AZ 85302, USA",
+      "214 Green Ln W, Epsom, Auckland 1051, New Zealand",
+      "",
+      ""
    ],
    "origin_addresses" : [ "1500 N Verdugo Rd, Glendale, CA 91208, USA" ],
    "rows" : [
@@ -30,7 +50,7 @@
             {
                "distance" : {
                   "text" : "371 mi",
-                  "value" : 597241
+                  "value" : 597240
                },
                "duration" : {
                   "text" : "5 hours 26 mins",
@@ -61,37 +81,209 @@
                "status" : "OK"
             },
             {
-               "distance" : {
-                  "text" : "378 mi",
-                  "value" : 607716
-               },
-               "duration" : {
-                  "text" : "5 hours 38 mins",
-                  "value" : 20296
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
-                  "text" : "1.3 mi",
-                  "value" : 2130
+                  "text" : "377 mi",
+                  "value" : 607210
                },
                "duration" : {
-                  "text" : "5 mins",
-                  "value" : 315
+                  "text" : "5 hours 35 mins",
+                  "value" : 20129
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "380 mi",
-                  "value" : 611716
+                  "value" : 611715
                },
                "duration" : {
                   "text" : "5 hours 42 mins",
                   "value" : 20501
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "384 mi",
+                  "value" : 617644
+               },
+               "duration" : {
+                  "text" : "5 hours 39 mins",
+                  "value" : 20332
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "379 mi",
+                  "value" : 609488
+               },
+               "duration" : {
+                  "text" : "5 hours 37 mins",
+                  "value" : 20224
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "371 mi",
+                  "value" : 597864
+               },
+               "duration" : {
+                  "text" : "5 hours 27 mins",
+                  "value" : 19649
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "380 mi",
+                  "value" : 610867
+               },
+               "duration" : {
+                  "text" : "5 hours 36 mins",
+                  "value" : 20160
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "384 mi",
+                  "value" : 617384
+               },
+               "duration" : {
+                  "text" : "5 hours 39 mins",
+                  "value" : 20368
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "36.6 mi",
+                  "value" : 58845
+               },
+               "duration" : {
+                  "text" : "44 mins",
+                  "value" : 2615
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "379 mi",
+                  "value" : 610134
+               },
+               "duration" : {
+                  "text" : "5 hours 34 mins",
+                  "value" : 20052
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "387 mi",
+                  "value" : 622117
+               },
+               "duration" : {
+                  "text" : "5 hours 40 mins",
+                  "value" : 20383
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "379 mi",
+                  "value" : 610024
+               },
+               "duration" : {
+                  "text" : "5 hours 34 mins",
+                  "value" : 20042
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "379 mi",
+                  "value" : 609366
+               },
+               "duration" : {
+                  "text" : "5 hours 37 mins",
+                  "value" : 20211
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "372 mi",
+                  "value" : 598980
+               },
+               "duration" : {
+                  "text" : "5 hours 27 mins",
+                  "value" : 19611
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "383 mi",
+                  "value" : 617076
+               },
+               "duration" : {
+                  "text" : "5 hours 40 mins",
+                  "value" : 20379
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "386 mi",
+                  "value" : 621514
+               },
+               "duration" : {
+                  "text" : "5 hours 41 mins",
+                  "value" : 20467
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "378 mi",
+                  "value" : 608934
+               },
+               "duration" : {
+                  "text" : "5 hours 38 mins",
+                  "value" : 20303
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             }
          ]
       }

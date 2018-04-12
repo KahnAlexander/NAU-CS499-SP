@@ -7,7 +7,27 @@
       "3015 S University Dr, Fort Worth, TX 76109, USA",
       "2800 S University Dr, Fort Worth, TX 76129, USA",
       "1664 S University Dr, Fort Worth, TX 76107, USA",
-      "4601 S Hulen St, Fort Worth, TX 76132, USA"
+      "4601 S Hulen St, Fort Worth, TX 76132, USA",
+      "4720 SW Loop 820, Fort Worth, TX 76109, USA",
+      "",
+      "8010 Sw Loop 820, Benbrook, TX 76126, United States",
+      "",
+      "",
+      "4805 S Hulen St, Fort Worth, TX 76132, USA",
+      "#5 Kemah Boardwalk, Kemah, TX 77565, United States",
+      "",
+      "455 Commerce St, Fort Worth, TX 76102, USA",
+      "",
+      "2240 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "12750 South Fwy, Burleson, TX 76028, USA",
+      "4720 S Hulen St, Fort Worth, TX 76132, USA",
+      "3005 Stadium Dr, Fort Worth, TX 76109, USA",
+      "5340 Southwest Blvd, Fort Worth, TX 76109, USA",
+      "",
+      "6600 West Fwy, Fort Worth, TX 76116, USA",
+      "",
+      "",
+      "3821 Mansfield Hwy, Fort Worth, TX 76119, USA"
    ],
    "origin_addresses" : [ "2800 S University Dr, Fort Worth, TX 76129, USA" ],
    "rows" : [
@@ -98,6 +118,162 @@
                "duration" : {
                   "text" : "9 mins",
                   "value" : 514
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 4993
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 480
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11029
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 749
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.2 mi",
+                  "value" : 6688
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 679
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "296 mi",
+                  "value" : 476337
+               },
+               "duration" : {
+                  "text" : "4 hours 32 mins",
+                  "value" : 16295
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9121
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 634
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "622 mi",
+                  "value" : 1000272
+               },
+               "duration" : {
+                  "text" : "9 hours 15 mins",
+                  "value" : 33278
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.5 mi",
+                  "value" : 18512
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1033
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5610
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 679
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1484
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 137
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4813
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 623
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.7 mi",
+                  "value" : 9114
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 625
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.4 mi",
+                  "value" : 10240
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1061
                },
                "status" : "OK"
             }

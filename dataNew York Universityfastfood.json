@@ -3,16 +3,16 @@
       "650 Broadway, New York, NY 10012, USA",
       "724 Broadway, New York, NY 10003, USA",
       "106 Liberty St Liberty St, New York, NY 10006, USA",
-      "663 9th Ave, New York, NY 10036, USA",
+      "1277 1st Avenue, New York, NY 10021, USA",
       "43 W 55th St, New York, NY 10019, USA",
       "16A W 8th St, New York, NY 10011, USA",
-      "761 7th Ave #69, New York, NY 10019, USA",
+      "761-69 7th Ave, New York, NY 10019, USA",
       "18 E 14th St, New York, NY 10003, USA",
       "949 Commonwealth Avenue, Boston, MA 02215, USA",
       "New York, NY 10003, USA",
       "5-11 University Pl, New York, NY 10003, USA",
-      "32 E 23rd St, New York, NY 10010, USA",
-      "377 W 125th St, New York, NY 10027, USA",
+      "611 8th Ave, New York, NY 10018, USA",
+      "1936 Third Avenue, New York, NY 10029, USA",
       "5 University Pl #11, New York, NY 10003, USA",
       "1260 S Seguin Ave, New Braunfels, TX 78130, USA",
       "2001, 425 7th Ave, New York, NY 10001, United States",
@@ -26,20 +26,20 @@
       "3 Teterboro Landing Drive, Teterboro, NJ 07608, United States",
       "242 E 14th St, New York, NY 10003, USA",
       "",
-      "136 William St, New York, NY 10038, USA",
+      "10 West 33rd Street, New York, NY 10001, USA",
       "96 Walker St, New York, NY 10013, USA",
-      "96 Hudson St, Hoboken, NJ 07030, USA",
+      "110 1st St, Jersey City, NJ 07302, USA",
       "938 3rd Ave, New York, NY 10022, USA",
       "351 103rd St, New York, NY 10029, USA",
       "12 W Fordham Rd, Bronx, NY 10468, USA",
       "705 8th Ave, New York, NY 10036, USA",
-      "1313 Broadway, New York, NY 10001, USA",
+      "90-15 Queens Blvd. Sp. 201-202, Elmhurst, NY 11373, United States",
       "110 E 14th St A, New York, NY 10003, USA",
       "351 Myrtle Ave, Brooklyn, NY 11205, USA",
       "2 Pennsylvania Plaza, New York, NY 10001, USA",
       "606 Broadhollow Rd, Melville, NY 11747, USA",
       "63 W 125th St #65, New York, NY 10027, USA",
-      "2 Pennsylvania Plaza, New York, NY 10121, USA",
+      "761 7th Ave, New York, NY 10019, USA",
       "55 E 8th St, New York, NY 10003, USA",
       "45 West 4th Street, New York, NY 10012, USA",
       "1695 Broadway, New York, NY 10019, USA",
@@ -48,7 +48,10 @@
       "343 Grand St, New York, NY 10002, USA",
       "",
       "33 Park Hill Ave, Yonkers, NY 10701, USA",
-      "930 3rd Ave, New York, NY 10022, USA"
+      "930 3rd Ave, New York, NY 10022, USA",
+      "",
+      "225 Liberty St Suite 247, New York, NY 10281, USA",
+      "Madison Ave & E 23rd St, New York, NY 10010, USA"
    ],
    "origin_addresses" : [ "New York, NY 10003, USA" ],
    "rows" : [
@@ -89,12 +92,12 @@
             },
             {
                "distance" : {
-                  "text" : "3.3 mi",
-                  "value" : 5300
+                  "text" : "4.2 mi",
+                  "value" : 6688
                },
                "duration" : {
                   "text" : "19 mins",
-                  "value" : 1116
+                  "value" : 1165
                },
                "status" : "OK"
             },
@@ -177,23 +180,23 @@
             },
             {
                "distance" : {
-                  "text" : "1.5 mi",
-                  "value" : 2334
+                  "text" : "2.5 mi",
+                  "value" : 4006
                },
                "duration" : {
-                  "text" : "11 mins",
-                  "value" : 643
+                  "text" : "18 mins",
+                  "value" : 1052
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "8.0 mi",
-                  "value" : 12880
+                  "text" : "6.4 mi",
+                  "value" : 10256
                },
                "duration" : {
-                  "text" : "27 mins",
-                  "value" : 1636
+                  "text" : "24 mins",
+                  "value" : 1422
                },
                "status" : "OK"
             },
@@ -211,11 +214,11 @@
             {
                "distance" : {
                   "text" : "1,789 mi",
-                  "value" : 2878916
+                  "value" : 2878914
                },
                "duration" : {
                   "text" : "1 day 2 hours",
-                  "value" : 95357
+                  "value" : 95377
                },
                "status" : "OK"
             },
@@ -244,7 +247,7 @@
             {
                "distance" : {
                   "text" : "27.0 mi",
-                  "value" : 43501
+                  "value" : 43502
                },
                "duration" : {
                   "text" : "43 mins",
@@ -254,12 +257,12 @@
             },
             {
                "distance" : {
-                  "text" : "1,075 mi",
-                  "value" : 1730237
+                  "text" : "1,074 mi",
+                  "value" : 1728964
                },
                "duration" : {
-                  "text" : "15 hours 46 mins",
-                  "value" : 56741
+                  "text" : "15 hours 45 mins",
+                  "value" : 56680
                },
                "status" : "OK"
             },
@@ -277,11 +280,11 @@
             {
                "distance" : {
                   "text" : "1,789 mi",
-                  "value" : 2879357
+                  "value" : 2879354
                },
                "duration" : {
                   "text" : "1 day 3 hours",
-                  "value" : 95564
+                  "value" : 95584
                },
                "status" : "OK"
             },
@@ -335,11 +338,11 @@
             {
                "distance" : {
                   "text" : "1.8 mi",
-                  "value" : 2906
+                  "value" : 2956
                },
                "duration" : {
-                  "text" : "13 mins",
-                  "value" : 805
+                  "text" : "15 mins",
+                  "value" : 876
                },
                "status" : "OK"
             },
@@ -357,11 +360,11 @@
             {
                "distance" : {
                   "text" : "3.5 mi",
-                  "value" : 5569
+                  "value" : 5708
                },
                "duration" : {
                   "text" : "15 mins",
-                  "value" : 879
+                  "value" : 882
                },
                "status" : "OK"
             },
@@ -411,12 +414,12 @@
             },
             {
                "distance" : {
-                  "text" : "2.3 mi",
-                  "value" : 3758
+                  "text" : "8.4 mi",
+                  "value" : 13507
                },
                "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1035
+                  "text" : "23 mins",
+                  "value" : 1375
                },
                "status" : "OK"
             },
@@ -477,12 +480,12 @@
             },
             {
                "distance" : {
-                  "text" : "1.9 mi",
-                  "value" : 3127
+                  "text" : "2.9 mi",
+                  "value" : 4713
                },
                "duration" : {
-                  "text" : "14 mins",
-                  "value" : 811
+                  "text" : "21 mins",
+                  "value" : 1251
                },
                "status" : "OK"
             },
@@ -574,6 +577,31 @@
                "duration" : {
                   "text" : "19 mins",
                   "value" : 1161
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3160
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 647
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2682
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 658
                },
                "status" : "OK"
             }

@@ -8,7 +8,15 @@
       "",
       "517 E 117th St, New York, NY 10035, USA",
       "300 Park Plaza Dr, Secaucus, NJ 07094, USA",
-      "100 W 125th St, New York, NY 10027, USA"
+      "808 Columbus Ave, New York, NY 10025, USA",
+      "308 W 125th St, New York, NY 10027, USA",
+      "1440 University Ave W, St Paul, MN 55104, USA",
+      "",
+      "25 University Ave SE, Minneapolis, MN 55414, USA",
+      "110 W Brazos Ave, West Columbia, TX 77486, USA",
+      "3403 Forest Dr, Columbia, SC 29204, USA",
+      "543 River Rd, Edgewater, NJ 07020, USA",
+      "2100 88th St, North Bergen, NJ 07047, USA"
    ],
    "origin_addresses" : [ "116th St & Broadway, New York, NY 10027, USA" ],
    "rows" : [
@@ -20,11 +28,11 @@
             {
                "distance" : {
                   "text" : "239 mi",
-                  "value" : 384193
+                  "value" : 384130
                },
                "duration" : {
                   "text" : "4 hours 1 min",
-                  "value" : 14436
+                  "value" : 14431
                },
                "status" : "OK"
             },
@@ -61,23 +69,103 @@
             },
             {
                "distance" : {
-                  "text" : "15.7 mi",
-                  "value" : 25247
+                  "text" : "15.6 mi",
+                  "value" : 25184
                },
                "duration" : {
                   "text" : "28 mins",
-                  "value" : 1668
+                  "value" : 1661
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "1.2 mi",
-                  "value" : 1924
+                  "text" : "1.0 mi",
+                  "value" : 1620
                },
                "duration" : {
-                  "text" : "8 mins",
-                  "value" : 507
+                  "text" : "6 mins",
+                  "value" : 352
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1355
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 343
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,196 mi",
+                  "value" : 1924648
+               },
+               "duration" : {
+                  "text" : "17 hours 59 mins",
+                  "value" : 64722
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,203 mi",
+                  "value" : 1936552
+               },
+               "duration" : {
+                  "text" : "18 hours 10 mins",
+                  "value" : 65412
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,691 mi",
+                  "value" : 2722126
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 89845
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "712 mi",
+                  "value" : 1145315
+               },
+               "duration" : {
+                  "text" : "10 hours 44 mins",
+                  "value" : 38632
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.3 mi",
+                  "value" : 13370
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1482
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16106
+               },
+               "duration" : {
+                  "text" : "26 mins",
+                  "value" : 1555
                },
                "status" : "OK"
             }

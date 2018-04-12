@@ -27,9 +27,9 @@
       "609 Sagamore Pkwy W, West Lafayette, IN 47906, USA",
       "",
       "",
-      "3021 W 16th St, Indianapolis, IN 46222, USA",
+      "",
       "311 W State St, West Lafayette, IN 47906, USA",
-      "37 US-41, Schererville, IN 46375, USA",
+      "2415 University Commons Way, Knoxville, TN 37919, USA",
       "4723 Meijer Ct, Lafayette, IN 47905, USA",
       "4000 University Dr, Huntsville, AL 35816, USA",
       "2501 University Blvd E, Tuscaloosa, AL 35404, USA",
@@ -38,7 +38,7 @@
       "",
       "",
       "2839 Teal Rd W, Lafayette, IN 47905, USA",
-      "7711 Shelby St a, Indianapolis, IN 46227, USA",
+      "",
       "",
       "200 W State St, West Lafayette, IN 47906, USA",
       "1196 3rd Street, West Lafayette, IN 47907, USA",
@@ -48,7 +48,10 @@
       "1400 W State St, West Lafayette, IN 47906, USA",
       "",
       "2822 W University Dr, Denton, TX 76201, USA",
-      ""
+      "",
+      "",
+      "452 University Ave, Palo Alto, CA 94301, USA",
+      "3200 Chestnut St, Philadelphia, PA 19104, USA"
    ],
    "origin_addresses" : [ "610 Purdue Mall, West Lafayette, IN 47907, USA" ],
    "rows" : [
@@ -286,11 +289,11 @@
             {
                "distance" : {
                   "text" : "1,239 mi",
-                  "value" : 1993539
+                  "value" : 1993538
                },
                "duration" : {
-                  "text" : "17 hours 54 mins",
-                  "value" : 64448
+                  "text" : "17 hours 55 mins",
+                  "value" : 64480
                },
                "status" : "OK"
             },
@@ -312,15 +315,7 @@
                "status" : "NOT_FOUND"
             },
             {
-               "distance" : {
-                  "text" : "63.9 mi",
-                  "value" : 102778
-               },
-               "duration" : {
-                  "text" : "1 hour 9 mins",
-                  "value" : 4113
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -335,12 +330,12 @@
             },
             {
                "distance" : {
-                  "text" : "90.3 mi",
-                  "value" : 145263
+                  "text" : "427 mi",
+                  "value" : 687233
                },
                "duration" : {
-                  "text" : "1 hour 39 mins",
-                  "value" : 5925
+                  "text" : "6 hours 27 mins",
+                  "value" : 23217
                },
                "status" : "OK"
             },
@@ -417,15 +412,7 @@
                "status" : "OK"
             },
             {
-               "distance" : {
-                  "text" : "77.6 mi",
-                  "value" : 124807
-               },
-               "duration" : {
-                  "text" : "1 hour 22 mins",
-                  "value" : 4914
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "status" : "NOT_FOUND"
@@ -504,6 +491,31 @@
             },
             {
                "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2,264 mi",
+                  "value" : 3643773
+               },
+               "duration" : {
+                  "text" : "1 day 9 hours",
+                  "value" : 119938
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "709 mi",
+                  "value" : 1140557
+               },
+               "duration" : {
+                  "text" : "10 hours 54 mins",
+                  "value" : 39225
+               },
+               "status" : "OK"
             }
          ]
       }

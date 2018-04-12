@@ -24,7 +24,7 @@
       "603 S Milton Rd, Flagstaff, AZ 86001, USA",
       "3040 AZ-69, Prescott, AZ 86301, USA",
       "1400 S Milton Rd, Flagstaff, AZ 86001, USA",
-      "2004 Historic Rte 66, Flagstaff, AZ 86004, USA",
+      "",
       "",
       "1020 S Milton Rd, Flagstaff, AZ 86001, USA",
       "",
@@ -47,7 +47,10 @@
       "",
       "105 S Milton Rd, Flagstaff, AZ 86001, USA",
       "",
-      "483 College Blvd, Oceanside, CA 92057, USA",
+      "32089 Date Palm Dr, Cathedral City, CA 92234, USA",
+      "",
+      "",
+      "225 Liberty St Suite 247, New York, NY 10281, USA",
       ""
    ],
    "origin_addresses" : [ "2800 S Lone Tree Rd, Flagstaff, AZ 86005, USA" ],
@@ -295,15 +298,7 @@
                "status" : "OK"
             },
             {
-               "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6660
-               },
-               "duration" : {
-                  "text" : "11 mins",
-                  "value" : 670
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "status" : "NOT_FOUND"
@@ -429,12 +424,29 @@
             },
             {
                "distance" : {
-                  "text" : "494 mi",
-                  "value" : 794672
+                  "text" : "395 mi",
+                  "value" : 636026
                },
                "duration" : {
-                  "text" : "7 hours 27 mins",
-                  "value" : 26824
+                  "text" : "5 hours 47 mins",
+                  "value" : 20820
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2,316 mi",
+                  "value" : 3727977
+               },
+               "duration" : {
+                  "text" : "1 day 10 hours",
+                  "value" : 123496
                },
                "status" : "OK"
             },

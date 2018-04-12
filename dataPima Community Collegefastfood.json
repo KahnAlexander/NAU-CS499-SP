@@ -2,18 +2,18 @@
    "destination_addresses" : [
       "3643 N Campbell Ave, Tucson, AZ 85719, USA",
       "4960 W Ajo Hwy, Tucson, AZ 85757, USA",
-      "1681 W Valencia Rd, Tucson, AZ 85746, USA",
-      "2800 N Campbell Ave, Tucson, AZ 85719, USA",
+      "1370 W Ajo Way, Tucson, AZ 85713, USA",
+      "7401 N La Cholla Blvd, Tucson, AZ 85741, USA",
       "4362 N Oracle Rd, Tucson, AZ 85705, USA",
       "4390 N 1st Ave, Tucson, AZ 85719, USA",
-      "1502 W St Mary’s Rd Suite 110, Tucson, AZ 85745, USA",
-      "7140 N Thornydale Rd, Tucson, AZ 85741, USA",
+      "1502 W. Saint Marys Suite 110, Tucson, AZ 85745, USA",
+      "495 E Wetmore Rd, Tucson, AZ 85705, USA",
       "6352 E Broadway Blvd, Tucson, AZ 85710, USA",
       "7262 N Oracle Rd, Tucson, AZ 85704, USA",
-      "1151 E Hermans Rd, Tucson, AZ 85706, USA",
+      "10785 N Oracle Rd Suite 167, Tucson, AZ 85737, USA",
       "1893 W Grant Rd, Tucson, AZ 85745, USA",
-      "1625 W Valencia Rd suite 111, Tucson, AZ 85746, USA",
-      "4585 N Oracle Rd, Tucson, AZ 85705, USA",
+      "2980 S 6th Ave #120, Tucson, AZ 85713, USA",
+      "1303 E University Blvd, Tucson, AZ 85719, USA",
       "3397 S 6th Ave, Tucson, AZ 85713, USA",
       "615 W Congress St, Tucson, AZ 85745, USA",
       "1530 W Grant Rd, Tucson, AZ 85745, USA",
@@ -38,17 +38,20 @@
       "",
       "5621 E Broadway Blvd, Tucson, AZ 85711, USA",
       "6565 College Park Square, Virginia Beach, VA 23464, USA",
-      "1710 W Valencia Rd Ste 500, Tucson, AZ 85746, USA",
+      "2106 W Grant Rd, Tucson, AZ 85745, USA",
       "",
       "235 W Wetmore Rd #101, Tucson, AZ 85705, USA",
       "802-804 E University Blvd, Tucson, AZ 85719, USA",
       "1535 N Stone Ave, Tucson, AZ 85705, USA",
       "",
       "5040 Wild Horse Pass Blvd, Chandler, AZ 85226, USA",
-      "1610 W Valencia Rd, Tucson, AZ 85746, USA",
+      "5095 N La Cañada Dr, Tucson, AZ 85704, USA",
       "",
       "3781 W Ina Rd, Tucson, AZ 85741, USA",
-      "6401 W. Marana Center Blvd, Suites #514 & 514-A, Suite 514, Tucson, AZ 85742, United States"
+      "6401 W. Marana Center Blvd, Suites #514 & 514-A, Suite 514, Tucson, AZ 85742, United States",
+      "",
+      "225 Liberty St Suite 247, New York, NY 10281, USA",
+      ""
    ],
    "origin_addresses" : [ "2202 W Anklam Rd, Tucson, AZ 85745, USA" ],
    "rows" : [
@@ -78,23 +81,23 @@
             },
             {
                "distance" : {
-                  "text" : "9.7 mi",
-                  "value" : 15607
+                  "text" : "5.1 mi",
+                  "value" : 8180
                },
                "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1022
+                  "text" : "12 mins",
+                  "value" : 701
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "6.4 mi",
-                  "value" : 10279
+                  "text" : "11.3 mi",
+                  "value" : 18192
                },
                "duration" : {
-                  "text" : "18 mins",
-                  "value" : 1070
+                  "text" : "24 mins",
+                  "value" : 1449
                },
                "status" : "OK"
             },
@@ -133,12 +136,12 @@
             },
             {
                "distance" : {
-                  "text" : "11.0 mi",
-                  "value" : 17743
+                  "text" : "7.1 mi",
+                  "value" : 11483
                },
                "duration" : {
                   "text" : "19 mins",
-                  "value" : 1113
+                  "value" : 1155
                },
                "status" : "OK"
             },
@@ -166,12 +169,12 @@
             },
             {
                "distance" : {
-                  "text" : "13.1 mi",
-                  "value" : 21140
+                  "text" : "14.8 mi",
+                  "value" : 23844
                },
                "duration" : {
-                  "text" : "24 mins",
-                  "value" : 1436
+                  "text" : "36 mins",
+                  "value" : 2153
                },
                "status" : "OK"
             },
@@ -188,23 +191,23 @@
             },
             {
                "distance" : {
-                  "text" : "9.8 mi",
-                  "value" : 15744
+                  "text" : "5.6 mi",
+                  "value" : 8987
                },
                "duration" : {
-                  "text" : "17 mins",
-                  "value" : 1043
+                  "text" : "11 mins",
+                  "value" : 689
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "7.3 mi",
-                  "value" : 11701
+                  "text" : "4.6 mi",
+                  "value" : 7403
                },
                "duration" : {
-                  "text" : "19 mins",
-                  "value" : 1160
+                  "text" : "15 mins",
+                  "value" : 887
                },
                "status" : "OK"
             },
@@ -258,8 +261,8 @@
                   "value" : 16388
                },
                "duration" : {
-                  "text" : "16 mins",
-                  "value" : 988
+                  "text" : "17 mins",
+                  "value" : 999
                },
                "status" : "OK"
             },
@@ -325,7 +328,7 @@
                },
                "duration" : {
                   "text" : "21 mins",
-                  "value" : 1260
+                  "value" : 1271
                },
                "status" : "OK"
             },
@@ -450,12 +453,12 @@
             },
             {
                "distance" : {
-                  "text" : "9.7 mi",
-                  "value" : 15659
+                  "text" : "2.6 mi",
+                  "value" : 4181
                },
                "duration" : {
-                  "text" : "16 mins",
-                  "value" : 985
+                  "text" : "6 mins",
+                  "value" : 366
                },
                "status" : "OK"
             },
@@ -505,18 +508,18 @@
                },
                "duration" : {
                   "text" : "1 hour 30 mins",
-                  "value" : 5375
+                  "value" : 5386
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "9.6 mi",
-                  "value" : 15465
+                  "text" : "7.7 mi",
+                  "value" : 12317
                },
                "duration" : {
-                  "text" : "16 mins",
-                  "value" : 963
+                  "text" : "18 mins",
+                  "value" : 1098
                },
                "status" : "OK"
             },
@@ -530,20 +533,37 @@
                },
                "duration" : {
                   "text" : "19 mins",
-                  "value" : 1158
+                  "value" : 1169
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "15.8 mi",
-                  "value" : 25354
+                  "value" : 25355
                },
                "duration" : {
                   "text" : "22 mins",
-                  "value" : 1294
+                  "value" : 1305
                },
                "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2,407 mi",
+                  "value" : 3873055
+               },
+               "duration" : {
+                  "text" : "1 day 12 hours",
+                  "value" : 129694
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
             }
          ]
       }

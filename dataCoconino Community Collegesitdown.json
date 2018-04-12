@@ -7,7 +7,27 @@
       "2700 S Woodlands Village Blvd #550, Flagstaff, AZ 86001, USA",
       "",
       "2725 S Woodlands Village Blvd, Flagstaff, AZ 86001, USA",
-      "2122 S Milton Rd, Flagstaff, AZ 86001, USA"
+      "2122 S Milton Rd, Flagstaff, AZ 86001, USA",
+      "2201 E W Rte 66, Flagstaff, AZ 86004, USA",
+      "360 W Forest Meadows St, Flagstaff, AZ 86001, USA",
+      "2560 E Lucky Ln, Flagstaff, AZ 86004, USA",
+      "320 Regent St, Flagstaff, AZ 86001, USA",
+      "2105 S Milton Rd, Flagstaff, AZ 86001, USA",
+      "2500 S Beulah Blvd, Flagstaff, AZ 86001, USA",
+      "321 W Katella Ave Suite 101, Anaheim, CA 92802, USA",
+      "",
+      "",
+      "",
+      "5676, 2270 Village Walk Dr, Henderson, NV 89052, United States",
+      "",
+      "6000 Sepulveda Blvd Ste 1111, Culver City, CA 90230, USA",
+      "3000 N Fourth St, Flagstaff, AZ 86004, USA",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
    ],
    "origin_addresses" : [ "2800 S Lone Tree Rd, Flagstaff, AZ 86005, USA" ],
    "rows" : [
@@ -76,6 +96,146 @@
                   "value" : 807
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7315
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 774
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4834
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 648
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6562
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 659
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4048
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 488
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4390
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 568
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4308
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 521
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "462 mi",
+                  "value" : 742936
+               },
+               "duration" : {
+                  "text" : "6 hours 57 mins",
+                  "value" : 25030
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "242 mi",
+                  "value" : 389499
+               },
+               "duration" : {
+                  "text" : "3 hours 42 mins",
+                  "value" : 13331
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "484 mi",
+                  "value" : 779478
+               },
+               "duration" : {
+                  "text" : "7 hours 17 mins",
+                  "value" : 26213
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.5 mi",
+                  "value" : 8835
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 913
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             }
          ]
       }

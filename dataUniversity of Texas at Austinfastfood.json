@@ -1,7 +1,7 @@
 {
    "destination_addresses" : [
       "201 E 21st St, Austin, TX 78705, USA",
-      "1209 Barton Springs Rd, Austin, TX 78704, USA",
+      "10732 Research Blvd, Austin, TX 78759, USA",
       "3427 Jefferson Ave, Austin, TX 78703, USA",
       "2247 Guadalupe St, Austin, TX 78712, USA",
       "3208b Guadalupe St, Austin, TX 78703, USA",
@@ -14,17 +14,17 @@
       "4411 S Lamar Blvd, Austin, TX 78745, USA",
       "5320 Cameron Rd, Austin, TX 78723, USA",
       "24th & Guadalupe, Texas Union, Austin, TX 78713, United States",
-      "1000 E 41st St Unit K, Austin, TX 78751, USA",
+      "6800 Berkman Dr., Bldg. 1, Austin, TX 78723, United States",
       "1039 W University Ave, Georgetown, TX 78628, USA",
-      "3010 Highland Dr, Salt Lake City, UT 84106, USA",
-      "1815 Airport Blvd, Austin, TX 78702, USA",
+      "96 E 12300 S, Draper, UT 84020, USA",
+      "",
       "8300 N FM 620, Austin, TX 78726, USA",
       "2240 W Braker Ln, Austin, TX 78758, USA",
       "2800 Guadalupe St, Austin, TX 78705, USA",
       "3631, 5900 Manor Rd, Austin, TX 78723, United States",
       "2700 Guadalupe St, Austin, TX 78705, USA",
       "15 S River Rd, St. George, UT 84790, USA",
-      "5607 N Lamar Blvd, Austin, TX 78751, USA",
+      "7206 Ed Bluestein Blvd, Austin, TX 78723, USA",
       "2512 W Braker Ln, Austin, TX 78758, USA",
       "1200 Barbara Jordan Blvd #380, Austin, TX 78723, USA",
       "5630 Cameron Rd, Austin, TX 78723, USA",
@@ -32,7 +32,7 @@
       "1000 E 41st St #235, Austin, TX 78751, USA",
       "",
       "",
-      "5339 Cameron Rd, Austin, TX 78723, USA",
+      "1150 Airport Blvd, Austin, TX 78702, USA",
       "19350 N Interstate 35 Frontage Rd, Kyle, TX 78640, USA",
       "2402b Guadalupe St, Austin, TX 78705, USA",
       "Austin, TX 78712, USA",
@@ -40,15 +40,18 @@
       "5600 Cameron Rd, Austin, TX 78723, USA",
       "2410 E Riverside Dr A1, Austin, TX 78741, USA",
       "1701 Austin Ave, Coquitlam, BC V3K 3R2, Canada",
-      "2230 Guadalupe St, Austin, TX 78705, USA",
+      "2230-32, Guadalupe St, Austin, TX 78705, USA",
       "2101 Speedway, Austin, TX 78712, USA",
-      "1900 University Ave, Austin, TX 78705, USA",
+      "281 University Blvd, Round Rock, TX 78664, USA",
       "2110 San Jacinto Blvd, Austin, TX 78712, USA",
       "",
       "411 W Martin Luther King Jr Blvd, Austin, TX 78701, USA",
       "",
-      "7327 San Pedro Ave, San Antonio, TX 78216, USA",
-      "3939 IH-35 South Suite 900 #900, San Marcos, TX 78666, United States"
+      "151 W Bitters Rd, San Antonio, TX 78216, USA",
+      "3939 IH-35 South Suite 900 #900, San Marcos, TX 78666, United States",
+      "218 S Lamar Blvd, Austin, TX 78704, USA",
+      "452 University Ave, Palo Alto, CA 94301, USA",
+      "1100 S Lamar Blvd #2100, Austin, TX 78704, USA"
    ],
    "origin_addresses" : [ "Austin, TX 78712, USA" ],
    "rows" : [
@@ -67,12 +70,12 @@
             },
             {
                "distance" : {
-                  "text" : "2.7 mi",
-                  "value" : 4399
+                  "text" : "9.8 mi",
+                  "value" : 15835
                },
                "duration" : {
-                  "text" : "11 mins",
-                  "value" : 647
+                  "text" : "13 mins",
+                  "value" : 752
                },
                "status" : "OK"
             },
@@ -210,12 +213,12 @@
             },
             {
                "distance" : {
-                  "text" : "1.1 mi",
-                  "value" : 1778
+                  "text" : "4.1 mi",
+                  "value" : 6524
                },
                "duration" : {
-                  "text" : "4 mins",
-                  "value" : 254
+                  "text" : "6 mins",
+                  "value" : 369
                },
                "status" : "OK"
             },
@@ -232,25 +235,17 @@
             },
             {
                "distance" : {
-                  "text" : "1,288 mi",
-                  "value" : 2072559
+                  "text" : "1,271 mi",
+                  "value" : 2045616
                },
                "duration" : {
-                  "text" : "20 hours 24 mins",
-                  "value" : 73421
+                  "text" : "20 hours 8 mins",
+                  "value" : 72465
                },
                "status" : "OK"
             },
             {
-               "distance" : {
-                  "text" : "1.7 mi",
-                  "value" : 2700
-               },
-               "duration" : {
-                  "text" : "5 mins",
-                  "value" : 309
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -320,12 +315,12 @@
             },
             {
                "distance" : {
-                  "text" : "2.8 mi",
-                  "value" : 4531
+                  "text" : "6.1 mi",
+                  "value" : 9812
                },
                "duration" : {
-                  "text" : "10 mins",
-                  "value" : 598
+                  "text" : "9 mins",
+                  "value" : 563
                },
                "status" : "OK"
             },
@@ -392,12 +387,12 @@
             },
             {
                "distance" : {
-                  "text" : "2.4 mi",
-                  "value" : 3937
+                  "text" : "2.3 mi",
+                  "value" : 3710
                },
                "duration" : {
-                  "text" : "6 mins",
-                  "value" : 333
+                  "text" : "7 mins",
+                  "value" : 390
                },
                "status" : "OK"
             },
@@ -408,7 +403,7 @@
                },
                "duration" : {
                   "text" : "22 mins",
-                  "value" : 1292
+                  "value" : 1297
                },
                "status" : "OK"
             },
@@ -502,12 +497,12 @@
             },
             {
                "distance" : {
-                  "text" : "0.7 mi",
-                  "value" : 1071
+                  "text" : "20.4 mi",
+                  "value" : 32873
                },
                "duration" : {
-                  "text" : "4 mins",
-                  "value" : 235
+                  "text" : "22 mins",
+                  "value" : 1330
                },
                "status" : "OK"
             },
@@ -541,12 +536,12 @@
             },
             {
                "distance" : {
-                  "text" : "75.7 mi",
-                  "value" : 121846
+                  "text" : "76.5 mi",
+                  "value" : 123056
                },
                "duration" : {
                   "text" : "1 hour 10 mins",
-                  "value" : 4221
+                  "value" : 4216
                },
                "status" : "OK"
             },
@@ -557,7 +552,40 @@
                },
                "duration" : {
                   "text" : "37 mins",
-                  "value" : 2239
+                  "value" : 2244
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4051
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 580
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,737 mi",
+                  "value" : 2794826
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 91106
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 4994
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 704
                },
                "status" : "OK"
             }

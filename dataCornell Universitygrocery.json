@@ -8,7 +8,15 @@
       "",
       "",
       "830 County Road 64 #2, Elmira, NY 14903, USA",
-      "13998 Cedar Rd, University Heights, OH 44118, USA"
+      "13998 Cedar Rd, University Heights, OH 44118, USA",
+      "",
+      "1440 University Ave W, St Paul, MN 55104, USA",
+      "",
+      "",
+      "250 University Blvd, Round Rock, TX 78665, USA",
+      "",
+      "40 Catherwood Rd, Ithaca, NY 14850, USA",
+      "135 Fairgrounds Memorial Pkwy, Ithaca, NY 14850, USA"
    ],
    "origin_addresses" : [ "Ithaca, NY 14850, USA" ],
    "rows" : [
@@ -62,6 +70,62 @@
                "duration" : {
                   "text" : "5 hours 11 mins",
                   "value" : 18644
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,074 mi",
+                  "value" : 1728784
+               },
+               "duration" : {
+                  "text" : "16 hours 17 mins",
+                  "value" : 58635
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,680 mi",
+                  "value" : 2703596
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 89747
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3417
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 403
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.4 mi",
+                  "value" : 3838
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 630
                },
                "status" : "OK"
             }

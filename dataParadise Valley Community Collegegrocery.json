@@ -8,7 +8,15 @@
       "3035 W Thunderbird Rd, Phoenix, AZ 85053, USA",
       "4570 E Cactus Rd, Phoenix, AZ 85032, USA",
       "1525 W Bell Rd, Phoenix, AZ 85023, USA",
-      "10810 N Tatum Blvd, Phoenix, AZ 85028, USA"
+      "10810 N Tatum Blvd, Phoenix, AZ 85028, USA",
+      "15834 N Cave Creek Rd, Phoenix, AZ 85032, USA",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "12602 N Paradise Village Pkwy W, Phoenix, AZ 85032, USA",
+      "4617 E Bell Rd, Phoenix, AZ 85032, USA"
    ],
    "origin_addresses" : [ "18401 N 32nd St, Phoenix, AZ 85032, USA" ],
    "rows" : [
@@ -102,6 +110,54 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 661
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4087
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 421
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9806
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 616
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4318
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 430
                },
                "status" : "OK"
             }

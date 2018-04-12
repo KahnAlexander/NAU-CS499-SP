@@ -7,7 +7,27 @@
       "Douglas Court, 4140 Lemmon Ave #176, Dallas, TX 75219, USA",
       "",
       "7830 N Central Expy, Dallas, TX 75206, USA",
-      "4400 N Central Expy, Dallas, TX 75206, USA"
+      "4400 N Central Expy, Dallas, TX 75206, USA",
+      "1420 N Peachtree Rd, Mesquite, TX 75149, USA",
+      "",
+      "5304 N Galloway Ave, Mesquite, TX 75150, USA",
+      "4 E University Dr, Tempe, AZ 85281, USA",
+      "",
+      "9069 Vantage Point Dr, Dallas, TX 75243, USA",
+      "396 South Avenue, 3rd Floor, Bloomington, MN 55425, United States",
+      "",
+      "7700 W Northwest Hwy, Dallas, TX 75225, USA",
+      "1530 W Baseline Rd, Tempe, AZ 85283, USA",
+      "",
+      "1713 N Market St, Dallas, TX 75202, USA",
+      "4901 Belt Line Rd, Dallas, TX 75254, USA",
+      "",
+      "",
+      "",
+      "6464 E Northwest Hwy, Ste 510, Dallas, TX 75214, United States",
+      "",
+      "",
+      ""
    ],
    "origin_addresses" : [ "Dallas, TX 75205, USA" ],
    "rows" : [
@@ -92,6 +112,146 @@
                   "value" : 407
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "15.0 mi",
+                  "value" : 24088
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1070
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "16.0 mi",
+                  "value" : 25737
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1064
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,064 mi",
+                  "value" : 1712653
+               },
+               "duration" : {
+                  "text" : "15 hours 12 mins",
+                  "value" : 54719
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11744
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 592
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "928 mi",
+                  "value" : 1493894
+               },
+               "duration" : {
+                  "text" : "13 hours 56 mins",
+                  "value" : 50171
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1.9 mi",
+                  "value" : 3019
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 406
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,059 mi",
+                  "value" : 1704606
+               },
+               "duration" : {
+                  "text" : "15 hours 6 mins",
+                  "value" : 54334
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7910
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 610
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.3 mi",
+                  "value" : 18236
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 910
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2.0 mi",
+                  "value" : 3287
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 460
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             }
          ]
       }

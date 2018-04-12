@@ -8,7 +8,15 @@
       "",
       "5300 Overton Ridge Blvd, Fort Worth, TX 76132, USA",
       "4400 Bryant Irvin Rd, Fort Worth, TX 76132, USA",
-      "3720 Vision Drive, Fort Worth, TX 76109, USA"
+      "3720 Vision Drive, Fort Worth, TX 76109, USA",
+      "3045 South Fwy, Fort Worth, TX 76110, USA",
+      "",
+      "",
+      "",
+      "165 NW John Jones Dr, Burleson, TX 76028, USA",
+      "3120 S University Dr, Fort Worth, TX 76109, USA",
+      "301 Carroll St, Fort Worth, TX 76107, USA",
+      "6300 Oakmont Blvd, Fort Worth, TX 76132, USA"
    ],
    "origin_addresses" : [ "2800 S University Dr, Fort Worth, TX 76129, USA" ],
    "rows" : [
@@ -78,6 +86,70 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 635
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3645
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 447
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "15.7 mi",
+                  "value" : 25331
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1484
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 372
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 89
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5534
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 703
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7151
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 765
                },
                "status" : "OK"
             }

@@ -6,9 +6,17 @@
       "319 W State St, West Lafayette, IN 47906, USA",
       "",
       "",
-      "625 E University Dr, Granger, IN 46530, USA",
+      "",
       "3819 South St, Lafayette, IN 47905, USA",
-      ""
+      "",
+      "",
+      "",
+      "",
+      "25 University Ave SE, Minneapolis, MN 55414, USA",
+      "250 University Blvd, Round Rock, TX 78665, USA",
+      "1032 Sagamore Pkwy W, West Lafayette, IN 47906, USA",
+      "3630 South St, Lafayette, IN 47905, USA",
+      "2801 Northwestern Ave, West Lafayette, IN 47906, USA"
    ],
    "origin_addresses" : [ "610 Purdue Mall, West Lafayette, IN 47907, USA" ],
    "rows" : [
@@ -41,15 +49,7 @@
                "status" : "NOT_FOUND"
             },
             {
-               "distance" : {
-                  "text" : "120 mi",
-                  "value" : 192966
-               },
-               "duration" : {
-                  "text" : "2 hours 18 mins",
-                  "value" : 8297
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -64,6 +64,70 @@
             },
             {
                "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "536 mi",
+                  "value" : 862065
+               },
+               "duration" : {
+                  "text" : "8 hours 3 mins",
+                  "value" : 29005
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,099 mi",
+                  "value" : 1769424
+               },
+               "duration" : {
+                  "text" : "16 hours 8 mins",
+                  "value" : 58092
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3728
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 492
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.1 mi",
+                  "value" : 6552
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 760
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5962
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 422
+               },
+               "status" : "OK"
             }
          ]
       }

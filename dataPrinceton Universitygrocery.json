@@ -1,14 +1,22 @@
 {
    "destination_addresses" : [
       "",
-      "360 Nassau St, Princeton, NJ 08540, USA",
+      "",
       "",
       "330 N Harrison St Ste 4, Princeton, NJ 08540, USA",
       "",
       "",
       "4100 Quakerbridge Rd, Lawrence Township, NJ 08648, USA",
-      "320 W Main St, Freehold, NJ 07728, USA",
-      "3495 Us Route 1 S, Princeton, NJ 08540, United States"
+      "3 Independence Way # 102, Princeton, NJ 08540, USA",
+      "3495 Us Route 1 S, Princeton, NJ 08540, United States",
+      "",
+      "1440 University Ave W, St Paul, MN 55104, USA",
+      "",
+      "25 University Ave SE, Minneapolis, MN 55414, USA",
+      "250 University Blvd, Round Rock, TX 78665, USA",
+      "",
+      "500 Nassau Park Blvd, Princeton, NJ 08540, USA",
+      "101 Nassau Park Blvd, Princeton, NJ 08540, USA"
    ],
    "origin_addresses" : [ "Princeton, NJ 08544, USA" ],
    "rows" : [
@@ -18,15 +26,7 @@
                "status" : "NOT_FOUND"
             },
             {
-               "distance" : {
-                  "text" : "0.8 mi",
-                  "value" : 1352
-               },
-               "duration" : {
-                  "text" : "3 mins",
-                  "value" : 171
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "status" : "NOT_FOUND"
@@ -61,23 +61,87 @@
             },
             {
                "distance" : {
-                  "text" : "22.1 mi",
-                  "value" : 35610
+                  "text" : "4.0 mi",
+                  "value" : 6468
                },
                "duration" : {
-                  "text" : "37 mins",
-                  "value" : 2227
+                  "text" : "7 mins",
+                  "value" : 421
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "3.2 mi",
-                  "value" : 5076
+                  "text" : "3.1 mi",
+                  "value" : 5061
                },
                "duration" : {
                   "text" : "6 mins",
-                  "value" : 361
+                  "value" : 359
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,190 mi",
+                  "value" : 1915495
+               },
+               "duration" : {
+                  "text" : "17 hours 46 mins",
+                  "value" : 63977
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,198 mi",
+                  "value" : 1927399
+               },
+               "duration" : {
+                  "text" : "17 hours 58 mins",
+                  "value" : 64668
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,683 mi",
+                  "value" : 2709057
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 89542
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.0 mi",
+                  "value" : 6448
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 558
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.8 mi",
+                  "value" : 6115
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 410
                },
                "status" : "OK"
             }

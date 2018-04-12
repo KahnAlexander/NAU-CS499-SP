@@ -1,34 +1,34 @@
 {
    "destination_addresses" : [
-      "2755 W Southern Ave, Tempe, AZ 85282, USA",
+      "7050 S 24th St, Phoenix, AZ 85042, USA",
       "2430 E Baseline Rd, Phoenix, AZ 85042, USA",
       "665 E Baseline Rd, Phoenix, AZ 85042, USA",
-      "4750 S 48th St, Phoenix, AZ 85040, USA",
+      "2434 E Baseline Rd #101, Phoenix, AZ 85042, USA",
       "2340 E Baseline Rd, Phoenix, AZ 85042, USA",
       "324 E Southern Ave, Phoenix, AZ 85040, USA",
-      "5233 S Central Ave #9, Phoenix, AZ 85040, USA",
+      "5233 S Central Ave Ste 9, Phoenix, AZ 85040, USA",
       "2465 E Baseline Rd, Phoenix, AZ 85042, USA",
       "960 E University Dr, Tempe, AZ 85281, USA",
       "2160 E Baseline Rd #126, Phoenix, AZ 85042, USA",
       "4001 E Broadway Rd Ste B12A, Phoenix, AZ 85040, USA",
-      "442 Litchfield Rd, Goodyear, AZ 85338, USA",
+      "119 E Baseline Rd, Phoenix, AZ 85040, USA",
       "2434 E Baseline Rd #103, Phoenix, AZ 85042, USA",
       "Taylor Place, 120 E Taylor St, Phoenix, AZ 85004, USA",
       "2330 E Baseline Rd, Phoenix, AZ 85042, USA",
       "1519 W Baseline Rd, Guadalupe, AZ 85283, USA",
-      "1483 N Dysart Rd, Avondale, AZ 85323, USA",
-      "4740 E Baseline Rd, Phoenix, AZ 85040, USA",
+      "4252 S 48TH ST, Phoenix, AZ 85040, United States",
+      "7440 S Jesse Owens Pkwy, Phoenix, AZ 85040, USA",
       "1818 E Elliot Rd, Tempe, AZ 85284, USA",
       "630 E Southern Ave, Tempe, AZ 85282, USA",
       "4610 S 48th St, Phoenix, AZ 85040, USA",
       "3308 E Baseline Rd, Phoenix, AZ 85042, USA",
-      "920 E Playa Del Norte Dr, Tempe, AZ 85281, USA",
+      "7050 W Ray Rd, Chandler, AZ 85226, USA",
       "960 N 54th St, Chandler, AZ 85226, USA",
       "20 E Baseline Rd, Phoenix, AZ 85042, USA",
       "804 S McClintock Dr, Tempe, AZ 85281, USA",
       "2415 E Baseline Rd, Phoenix, AZ 85042, USA",
       "1619 W Baseline Rd, Guadalupe, AZ 85283, USA",
-      "13824 W McDowell Rd #108, Goodyear, AZ 85395, USA",
+      "4740 S 48th St, Phoenix, AZ 85040, USA",
       "2415 E Baseline Rd, Phoenix, AZ 85042, USA",
       "",
       "1410 W University Dr, Tempe, AZ 85281, USA",
@@ -37,18 +37,21 @@
       "1335 W University Dr #11, Tempe, AZ 85281, USA",
       "",
       "1984 W Main St, Mesa, AZ 85201, USA",
-      "8645 N 7th St, Phoenix, AZ 85020, USA",
+      "725 W Southern Ave, Phoenix, AZ 85041, USA",
       "2320 E Baseline Rd Ste 152, Phoenix, AZ 85042, USA",
       "",
-      "2415 E Baseline Rd, Phoenix, AZ 85042, USA",
+      "2415 E Baseline Rd ste 111, Phoenix, AZ 85042, USA",
       "2140 E Baseline Rd, Phoenix, AZ 85042, USA",
-      "8383 S 48th St, Phoenix, AZ 85044, USA",
+      "1080 N 54th St, Chandler, AZ 85226, USA",
       "",
       "5040 Wild Horse Pass Blvd, Chandler, AZ 85226, USA",
-      "5602 S Central Ave, Phoenix, AZ 85040, USA",
+      "26 E Baseline Rd, Phoenix, AZ 85042, USA",
       "65 S McClintock Dr, Tempe, AZ 85281, USA",
       "5009 S Arizona Mills Cir, Tempe, AZ 85282, USA",
-      "Ste. 235**, 5000 S Arizona Mills Cir, Tempe, AZ 85282, United States"
+      "Ste. 235**, 5000 S Arizona Mills Cir, Tempe, AZ 85282, United States",
+      "1401 W Southern Ave, Tempe, AZ 85282, USA",
+      "338 S Anaheim Blvd, Anaheim, CA 92805, USA",
+      "100 E Camelback Rd, Phoenix, AZ 85012, USA"
    ],
    "origin_addresses" : [ "7050 S 24th St, Phoenix, AZ 85042, USA" ],
    "rows" : [
@@ -56,12 +59,12 @@
          "elements" : [
             {
                "distance" : {
-                  "text" : "3.9 mi",
-                  "value" : 6237
+                  "text" : "1 ft",
+                  "value" : 0
                },
                "duration" : {
-                  "text" : "8 mins",
-                  "value" : 465
+                  "text" : "1 min",
+                  "value" : 0
                },
                "status" : "OK"
             },
@@ -89,12 +92,12 @@
             },
             {
                "distance" : {
-                  "text" : "4.6 mi",
-                  "value" : 7374
+                  "text" : "0.5 mi",
+                  "value" : 725
                },
                "duration" : {
-                  "text" : "9 mins",
-                  "value" : 514
+                  "text" : "2 mins",
+                  "value" : 140
                },
                "status" : "OK"
             },
@@ -177,12 +180,12 @@
             },
             {
                "distance" : {
-                  "text" : "24.7 mi",
-                  "value" : 39735
+                  "text" : "2.6 mi",
+                  "value" : 4199
                },
                "duration" : {
-                  "text" : "29 mins",
-                  "value" : 1748
+                  "text" : "6 mins",
+                  "value" : 366
                },
                "status" : "OK"
             },
@@ -232,23 +235,23 @@
             },
             {
                "distance" : {
-                  "text" : "23.9 mi",
-                  "value" : 38412
+                  "text" : "5.1 mi",
+                  "value" : 8242
                },
                "duration" : {
-                  "text" : "30 mins",
-                  "value" : 1789
+                  "text" : "11 mins",
+                  "value" : 653
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "3.4 mi",
-                  "value" : 5530
+                  "text" : "2.6 mi",
+                  "value" : 4106
                },
                "duration" : {
-                  "text" : "9 mins",
-                  "value" : 525
+                  "text" : "6 mins",
+                  "value" : 363
                },
                "status" : "OK"
             },
@@ -298,12 +301,12 @@
             },
             {
                "distance" : {
-                  "text" : "10.1 mi",
-                  "value" : 16206
+                  "text" : "8.5 mi",
+                  "value" : 13652
                },
                "duration" : {
-                  "text" : "18 mins",
-                  "value" : 1060
+                  "text" : "16 mins",
+                  "value" : 979
                },
                "status" : "OK"
             },
@@ -364,12 +367,12 @@
             },
             {
                "distance" : {
-                  "text" : "24.5 mi",
-                  "value" : 39496
+                  "text" : "4.6 mi",
+                  "value" : 7429
                },
                "duration" : {
-                  "text" : "31 mins",
-                  "value" : 1869
+                  "text" : "9 mins",
+                  "value" : 518
                },
                "status" : "OK"
             },
@@ -447,12 +450,12 @@
             },
             {
                "distance" : {
-                  "text" : "15.1 mi",
-                  "value" : 24344
+                  "text" : "4.0 mi",
+                  "value" : 6360
                },
                "duration" : {
-                  "text" : "25 mins",
-                  "value" : 1497
+                  "text" : "10 mins",
+                  "value" : 597
                },
                "status" : "OK"
             },
@@ -494,12 +497,12 @@
             },
             {
                "distance" : {
-                  "text" : "4.1 mi",
-                  "value" : 6666
+                  "text" : "8.3 mi",
+                  "value" : 13394
                },
                "duration" : {
-                  "text" : "11 mins",
-                  "value" : 632
+                  "text" : "15 mins",
+                  "value" : 920
                },
                "status" : "OK"
             },
@@ -508,8 +511,8 @@
             },
             {
                "distance" : {
-                  "text" : "11.5 mi",
-                  "value" : 18427
+                  "text" : "11.4 mi",
+                  "value" : 18426
                },
                "duration" : {
                   "text" : "18 mins",
@@ -519,12 +522,12 @@
             },
             {
                "distance" : {
-                  "text" : "3.6 mi",
-                  "value" : 5724
+                  "text" : "2.6 mi",
+                  "value" : 4177
                },
                "duration" : {
-                  "text" : "9 mins",
-                  "value" : 543
+                  "text" : "6 mins",
+                  "value" : 364
                },
                "status" : "OK"
             },
@@ -558,6 +561,39 @@
                "duration" : {
                   "text" : "11 mins",
                   "value" : 679
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7704
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 531
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "362 mi",
+                  "value" : 582943
+               },
+               "duration" : {
+                  "text" : "5 hours 29 mins",
+                  "value" : 19710
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.9 mi",
+                  "value" : 17516
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1392
                },
                "status" : "OK"
             }

@@ -7,7 +7,27 @@
       "1000 S Fair Oaks Ave, Pasadena, CA 91105, USA",
       "1000 E Victoria St, Carson, CA 90747, USA",
       "880 S Arroyo Pkwy, Pasadena, CA 91105, USA",
-      "369 W Main St, Alhambra, CA 91801, USA"
+      "369 W Main St, Alhambra, CA 91801, USA",
+      "32115 Union Landing Blvd, Union City, CA 94587, USA",
+      "77 N Lake Ave, Pasadena, CA 91101, USA",
+      "11612 Amargosa Rd, Victorville, CA 92392, USA",
+      "1200 Bison Ave, Newport Beach, CA 92660, USA",
+      "400 S Vermont Ave, Los Angeles, CA 90005, USA",
+      "928 W Huntington Dr, Monrovia, CA 91016, USA",
+      "321 W Katella Ave Suite 101, Anaheim, CA 92802, USA",
+      "4422 Rosemead Blvd, Pico Rivera, CA 90660, USA",
+      "2 W Colorado Blvd, Pasadena, CA 91101, USA",
+      "820 W Huntington Dr, Monrovia, CA 91016, USA",
+      "21227 Hawthorne Blvd, Torrance, CA 90503, USA",
+      "3518 Rosemead Blvd, Rosemead, CA 91770, USA",
+      "234 E Colorado Blvd, Pasadena, CA 91101, USA",
+      "1200 E California Blvd, Pasadena, CA 91125, USA",
+      "1248 S Figueroa St #100, Los Angeles, CA 90015, USA",
+      "820 S Baldwin Ave, Arcadia, CA 91007, USA",
+      "21 E Main St, Alhambra, CA 91801, USA",
+      "117 W. Broadway, Glendale, CA 91204, USA",
+      "2271 S Atlantic Blvd, Monterey Park, CA 91754, USA",
+      "3333 E Foothill Blvd, Pasadena, CA 91107, USA"
    ],
    "origin_addresses" : [ "1200 E California Blvd, Pasadena, CA 91125, USA" ],
    "rows" : [
@@ -71,11 +91,11 @@
             {
                "distance" : {
                   "text" : "27.1 mi",
-                  "value" : 43641
+                  "value" : 43640
                },
                "duration" : {
                   "text" : "39 mins",
-                  "value" : 2337
+                  "value" : 2344
                },
                "status" : "OK"
             },
@@ -98,6 +118,226 @@
                "duration" : {
                   "text" : "12 mins",
                   "value" : 742
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "369 mi",
+                  "value" : 593248
+               },
+               "duration" : {
+                  "text" : "5 hours 32 mins",
+                  "value" : 19893
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 962
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 195
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "67.8 mi",
+                  "value" : 109157
+               },
+               "duration" : {
+                  "text" : "1 hour 7 mins",
+                  "value" : 4028
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "50.9 mi",
+                  "value" : 81977
+               },
+               "duration" : {
+                  "text" : "57 mins",
+                  "value" : 3442
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "13.5 mi",
+                  "value" : 21669
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1494
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.3 mi",
+                  "value" : 11682
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 851
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "36.4 mi",
+                  "value" : 58650
+               },
+               "duration" : {
+                  "text" : "45 mins",
+                  "value" : 2723
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.2 mi",
+                  "value" : 19585
+               },
+               "duration" : {
+                  "text" : "29 mins",
+                  "value" : 1743
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2506
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 433
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11305
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 656
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "30.1 mi",
+                  "value" : 48405
+               },
+               "duration" : {
+                  "text" : "48 mins",
+                  "value" : 2887
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12365
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1109
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2157
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 331
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "12.2 mi",
+                  "value" : 19621
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1379
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7037
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 676
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5976
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 700
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.0 mi",
+                  "value" : 16133
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1108
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.7 mi",
+                  "value" : 12314
+               },
+               "duration" : {
+                  "text" : "24 mins",
+                  "value" : 1448
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4644
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 540
                },
                "status" : "OK"
             }

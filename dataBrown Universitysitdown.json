@@ -7,7 +7,27 @@
       "1900 Brown St, Dayton, OH 45409, USA",
       "3007, 460 Putnam Pike, Greenville, RI 02828, United States",
       "45 Pleasant Valley Pkwy, Providence, RI 02908, USA",
-      "1177 Reservoir Ave, Cranston, RI 02920, USA"
+      "1177 Reservoir Ave, Cranston, RI 02920, USA",
+      "99 Garfield Ave, Cranston, RI 02920, USA",
+      "",
+      "825 Centre of New England Blvd, Coventry, RI 02816, USA",
+      "4 E University Dr, Tempe, AZ 85281, USA",
+      "",
+      "1818 University Dr NW, Huntsville, AL 35801, USA",
+      "700 E Grand Ave Suite 131, Chicago, IL 60611, USA",
+      "",
+      "94 Providence Pl, Providence, RI 02903, USA",
+      "3761 E Broadway Blvd, Tucson, AZ 85716, USA",
+      "2240 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "1105 Fall River Ave, Seekonk, MA 02771, USA",
+      "650 Bald Hill Rd suite c, Warwick, RI 02886, USA",
+      "",
+      "",
+      "",
+      "105 Highland Ave, Seekonk, MA 02771, USA",
+      "Te Ao Mārama, Ilam, Ōtautahi 8041, New Zealand",
+      "",
+      ""
    ],
    "origin_addresses" : [ "Providence, RI 02912, USA" ],
    "rows" : [
@@ -60,11 +80,11 @@
             {
                "distance" : {
                   "text" : "788 mi",
-                  "value" : 1268115
+                  "value" : 1268161
                },
                "duration" : {
-                  "text" : "12 hours 22 mins",
-                  "value" : 44512
+                  "text" : "12 hours 26 mins",
+                  "value" : 44748
                },
                "status" : "OK"
             },
@@ -100,6 +120,154 @@
                   "value" : 893
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5742
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 496
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "16.8 mi",
+                  "value" : 27030
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1270
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2,579 mi",
+                  "value" : 4150290
+               },
+               "duration" : {
+                  "text" : "1 day 15 hours",
+                  "value" : 139790
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,097 mi",
+                  "value" : 1765216
+               },
+               "duration" : {
+                  "text" : "16 hours 47 mins",
+                  "value" : 60400
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "969 mi",
+                  "value" : 1559966
+               },
+               "duration" : {
+                  "text" : "14 hours 48 mins",
+                  "value" : 53286
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1596
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 339
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2,579 mi",
+                  "value" : 4149799
+               },
+               "duration" : {
+                  "text" : "1 day 15 hours",
+                  "value" : 139524
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2,166 mi",
+                  "value" : 3486212
+               },
+               "duration" : {
+                  "text" : "1 day 8 hours",
+                  "value" : 116822
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.2 mi",
+                  "value" : 8436
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 616
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "10.7 mi",
+                  "value" : 17214
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 973
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7332
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 625
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "ZERO_RESULTS"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             }
          ]
       }

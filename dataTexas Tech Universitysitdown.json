@@ -4,10 +4,30 @@
       "4015 S Loop 289, Lubbock, TX 79423, USA",
       "5702 Slide Rd, Lubbock, TX 79414, USA",
       "3004 W Loop 289, Lubbock, TX 79407, USA",
-      "3112, 8212 University Ave, Lubbock, TX 79423, United States",
+      "6320 19th St, Lubbock, TX 79407, USA",
       "",
       "1627 University Ave, Lubbock, TX 79401, USA",
-      "607 Avenue Q, Lubbock, TX 79401, USA"
+      "607 Avenue Q, Lubbock, TX 79401, USA",
+      "4810 S Loop 289, Lubbock, TX 79414, USA",
+      "",
+      "5018 Milwaukee Ave, Lubbock, TX 79407, USA",
+      "",
+      "",
+      "5034 50th St, Lubbock, TX 79414, USA",
+      "#5 Kemah Boardwalk, Kemah, TX 77565, United States",
+      "",
+      "455 Commerce St, Fort Worth, TX 76102, USA",
+      "",
+      "2240 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "6201 Slide Rd, Lubbock, TX 79414, USA",
+      "4805 S Loop 289 Bldg #100, Lubbock, TX 79424, USA",
+      "",
+      "4950 S Loop 289, Lubbock, TX 79424, USA",
+      "",
+      "4025 S Loop 289, Lubbock, TX 79423, USA",
+      "",
+      "",
+      ""
    ],
    "origin_addresses" : [ "2500 Broadway, Lubbock, TX 79409, USA" ],
    "rows" : [
@@ -59,12 +79,12 @@
             },
             {
                "distance" : {
-                  "text" : "4.4 mi",
-                  "value" : 7060
+                  "text" : "3.3 mi",
+                  "value" : 5384
                },
                "duration" : {
-                  "text" : "11 mins",
-                  "value" : 635
+                  "text" : "7 mins",
+                  "value" : 428
                },
                "status" : "OK"
             },
@@ -92,6 +112,146 @@
                   "value" : 363
                },
                "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.8 mi",
+                  "value" : 7647
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 646
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.3 mi",
+                  "value" : 8553
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 427
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6979
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 565
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "556 mi",
+                  "value" : 894091
+               },
+               "duration" : {
+                  "text" : "8 hours 50 mins",
+                  "value" : 31797
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "317 mi",
+                  "value" : 510135
+               },
+               "duration" : {
+                  "text" : "4 hours 38 mins",
+                  "value" : 16687
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "314 mi",
+                  "value" : 504757
+               },
+               "duration" : {
+                  "text" : "4 hours 55 mins",
+                  "value" : 17695
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.3 mi",
+                  "value" : 10167
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 656
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.1 mi",
+                  "value" : 9811
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 449
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.0 mi",
+                  "value" : 8080
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 672
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11130
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 568
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             }
          ]
       }

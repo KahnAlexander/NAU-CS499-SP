@@ -2,13 +2,21 @@
    "destination_addresses" : [
       "",
       "",
-      "",
+      "615 University Dr E, College Station, TX 77840, USA",
       "",
       "",
       "",
       "",
       "1405 Earl Rudder Fwy S, College Station, TX 77845, USA",
-      "2955 Kirby Dr, Houston, TX 77098, USA"
+      "",
+      "",
+      "",
+      "",
+      "",
+      "1900 Texas Avenue South, College Station, TX 77840, USA",
+      "2303 Boonville Rd, Bryan, TX 77808, USA",
+      "2100 Texas Avenue South, College Station, TX 77840, USA",
+      "1815 Brothers Blvd, College Station, TX 77845, USA"
    ],
    "origin_addresses" : [ "400 Bizzell St, College Station, TX 77843, USA" ],
    "rows" : [
@@ -21,7 +29,15 @@
                "status" : "NOT_FOUND"
             },
             {
-               "status" : "NOT_FOUND"
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2653
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 418
+               },
+               "status" : "OK"
             },
             {
                "status" : "NOT_FOUND"
@@ -47,13 +63,61 @@
                "status" : "OK"
             },
             {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
                "distance" : {
-                  "text" : "95.5 mi",
-                  "value" : 153771
+                  "text" : "1.6 mi",
+                  "value" : 2537
                },
                "duration" : {
-                  "text" : "1 hour 36 mins",
-                  "value" : 5779
+                  "text" : "5 mins",
+                  "value" : 304
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.6 mi",
+                  "value" : 8949
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 911
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.9 mi",
+                  "value" : 3039
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 420
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5196
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 593
                },
                "status" : "OK"
             }

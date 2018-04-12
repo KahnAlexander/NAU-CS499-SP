@@ -8,7 +8,15 @@
       "",
       "",
       "6185 Retail Rd, Dallas, TX 75231, USA",
-      "8190 Park Ln Ste 351, Dallas, TX 75231, USA"
+      "8190 Park Ln Ste 351, Dallas, TX 75231, USA",
+      "6401 Abrams Rd Suite 136, Dallas, TX 75231, USA",
+      "",
+      "",
+      "",
+      "",
+      "5665 E Mockingbird Ln, Dallas, TX 75206, USA",
+      "6464 E NW Hwy STE 212, Dallas, TX 75214, USA",
+      "6185 Retail Rd, Dallas, TX 75231, USA"
    ],
    "origin_addresses" : [ "Dallas, TX 75205, USA" ],
    "rows" : [
@@ -62,6 +70,62 @@
                "duration" : {
                   "text" : "6 mins",
                   "value" : 361
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5729
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 563
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1020
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 194
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3307
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 459
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4273
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 373
                },
                "status" : "OK"
             }

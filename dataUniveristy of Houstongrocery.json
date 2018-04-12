@@ -8,7 +8,15 @@
       "10241 N Fwy Service Rd, Houston, TX 77037, USA",
       "3836 Richmond Ave, Houston, TX 77027, USA",
       "5310 S Rice Ave, Houston, TX 77081, USA",
-      "701 Waugh Dr, Houston, TX 77019, USA"
+      "701 Waugh Dr, Houston, TX 77019, USA",
+      "4400 North Fwy, Houston, TX 77022, USA",
+      "4004 Bellaire Blvd, Houston, TX 77025, USA",
+      "",
+      "25 University Ave SE, Minneapolis, MN 55414, USA",
+      "6102 Scott St, Houston, TX 77021, USA",
+      "4000 Polk St, Houston, TX 77023, USA",
+      "2580 Shearn St, Houston, TX 77007, USA",
+      "2391 S Wayside Dr, Houston, TX 77023, USA"
    ],
    "origin_addresses" : [ "4800 Calhoun Rd, Houston, TX 77004, USA" ],
    "rows" : [
@@ -86,6 +94,86 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 760
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13763
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 856
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.6 mi",
+                  "value" : 13761
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1032
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,183 mi",
+                  "value" : 1904313
+               },
+               "duration" : {
+                  "text" : "17 hours 41 mins",
+                  "value" : 63649
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2320
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 313
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1539
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 258
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9520
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 800
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3506
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 379
                },
                "status" : "OK"
             }

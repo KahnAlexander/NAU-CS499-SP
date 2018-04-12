@@ -21,7 +21,7 @@
       "3558 SW College Rd, Ocala, FL 34474, USA",
       "204 Dartmouth College Hwy, Lyme, NH 03768, USA",
       "",
-      "585 W Main St, Tilton, NH 03276, USA",
+      "196 Loudon Rd, Concord, NH 03301, USA",
       "",
       "895-A Rockville Pike, Rockville, MD 20852, United States",
       "197 S Main St, West Lebanon, NH 03784, USA",
@@ -42,12 +42,15 @@
       "15 Akerley Blvd, Dartmouth, NS B3B 1J6, Canada",
       "349 State Rd, North Dartmouth, MA 02747, USA",
       "44 S Main St, Hanover, NH 03755, USA",
-      "1919 N College Ave, Bloomington, IN 47404, USA",
+      "43 S Main St, Hanover, NH 03755, USA",
       "7 S Main St, Hanover, NH 03755-204812:00AM, USA",
       "",
       "234 N Main St, Concord, NH 03301, USA",
       "",
       "483 College Blvd, Oceanside, CA 92057, USA",
+      "",
+      "",
+      "",
       ""
    ],
    "origin_addresses" : [ "Hanover, NH 03755, USA" ],
@@ -212,22 +215,22 @@
             {
                "distance" : {
                   "text" : "968 mi",
-                  "value" : 1557936
+                  "value" : 1558044
                },
                "duration" : {
                   "text" : "15 hours 8 mins",
-                  "value" : 54489
+                  "value" : 54465
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "1,301 mi",
-                  "value" : 2094161
+                  "value" : 2094176
                },
                "duration" : {
-                  "text" : "19 hours 39 mins",
-                  "value" : 70715
+                  "text" : "19 hours 38 mins",
+                  "value" : 70696
                },
                "status" : "OK"
             },
@@ -247,12 +250,12 @@
             },
             {
                "distance" : {
-                  "text" : "52.3 mi",
-                  "value" : 84174
+                  "text" : "66.1 mi",
+                  "value" : 106402
                },
                "duration" : {
-                  "text" : "1 hour 7 mins",
-                  "value" : 4033
+                  "text" : "1 hour 8 mins",
+                  "value" : 4077
                },
                "status" : "OK"
             },
@@ -262,11 +265,11 @@
             {
                "distance" : {
                   "text" : "493 mi",
-                  "value" : 792721
+                  "value" : 792691
                },
                "duration" : {
                   "text" : "7 hours 45 mins",
-                  "value" : 27905
+                  "value" : 27882
                },
                "status" : "OK"
             },
@@ -333,7 +336,7 @@
                },
                "duration" : {
                   "text" : "14 hours 17 mins",
-                  "value" : 51407
+                  "value" : 51409
                },
                "status" : "OK"
             },
@@ -393,7 +396,7 @@
             {
                "distance" : {
                   "text" : "184 mi",
-                  "value" : 295492
+                  "value" : 295491
                },
                "duration" : {
                   "text" : "3 hours 0 mins",
@@ -414,12 +417,12 @@
             },
             {
                "distance" : {
-                  "text" : "966 mi",
-                  "value" : 1553945
+                  "text" : "0.1 mi",
+                  "value" : 169
                },
                "duration" : {
-                  "text" : "15 hours 9 mins",
-                  "value" : 54530
+                  "text" : "1 min",
+                  "value" : 60
                },
                "status" : "OK"
             },
@@ -453,14 +456,23 @@
             },
             {
                "distance" : {
-                  "text" : "2,978 mi",
-                  "value" : 4791920
+                  "text" : "2,980 mi",
+                  "value" : 4795419
                },
                "duration" : {
                   "text" : "1 day 20 hours",
-                  "value" : 158998
+                  "value" : 159121
                },
                "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             },
             {
                "status" : "NOT_FOUND"

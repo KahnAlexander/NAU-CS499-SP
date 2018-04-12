@@ -7,7 +7,27 @@
       "2312 W Loop 340, Waco, TX 76711, USA",
       "1301 S University Parks Dr, Waco, TX 76706, USA",
       "1000 S 4th St, Waco, TX 76706, USA",
-      "709 N. I-35, Bellmead, TX 76705, United States"
+      "709 N. I-35, Bellmead, TX 76705, United States",
+      "2815 La Salle Ave, Waco, TX 76706, USA",
+      "",
+      "4275 N Interstate 35 Frontage Rd, Lacy Lakeview, TX 76705, USA",
+      "4 E University Dr, Tempe, AZ 85281, USA",
+      "",
+      "5925 W Waco Dr, Waco, TX 76710, USA",
+      "429 Decatur St, New Orleans, LA 70130, USA",
+      "",
+      "375 University Ave, Palo Alto, CA 94301, USA",
+      "190 S State College Blvd, Brea, CA 92821, USA",
+      "2240 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "90 N University Dr, Pembroke Pines, FL 33024, USA",
+      "5929 W Waco Dr, Waco, TX 76710, USA",
+      "",
+      "3921 S. Jack Kultgen Freeway, Waco, TX 76711, United States",
+      "",
+      "614 N Valley Mills Dr, Waco, TX 76710, USA",
+      "",
+      "",
+      "132-07 14th Ave, Flushing, NY 11356, USA"
    ],
    "origin_addresses" : [ "1301 S University Parks Dr, Waco, TX 76706, USA" ],
    "rows" : [
@@ -98,6 +118,170 @@
                "duration" : {
                   "text" : "4 mins",
                   "value" : 255
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 3961
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 343
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.4 mi",
+                  "value" : 7050
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 388
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,043 mi",
+                  "value" : 1678288
+               },
+               "duration" : {
+                  "text" : "15 hours 21 mins",
+                  "value" : 55262
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11109
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 757
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "528 mi",
+                  "value" : 850205
+               },
+               "duration" : {
+                  "text" : "7 hours 58 mins",
+                  "value" : 28702
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,768 mi",
+                  "value" : 2845928
+               },
+               "duration" : {
+                  "text" : "1 day 2 hours",
+                  "value" : 94039
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,402 mi",
+                  "value" : 2255828
+               },
+               "duration" : {
+                  "text" : "20 hours 33 mins",
+                  "value" : 73974
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "705 mi",
+                  "value" : 1134113
+               },
+               "duration" : {
+                  "text" : "10 hours 22 mins",
+                  "value" : 37319
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,350 mi",
+                  "value" : 2173114
+               },
+               "duration" : {
+                  "text" : "19 hours 18 mins",
+                  "value" : 69458
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11185
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 766
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.5 mi",
+                  "value" : 5638
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 341
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.9 mi",
+                  "value" : 7806
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 732
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,660 mi",
+                  "value" : 2671928
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 88339
                },
                "status" : "OK"
             }

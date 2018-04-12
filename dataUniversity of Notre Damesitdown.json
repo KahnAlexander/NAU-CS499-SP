@@ -7,6 +7,26 @@
       "326 W Ireland Rd, South Bend, IN 46614, USA",
       "",
       "4115 N Main St, Mishawaka, IN 46545, USA",
+      "",
+      "4635 S Michigan St, South Bend, IN 46614, USA",
+      "",
+      "110 Northpointe Blvd, Elkhart, IN 46514, USA",
+      "4 E University Dr, Tempe, AZ 85281, USA",
+      "",
+      "3930 N Main St, Mishawaka, IN 46545, USA",
+      "700 E Grand Ave Suite 131, Chicago, IL 60611, USA",
+      "",
+      "",
+      "",
+      "2240 Louisiana Blvd NE, Albuquerque, NM 87110, USA",
+      "4730 Grape Rd, Mishawaka, IN 46545, USA",
+      "101 E Joppa Rd, Towson, MD 21286, USA",
+      "",
+      "205 W Day Rd, Mishawaka, IN 46545, USA",
+      "",
+      "6615 N Main St, Granger, IN 46530, USA",
+      "Duck Island, Notre Dame, IN 46556, USA",
+      "",
       ""
    ],
    "origin_addresses" : [ "Notre Dame, IN 46556, USA" ],
@@ -81,6 +101,154 @@
                   "value" : 518
                },
                "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.4 mi",
+                  "value" : 8744
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 894
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "18.2 mi",
+                  "value" : 29250
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1282
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,813 mi",
+                  "value" : 2918045
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 96695
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.3 mi",
+                  "value" : 5325
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 524
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "95.5 mi",
+                  "value" : 153616
+               },
+               "duration" : {
+                  "text" : "1 hour 38 mins",
+                  "value" : 5857
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "1,401 mi",
+                  "value" : 2253967
+               },
+               "duration" : {
+                  "text" : "20 hours 29 mins",
+                  "value" : 73726
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4302
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 405
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "616 mi",
+                  "value" : 992121
+               },
+               "duration" : {
+                  "text" : "9 hours 15 mins",
+                  "value" : 33289
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5126
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 492
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5738
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 549
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2241
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 300
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
             },
             {
                "status" : "NOT_FOUND"

@@ -1,7 +1,7 @@
 {
    "destination_addresses" : [
       "153-157A Massachusetts Ave, Boston, MA 02115, USA",
-      "463 Massachusetts Ave, Cambridge, MA 02139, USA",
+      "360 Western Ave, Boston, MA 02135, USA",
       "185 Somerville Ave, Somerville, MA 02143, USA",
       "775 Commonwealth Avenue, Boston, MA 02215, USA",
       "1223 Commonwealth Avenue, Boston, MA 02134, USA",
@@ -27,12 +27,12 @@
       "30 N Beacon St, Allston, MA 02134, USA",
       "",
       "495 Riverside Ave, Medford, MA 02155, USA",
-      "Northeastern University 360 Huntington Ave, Boston, MA 02115, United States",
+      "21 Brookline Ave, Boston, MA 02215, USA",
       "60 Valenti Way, Boston, MA 02114, USA",
       "42 Boston Post Rd W, Marlborough, MA 01752, USA",
       "",
       "",
-      "204 W University Dr, McKinney, TX 75069, USA",
+      "",
       "",
       "61 Church St, Cambridge, MA 02138, USA",
       "",
@@ -42,13 +42,16 @@
       "",
       "1 Brattle Square, Cambridge, MA 02138, USA",
       "1380 Massachusetts Ave, Cambridge, MA 02138, USA",
-      "92 Winthrop St, Cambridge, MA 02138, USA",
+      "",
       "11 Oxford St, Cambridge, MA 02138, USA",
       "",
       "622 Somerville Ave, Somerville, MA 02143, USA",
       "",
       "2822 W University Dr, Denton, TX 76201, USA",
-      "300 Terminal \"C\" Rd, Gate C28, Boston, MA 02128, United States"
+      "300 Terminal \"C\" Rd, Gate C28, Boston, MA 02128, United States",
+      "",
+      "452 University Ave, Palo Alto, CA 94301, USA",
+      "92 Winthrop St, Cambridge, MA 02138, USA"
    ],
    "origin_addresses" : [ "Cambridge, MA 02138, USA" ],
    "rows" : [
@@ -67,12 +70,12 @@
             },
             {
                "distance" : {
-                  "text" : "1.0 mi",
-                  "value" : 1540
+                  "text" : "1.2 mi",
+                  "value" : 1855
                },
                "duration" : {
-                  "text" : "7 mins",
-                  "value" : 414
+                  "text" : "6 mins",
+                  "value" : 344
                },
                "status" : "OK"
             },
@@ -83,7 +86,7 @@
                },
                "duration" : {
                   "text" : "7 mins",
-                  "value" : 429
+                  "value" : 428
                },
                "status" : "OK"
             },
@@ -94,7 +97,7 @@
                },
                "duration" : {
                   "text" : "9 mins",
-                  "value" : 511
+                  "value" : 512
                },
                "status" : "OK"
             },
@@ -182,7 +185,7 @@
                },
                "duration" : {
                   "text" : "23 hours 18 mins",
-                  "value" : 83855
+                  "value" : 83859
                },
                "status" : "OK"
             },
@@ -216,12 +219,12 @@
             },
             {
                "distance" : {
-                  "text" : "2,984 mi",
-                  "value" : 4801486
+                  "text" : "2,986 mi",
+                  "value" : 4804986
                },
                "duration" : {
                   "text" : "1 day 20 hours",
-                  "value" : 156958
+                  "value" : 157081
                },
                "status" : "OK"
             },
@@ -238,23 +241,23 @@
             },
             {
                "distance" : {
-                  "text" : "1,285 mi",
-                  "value" : 2067289
+                  "text" : "1,284 mi",
+                  "value" : 2065986
                },
                "duration" : {
-                  "text" : "18 hours 59 mins",
-                  "value" : 68322
+                  "text" : "18 hours 57 mins",
+                  "value" : 68239
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "1,228 mi",
-                  "value" : 1976242
+                  "text" : "1,227 mi",
+                  "value" : 1974938
                },
                "duration" : {
-                  "text" : "18 hours 17 mins",
-                  "value" : 65833
+                  "text" : "18 hours 16 mins",
+                  "value" : 65749
                },
                "status" : "OK"
             },
@@ -268,29 +271,29 @@
                },
                "duration" : {
                   "text" : "16 hours 2 mins",
-                  "value" : 57727
+                  "value" : 57728
                },
                "status" : "OK"
             },
             {
                "distance" : {
                   "text" : "1,766 mi",
-                  "value" : 2842549
+                  "value" : 2842546
                },
                "duration" : {
                   "text" : "1 day 2 hours",
-                  "value" : 94244
+                  "value" : 94246
                },
                "status" : "OK"
             },
             {
                "distance" : {
-                  "text" : "437 mi",
-                  "value" : 702505
+                  "text" : "436 mi",
+                  "value" : 702475
                },
                "duration" : {
-                  "text" : "6 hours 54 mins",
-                  "value" : 24819
+                  "text" : "6 hours 53 mins",
+                  "value" : 24796
                },
                "status" : "OK"
             },
@@ -311,7 +314,7 @@
             {
                "distance" : {
                   "text" : "3.6 mi",
-                  "value" : 5734
+                  "value" : 5733
                },
                "duration" : {
                   "text" : "17 mins",
@@ -321,12 +324,12 @@
             },
             {
                "distance" : {
-                  "text" : "4.9 mi",
-                  "value" : 7812
+                  "text" : "5.3 mi",
+                  "value" : 8555
                },
                "duration" : {
-                  "text" : "15 mins",
-                  "value" : 872
+                  "text" : "14 mins",
+                  "value" : 852
                },
                "status" : "OK"
             },
@@ -359,15 +362,7 @@
                "status" : "NOT_FOUND"
             },
             {
-               "distance" : {
-                  "text" : "1,745 mi",
-                  "value" : 2808567
-               },
-               "duration" : {
-                  "text" : "1 day 2 hours",
-                  "value" : 93688
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "status" : "NOT_FOUND"
@@ -411,7 +406,7 @@
             {
                "distance" : {
                   "text" : "3.4 mi",
-                  "value" : 5489
+                  "value" : 5488
                },
                "duration" : {
                   "text" : "16 mins",
@@ -445,15 +440,7 @@
                "status" : "OK"
             },
             {
-               "distance" : {
-                  "text" : "0.9 mi",
-                  "value" : 1429
-               },
-               "duration" : {
-                  "text" : "4 mins",
-                  "value" : 240
-               },
-               "status" : "OK"
+               "status" : "NOT_FOUND"
             },
             {
                "distance" : {
@@ -486,11 +473,11 @@
             {
                "distance" : {
                   "text" : "1,803 mi",
-                  "value" : 2901000
+                  "value" : 2900996
                },
                "duration" : {
                   "text" : "1 day 3 hours",
-                  "value" : 96265
+                  "value" : 96294
                },
                "status" : "OK"
             },
@@ -502,6 +489,31 @@
                "duration" : {
                   "text" : "13 mins",
                   "value" : 806
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3,127 mi",
+                  "value" : 5031725
+               },
+               "duration" : {
+                  "text" : "1 day 22 hours",
+                  "value" : 166136
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1429
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 240
                },
                "status" : "OK"
             }

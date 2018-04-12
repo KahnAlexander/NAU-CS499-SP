@@ -7,7 +7,27 @@
       "360 Brown St, West Lafayette, IN 47906, USA",
       "2839 Teal Rd W, Lafayette, IN 47905, USA",
       "4215 State Road 26 E, Lafayette, IN 47905, United States",
-      "4260 South St, Lafayette, IN 47905, USA"
+      "4260 South St, Lafayette, IN 47905, USA",
+      "3615 State Road 38 East, Lafayette, IN 47905, USA",
+      "",
+      "40 Frontage Rd, Lafayette, IN 47905, USA",
+      "4 E University Dr, Tempe, AZ 85281, USA",
+      "",
+      "120 S Creasy Ln, Lafayette, IN 47905, USA",
+      "700 E Grand Ave Suite 131, Chicago, IL 60611, USA",
+      "",
+      "375 University Ave, Palo Alto, CA 94301, USA",
+      "",
+      "6063 Sunrise Blvd, Citrus Heights, CA 95610, USA",
+      "110 S Creasy Ln, Lafayette, IN 47905, USA",
+      "10367 E US Hwy 36, Avon, IN 46123, USA",
+      "",
+      "2327 Sagamore Pkwy S, Lafayette, IN 47905, USA",
+      "",
+      "3009 Northwestern Ave, West Lafayette, IN 47906, USA",
+      "",
+      "",
+      "404 N Earl Ave, Lafayette, IN 47904, USA"
    ],
    "origin_addresses" : [ "610 Purdue Mall, West Lafayette, IN 47907, USA" ],
    "rows" : [
@@ -98,6 +118,162 @@
                "duration" : {
                   "text" : "16 mins",
                   "value" : 985
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.5 mi",
+                  "value" : 7216
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 838
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "5.8 mi",
+                  "value" : 9405
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1045
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "1,717 mi",
+                  "value" : 2763326
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 91752
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7421
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 828
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "123 mi",
+                  "value" : 198015
+               },
+               "duration" : {
+                  "text" : "2 hours 5 mins",
+                  "value" : 7482
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2,264 mi",
+                  "value" : 3643893
+               },
+               "duration" : {
+                  "text" : "1 day 9 hours",
+                  "value" : 119950
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "2,135 mi",
+                  "value" : 3435812
+               },
+               "duration" : {
+                  "text" : "1 day 7 hours",
+                  "value" : 112876
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "4.6 mi",
+                  "value" : 7416
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 827
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "64.6 mi",
+                  "value" : 104018
+               },
+               "duration" : {
+                  "text" : "1 hour 9 mins",
+                  "value" : 4145
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "4.3 mi",
+                  "value" : 6950
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 832
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.6 mi",
+                  "value" : 5855
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 380
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5138
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 584
                },
                "status" : "OK"
             }

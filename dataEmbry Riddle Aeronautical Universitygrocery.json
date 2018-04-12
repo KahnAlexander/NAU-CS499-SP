@@ -8,6 +8,14 @@
       "",
       "",
       "1175 Beville Rd, Daytona Beach, FL 32119, USA",
+      "",
+      "600 S Clyde Morris Blvd, Daytona Beach, FL 32114, USA",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
    ],
    "origin_addresses" : [ "600 S Clyde Morris Blvd, Daytona Beach, FL 32114, USA" ],
@@ -45,6 +53,38 @@
                   "value" : 276
                },
                "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1114
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 196
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
             },
             {
                "status" : "NOT_FOUND"

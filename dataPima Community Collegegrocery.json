@@ -2,13 +2,21 @@
    "destination_addresses" : [
       "2202 W Anklam Rd, Tucson, AZ 85745, USA",
       "1767 E Prince Rd, Tucson, AZ 85719, USA",
-      "1350 N Silverbell Rd, Tucson, AZ 85745, USA",
+      "2854 N Campbell Ave, Tucson, AZ 85719, USA",
       "",
       "4282 N 1st Ave, Tucson, AZ 85719, USA",
       "4036 N 1st Ave, Tucson, AZ 85719, USA",
-      "1650 E Tucson Marketplace Blvd, Tucson, AZ 85713, USA",
+      "3901 W Costco Dr, Tucson, AZ 85741, USA",
       "4701 N Stone Ave, Tucson, AZ 85704, USA",
-      "3360 E Speedway Blvd, Tucson, AZ 85716, USA"
+      "3360 E Speedway Blvd, Tucson, AZ 85716, USA",
+      "4154 E 22nd St, Tucson, AZ 85711, USA",
+      "3360 E Speedway Blvd, Tucson, AZ 85716, USA",
+      "",
+      "",
+      "",
+      "",
+      "3699 E Broadway Blvd, Tucson, AZ 85716, USA",
+      "7150 E Speedway Blvd, Tucson, AZ 85710, USA"
    ],
    "origin_addresses" : [ "2202 W Anklam Rd, Tucson, AZ 85745, USA" ],
    "rows" : [
@@ -38,12 +46,12 @@
             },
             {
                "distance" : {
-                  "text" : "1.8 mi",
-                  "value" : 2904
+                  "text" : "6.4 mi",
+                  "value" : 10370
                },
                "duration" : {
-                  "text" : "5 mins",
-                  "value" : 302
+                  "text" : "18 mins",
+                  "value" : 1080
                },
                "status" : "OK"
             },
@@ -74,12 +82,12 @@
             },
             {
                "distance" : {
-                  "text" : "8.4 mi",
-                  "value" : 13574
+                  "text" : "10.5 mi",
+                  "value" : 16830
                },
                "duration" : {
-                  "text" : "16 mins",
-                  "value" : 978
+                  "text" : "18 mins",
+                  "value" : 1084
                },
                "status" : "OK"
             },
@@ -102,6 +110,62 @@
                "duration" : {
                   "text" : "18 mins",
                   "value" : 1053
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "8.5 mi",
+                  "value" : 13613
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1114
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "6.2 mi",
+                  "value" : 9990
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1053
+               },
+               "status" : "OK"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "status" : "NOT_FOUND"
+            },
+            {
+               "distance" : {
+                  "text" : "6.9 mi",
+                  "value" : 11050
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1209
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "11.1 mi",
+                  "value" : 17890
+               },
+               "duration" : {
+                  "text" : "30 mins",
+                  "value" : 1808
                },
                "status" : "OK"
             }

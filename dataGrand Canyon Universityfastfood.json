@@ -40,7 +40,7 @@
       "7795 N 59th Ave, Glendale, AZ 85301, USA",
       "3155 W Indian School Rd B, Phoenix, AZ 85017, USA",
       "",
-      "1515 N 7th Ave #120, Phoenix, AZ 85007, USA",
+      "7427 W Thomas Rd, Phoenix, AZ 85033, USA",
       "3320 W Bethany Home Rd #100, Phoenix, AZ 85017, USA",
       "9801 N Black Canyon Hwy, Phoenix, AZ 85021, USA",
       "2131 E Camelback Rd, Phoenix, AZ 85016, USA",
@@ -48,7 +48,10 @@
       "3441 W Northern Ave, Phoenix, AZ 85051, USA",
       "65 S McClintock Dr, Tempe, AZ 85281, USA",
       "4325 W Bethany Home Rd, Glendale, AZ 85301, USA",
-      ""
+      "7700 W Arrowhead Towne Center S - 2202, Glendale, AZ 85308, USA",
+      "9016 N Black Canyon Hwy, Phoenix, AZ 85051, USA",
+      "189 The Grove Dr C-10, Los Angeles, CA 90036, USA",
+      "100 E Camelback Rd, Phoenix, AZ 85012, USA"
    ],
    "origin_addresses" : [ "3300 W Camelback Rd, Phoenix, AZ 85017, USA" ],
    "rows" : [
@@ -376,11 +379,11 @@
             {
                "distance" : {
                   "text" : "4.2 mi",
-                  "value" : 6724
+                  "value" : 6709
                },
                "duration" : {
                   "text" : "12 mins",
-                  "value" : 701
+                  "value" : 696
                },
                "status" : "OK"
             },
@@ -472,12 +475,12 @@
             },
             {
                "distance" : {
-                  "text" : "6.1 mi",
-                  "value" : 9815
+                  "text" : "7.3 mi",
+                  "value" : 11809
                },
                "duration" : {
-                  "text" : "10 mins",
-                  "value" : 584
+                  "text" : "18 mins",
+                  "value" : 1075
                },
                "status" : "OK"
             },
@@ -516,12 +519,12 @@
             },
             {
                "distance" : {
-                  "text" : "18.3 mi",
-                  "value" : 29448
+                  "text" : "18.6 mi",
+                  "value" : 29963
                },
                "duration" : {
-                  "text" : "31 mins",
-                  "value" : 1871
+                  "text" : "32 mins",
+                  "value" : 1908
                },
                "status" : "OK"
             },
@@ -543,7 +546,7 @@
                },
                "duration" : {
                   "text" : "20 mins",
-                  "value" : 1179
+                  "value" : 1183
                },
                "status" : "OK"
             },
@@ -559,7 +562,48 @@
                "status" : "OK"
             },
             {
-               "status" : "NOT_FOUND"
+               "distance" : {
+                  "text" : "12.5 mi",
+                  "value" : 20092
+               },
+               "duration" : {
+                  "text" : "28 mins",
+                  "value" : 1662
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11326
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 672
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "383 mi",
+                  "value" : 615635
+               },
+               "duration" : {
+                  "text" : "5 hours 54 mins",
+                  "value" : 21214
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5155
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 633
+               },
+               "status" : "OK"
             }
          ]
       }
